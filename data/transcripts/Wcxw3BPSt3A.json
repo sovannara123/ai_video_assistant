@@ -1,0 +1,2046 @@
+{
+  "video_id": "Wcxw3BPSt3A",
+  "url": "https://youtu.be/Wcxw3BPSt3A?si=1gQgJGo-Y4mjcdfw",
+  "raw_transcript": [
+    {
+      "text": "- We all know sound is important, right?",
+      "start": 0.18,
+      "duration": 2.25
+    },
+    {
+      "text": "Footage often arrives from production MOS,",
+      "start": 2.43,
+      "duration": 3.27
+    },
+    {
+      "text": "or without sound.",
+      "start": 5.7,
+      "duration": 1.26
+    },
+    {
+      "text": "Or you could also say without personality.",
+      "start": 6.96,
+      "duration": 2.25
+    },
+    {
+      "text": "It's up to the editor to\ngive the footage character,",
+      "start": 9.21,
+      "duration": 2.97
+    },
+    {
+      "text": "often through the use of sound design.",
+      "start": 12.18,
+      "duration": 2.43
+    },
+    {
+      "text": "Today, we're gonna sound design a sequence",
+      "start": 14.61,
+      "duration": 2.04
+    },
+    {
+      "text": "from a dark comedy.",
+      "start": 16.65,
+      "duration": 1.26
+    },
+    {
+      "text": "To make things interesting,",
+      "start": 17.91,
+      "duration": 1.5
+    },
+    {
+      "text": "we're gonna create two versions.",
+      "start": 19.41,
+      "duration": 1.92
+    },
+    {
+      "text": "First, a quick initial pass.",
+      "start": 21.33,
+      "duration": 2.07
+    },
+    {
+      "text": "Then we'll critique it",
+      "start": 23.4,
+      "duration": 1.29
+    },
+    {
+      "text": "and take our time making a second version,",
+      "start": 24.69,
+      "duration": 2.25
+    },
+    {
+      "text": "where the sound works much better.",
+      "start": 26.94,
+      "duration": 2.04
+    },
+    {
+      "text": "All right, let's begin.",
+      "start": 28.98,
+      "duration": 1.582
+    },
+    {
+      "text": "(upbeat music)",
+      "start": 30.562,
+      "duration": 2.583
+    },
+    {
+      "text": "There are three steps to\nmaking your edit sound awesome.",
+      "start": 35.4,
+      "duration": 3.81
+    },
+    {
+      "text": "One, score.",
+      "start": 39.21,
+      "duration": 1.47
+    },
+    {
+      "text": "Even if a composer will\nbe scoring music later,",
+      "start": 40.68,
+      "duration": 2.82
+    },
+    {
+      "text": "it's important to add temp music.",
+      "start": 43.5,
+      "duration": 1.77
+    },
+    {
+      "text": "This is gonna help you design\nyour sound effects in context,",
+      "start": 45.27,
+      "duration": 2.76
+    },
+    {
+      "text": "and it's also gonna help others\nto understand your vision.",
+      "start": 48.03,
+      "duration": 2.91
+    },
+    {
+      "text": "Two, ambience and foley.",
+      "start": 50.94,
+      "duration": 2.1
+    },
+    {
+      "text": "We should be able to\nhear everything we see.",
+      "start": 53.04,
+      "duration": 2.04
+    },
+    {
+      "text": "Remember, nothing is silent,",
+      "start": 55.08,
+      "duration": 1.71
+    },
+    {
+      "text": "so even an empty room is gonna make noise.",
+      "start": 56.79,
+      "duration": 2.97
+    },
+    {
+      "text": "Three, finally,",
+      "start": 59.76,
+      "duration": 1.35
+    },
+    {
+      "text": "we can reinforce moments\nwith creative sound design.",
+      "start": 61.11,
+      "duration": 3.0
+    },
+    {
+      "text": "Not everything needs to\nsound the way it looks.",
+      "start": 64.11,
+      "duration": 2.82
+    },
+    {
+      "text": "We can even add sounds for\nthings that we can't see,",
+      "start": 66.93,
+      "duration": 2.55
+    },
+    {
+      "text": "like thoughts, feelings, and camera moves.",
+      "start": 69.48,
+      "duration": 3.15
+    },
+    {
+      "text": "Let's start by familiarizing\nourselves with a footage",
+      "start": 72.63,
+      "duration": 2.97
+    },
+    {
+      "text": "that we're gonna be editing here.",
+      "start": 75.6,
+      "duration": 1.41
+    },
+    {
+      "text": "It's a short film by Craig\nD. Foster called \"Overtime.\"",
+      "start": 77.01,
+      "duration": 3.75
+    },
+    {
+      "text": "We'll skip through it a bit quickly.",
+      "start": 80.76,
+      "duration": 1.53
+    },
+    {
+      "text": "The movie opens showing\nRalph at work in his office.",
+      "start": 82.29,
+      "duration": 2.79
+    },
+    {
+      "text": "Ordinary paperwork is\nmade to appear menacing.",
+      "start": 85.08,
+      "duration": 3.03
+    },
+    {
+      "text": "Then there's some dialogue at the end.",
+      "start": 88.11,
+      "duration": 1.95
+    },
+    {
+      "text": "Ralph is evidently anxious to get home,",
+      "start": 90.06,
+      "duration": 2.64
+    },
+    {
+      "text": "but is delayed when his boss, Simon,",
+      "start": 92.7,
+      "duration": 2.16
+    },
+    {
+      "text": "arrives with more work.",
+      "start": 94.86,
+      "duration": 1.44
+    },
+    {
+      "text": "Queue the movie's main title card.",
+      "start": 96.3,
+      "duration": 2.61
+    },
+    {
+      "text": "All right, without further\nado, here's our initial pass.",
+      "start": 98.91,
+      "duration": 3.3
+    },
+    {
+      "text": "Using stock libraries,",
+      "start": 102.21,
+      "duration": 1.41
+    },
+    {
+      "text": "we've added score, sound\neffects, and sound design.",
+      "start": 103.62,
+      "duration": 3.09
+    },
+    {
+      "text": "Let's take a listen.",
+      "start": 106.71,
+      "duration": 1.0
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 110.216,
+      "duration": 3.0
+    },
+    {
+      "text": "(staple rips from paper)",
+      "start": 117.294,
+      "duration": 2.914
+    },
+    {
+      "text": "(pen swipes)\n(keyboard clicks)",
+      "start": 120.208,
+      "duration": 5.0
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 125.701,
+      "duration": 3.0
+    },
+    {
+      "text": "(pen swipes)\n(keyboard clicks)",
+      "start": 130.643,
+      "duration": 5.0
+    },
+    {
+      "text": "(paper shredder whirs)",
+      "start": 138.101,
+      "duration": 3.25
+    },
+    {
+      "text": "(knocking)",
+      "start": 144.052,
+      "duration": 1.988
+    },
+    {
+      "text": "- Simon.",
+      "start": 146.04,
+      "duration": 1.304
+    },
+    {
+      "text": "- Ralph.",
+      "start": 147.344,
+      "duration": 1.387
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 148.731,
+      "duration": 3.0
+    },
+    {
+      "text": "- It's a good start, but\nthere's definitely some issues.",
+      "start": 156.21,
+      "duration": 3.03
+    },
+    {
+      "text": "Number one, some elements\nof the score match the edit,",
+      "start": 159.24,
+      "duration": 3.27
+    },
+    {
+      "text": "but some don't.",
+      "start": 162.51,
+      "duration": 1.32
+    },
+    {
+      "text": "The beginning sounds good,",
+      "start": 163.83,
+      "duration": 1.23
+    },
+    {
+      "text": "but the queue quickly changes\ninto a lighter hearted melody,",
+      "start": 165.06,
+      "duration": 3.12
+    },
+    {
+      "text": "more reminiscent of\nsomething like a crime drama.",
+      "start": 168.18,
+      "duration": 2.49
+    },
+    {
+      "text": "Number two, we forgot to add ambience.",
+      "start": 170.67,
+      "duration": 2.34
+    },
+    {
+      "text": "During the quiet moments, the\nsoundscape is noticeably dead",
+      "start": 173.01,
+      "duration": 3.63
+    },
+    {
+      "text": "and doesn't contain the hum and the hiss",
+      "start": 176.64,
+      "duration": 2.22
+    },
+    {
+      "text": "present in everyday life.",
+      "start": 178.86,
+      "duration": 2.07
+    },
+    {
+      "text": "Also, there's not enough\nvariety in the sound effects.",
+      "start": 180.93,
+      "duration": 2.76
+    },
+    {
+      "text": "We've used the same keyboard\nsound for every letter typed",
+      "start": 183.69,
+      "duration": 3.54
+    },
+    {
+      "text": "and the same pen sound\nfor every pen stroke.",
+      "start": 187.23,
+      "duration": 3.15
+    },
+    {
+      "text": "Moving on, once you start\nadding sound design to the edit,",
+      "start": 190.38,
+      "duration": 3.27
+    },
+    {
+      "text": "sections that are missing\nit become more obvious.",
+      "start": 193.65,
+      "duration": 2.79
+    },
+    {
+      "text": "We could definitely cover more of the edit",
+      "start": 196.44,
+      "duration": 1.65
+    },
+    {
+      "text": "with creative sound design.",
+      "start": 198.09,
+      "duration": 1.98
+    },
+    {
+      "text": "Next, treatment and effects on the audio.",
+      "start": 200.07,
+      "duration": 3.0
+    },
+    {
+      "text": "A lot of our assets have been recorded",
+      "start": 203.07,
+      "duration": 1.65
+    },
+    {
+      "text": "in a studio environment.",
+      "start": 204.72,
+      "duration": 1.62
+    },
+    {
+      "text": "They don't have the reverberation",
+      "start": 206.34,
+      "duration": 1.53
+    },
+    {
+      "text": "that would be present\nin a small, boxy room.",
+      "start": 207.87,
+      "duration": 2.94
+    },
+    {
+      "text": "And finally,",
+      "start": 210.81,
+      "duration": 0.833
+    },
+    {
+      "text": "there's definitely some\nroom for more creativity.",
+      "start": 211.643,
+      "duration": 2.527
+    },
+    {
+      "text": "We're missing an opportunity to use sound",
+      "start": 214.17,
+      "duration": 1.98
+    },
+    {
+      "text": "to contribute to our\nstory in non-literal ways.",
+      "start": 216.15,
+      "duration": 3.42
+    },
+    {
+      "text": "Let's get to work.",
+      "start": 219.57,
+      "duration": 1.14
+    },
+    {
+      "text": "We're gonna start with the score.",
+      "start": 220.71,
+      "duration": 1.74
+    },
+    {
+      "text": "It's not terrible, but it could be better.",
+      "start": 222.45,
+      "duration": 2.43
+    },
+    {
+      "text": "The problem is, unless\na queue has been scored",
+      "start": 224.88,
+      "duration": 2.16
+    },
+    {
+      "text": "specifically for your\nedit, it won't line up.",
+      "start": 227.04,
+      "duration": 2.97
+    },
+    {
+      "text": "For example, this staple being\npulled is a great moment.",
+      "start": 230.01,
+      "duration": 2.913
+    },
+    {
+      "text": "The cut builds towards\nit in our first edit,",
+      "start": 234.78,
+      "duration": 2.55
+    },
+    {
+      "text": "but as you can tell,",
+      "start": 237.33,
+      "duration": 1.2
+    },
+    {
+      "text": "it kind of falls flat without\nthe support of the score.",
+      "start": 238.53,
+      "duration": 3.27
+    },
+    {
+      "text": "So instead of playing the queue straight,",
+      "start": 241.8,
+      "duration": 2.07
+    },
+    {
+      "text": "we're gonna cut it up to match our edit.",
+      "start": 243.87,
+      "duration": 2.25
+    },
+    {
+      "text": "We'll use the beginning of the queue,",
+      "start": 246.12,
+      "duration": 1.92
+    },
+    {
+      "text": "cutting before the tone\nchanges for that opening scare",
+      "start": 248.04,
+      "duration": 3.12
+    },
+    {
+      "text": "and then this small section from the end",
+      "start": 251.16,
+      "duration": 1.71
+    },
+    {
+      "text": "for the staple being pulled.",
+      "start": 252.87,
+      "duration": 1.47
+    },
+    {
+      "text": "We'll line that final hit up",
+      "start": 254.34,
+      "duration": 1.41
+    },
+    {
+      "text": "with the moment that\nthe staple gets pulled.",
+      "start": 255.75,
+      "duration": 2.07
+    },
+    {
+      "text": "The transition is pretty much invisible,",
+      "start": 257.82,
+      "duration": 1.98
+    },
+    {
+      "text": "because we've chosen two\nsections of the queue",
+      "start": 259.8,
+      "duration": 1.95
+    },
+    {
+      "text": "that are similar.",
+      "start": 261.75,
+      "duration": 0.9
+    },
+    {
+      "text": "Orchestral music without\nrhythm, like this,",
+      "start": 262.65,
+      "duration": 2.48
+    },
+    {
+      "text": "(suspenseful orchestral music)",
+      "start": 265.13,
+      "duration": 2.35
+    },
+    {
+      "text": "is really easy to edit,",
+      "start": 267.48,
+      "duration": 1.35
+    },
+    {
+      "text": "because there are no beats to line up.",
+      "start": 268.83,
+      "duration": 1.98
+    },
+    {
+      "text": "For the rest of the edit,",
+      "start": 270.81,
+      "duration": 0.9
+    },
+    {
+      "text": "we've found another queue\nfrom a different artist.",
+      "start": 271.71,
+      "duration": 2.49
+    },
+    {
+      "text": "It's simpler than the opening queue,",
+      "start": 274.2,
+      "duration": 2.443
+    },
+    {
+      "text": "(ominous music)",
+      "start": 276.643,
+      "duration": 1.937
+    },
+    {
+      "text": "more of an ominous drone\nthan any sort of melody.",
+      "start": 278.58,
+      "duration": 2.79
+    },
+    {
+      "text": "We'll apply the same principles though,",
+      "start": 281.37,
+      "duration": 1.86
+    },
+    {
+      "text": "cutting the queue so that hits and dips,",
+      "start": 283.23,
+      "duration": 2.67
+    },
+    {
+      "text": "along with loud and quiet moments",
+      "start": 285.9,
+      "duration": 1.65
+    },
+    {
+      "text": "all fall in the right place.",
+      "start": 287.55,
+      "duration": 1.704
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 289.254,
+      "duration": 3.71
+    },
+    {
+      "text": "(ominous chord)",
+      "start": 292.964,
+      "duration": 2.667
+    },
+    {
+      "text": "(ominous drone)",
+      "start": 296.491,
+      "duration": 2.667
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 301.071,
+      "duration": 3.224
+    },
+    {
+      "text": "(ominous chord)",
+      "start": 304.295,
+      "duration": 3.325
+    },
+    {
+      "text": "Now let's work on the ambience.",
+      "start": 307.62,
+      "duration": 2.28
+    },
+    {
+      "text": "We'll mute the score\nand the sound effects,",
+      "start": 309.9,
+      "duration": 2.01
+    },
+    {
+      "text": "so that we can hear what's going on.",
+      "start": 311.91,
+      "duration": 1.83
+    },
+    {
+      "text": "Unless your film is set in space,",
+      "start": 313.74,
+      "duration": 2.22
+    },
+    {
+      "text": "where nobody can hear you scream,",
+      "start": 315.96,
+      "duration": 1.86
+    },
+    {
+      "text": "every location in a movie\nshould have ambient sound.",
+      "start": 317.82,
+      "duration": 2.943
+    },
+    {
+      "text": "Ralph is working late in\na private office here.",
+      "start": 321.78,
+      "duration": 2.22
+    },
+    {
+      "text": "There's not many people around.",
+      "start": 324.0,
+      "duration": 1.29
+    },
+    {
+      "text": "So what does an empty\noffice actually sound like?",
+      "start": 325.29,
+      "duration": 3.54
+    },
+    {
+      "text": "We'll use something simple.",
+      "start": 328.83,
+      "duration": 1.35
+    },
+    {
+      "text": "The hum of an air conditioner\nis gonna work fine.",
+      "start": 331.14,
+      "duration": 2.362
+    },
+    {
+      "text": "(air conditioner hums)",
+      "start": 333.502,
+      "duration": 1.898
+    },
+    {
+      "text": "We'll add some wind for\nthe only outside shot,",
+      "start": 335.4,
+      "duration": 2.88
+    },
+    {
+      "text": "this POV of the sun setting.",
+      "start": 338.28,
+      "duration": 1.74
+    },
+    {
+      "text": "And then don't forget to lower the volume",
+      "start": 340.02,
+      "duration": 1.74
+    },
+    {
+      "text": "of any ambience to a suitable level.",
+      "start": 341.76,
+      "duration": 2.91
+    },
+    {
+      "text": "Next, let's address those\nrepetitive sound effects.",
+      "start": 344.67,
+      "duration": 2.85
+    },
+    {
+      "text": "So we're using stock assets.",
+      "start": 347.52,
+      "duration": 2.34
+    },
+    {
+      "text": "We found this keystroke sound effect.",
+      "start": 349.86,
+      "duration": 2.269
+    },
+    {
+      "text": "(keyboard clicks)",
+      "start": 352.129,
+      "duration": 1.001
+    },
+    {
+      "text": "The problem is that I\nuse the same sound effect",
+      "start": 353.13,
+      "duration": 2.43
+    },
+    {
+      "text": "every single time.",
+      "start": 355.56,
+      "duration": 1.29
+    },
+    {
+      "text": "And like I said before,",
+      "start": 356.85,
+      "duration": 1.29
+    },
+    {
+      "text": "we did the same thing\nwith the pen strokes.",
+      "start": 358.14,
+      "duration": 2.15
+    },
+    {
+      "text": "Instead of a single keystroke,",
+      "start": 361.41,
+      "duration": 1.74
+    },
+    {
+      "text": "here's a clip of typing\nthat lasts 10 seconds.",
+      "start": 363.15,
+      "duration": 2.73
+    },
+    {
+      "text": "It has multiple keystrokes in it",
+      "start": 365.88,
+      "duration": 1.71
+    },
+    {
+      "text": "and each one sounds slightly different,",
+      "start": 367.59,
+      "duration": 2.31
+    },
+    {
+      "text": "but we can't use them as they are.",
+      "start": 369.9,
+      "duration": 2.1
+    },
+    {
+      "text": "If we add the clip\ndirectly to the timeline,",
+      "start": 372.0,
+      "duration": 2.01
+    },
+    {
+      "text": "it's not gonna match the onscreen action.",
+      "start": 374.01,
+      "duration": 2.43
+    },
+    {
+      "text": "We'll place some cuts to\nseparate individual keystrokes",
+      "start": 376.44,
+      "duration": 3.27
+    },
+    {
+      "text": "and then use each sound\nonce and line them up.",
+      "start": 379.71,
+      "duration": 3.033
+    },
+    {
+      "text": "Editing with waveforms visible is vital.",
+      "start": 385.35,
+      "duration": 2.43
+    },
+    {
+      "text": "When lining up the apex of\na sound effect to your edit,",
+      "start": 387.78,
+      "duration": 3.18
+    },
+    {
+      "text": "you can add markers to make it easier.",
+      "start": 390.96,
+      "duration": 2.85
+    },
+    {
+      "text": "So it's important to be\nthorough with your sound design.",
+      "start": 393.81,
+      "duration": 2.64
+    },
+    {
+      "text": "Once you start adding sounds,",
+      "start": 396.45,
+      "duration": 1.95
+    },
+    {
+      "text": "sections that are missing sound effects",
+      "start": 398.4,
+      "duration": 1.89
+    },
+    {
+      "text": "become very, very obvious.",
+      "start": 400.29,
+      "duration": 2.16
+    },
+    {
+      "text": "We'll add some sounds for the blinds,",
+      "start": 402.45,
+      "duration": 2.04
+    },
+    {
+      "text": "the watch, and the knocks on the door.",
+      "start": 404.49,
+      "duration": 2.49
+    },
+    {
+      "text": "This staple remover is gonna\nbe a little bit harder.",
+      "start": 406.98,
+      "duration": 2.4
+    },
+    {
+      "text": "It's not the kind of thing",
+      "start": 409.38,
+      "duration": 0.84
+    },
+    {
+      "text": "that you'd find on stock libraries,",
+      "start": 410.22,
+      "duration": 2.01
+    },
+    {
+      "text": "so maybe we can find\nsomething that sounds similar.",
+      "start": 412.23,
+      "duration": 2.37
+    },
+    {
+      "text": "It's a metal on metal\nsound, like scissors.",
+      "start": 414.6,
+      "duration": 2.522
+    },
+    {
+      "text": "(metal clicks)",
+      "start": 417.122,
+      "duration": 1.468
+    },
+    {
+      "text": "Ah, perfect.",
+      "start": 418.59,
+      "duration": 1.02
+    },
+    {
+      "text": "Stock libraries are great, but\nwith more particular visuals,",
+      "start": 419.61,
+      "duration": 3.54
+    },
+    {
+      "text": "it can often be difficult\nto find the right sound.",
+      "start": 423.15,
+      "duration": 2.52
+    },
+    {
+      "text": "In those instances,",
+      "start": 425.67,
+      "duration": 1.32
+    },
+    {
+      "text": "you can record fully at your desk",
+      "start": 426.99,
+      "duration": 1.98
+    },
+    {
+      "text": "straight into your timeline.",
+      "start": 428.97,
+      "duration": 1.23
+    },
+    {
+      "text": "The exact procedure is\ngonna vary between NLEs,",
+      "start": 430.2,
+      "duration": 3.15
+    },
+    {
+      "text": "but once you're set up,",
+      "start": 433.35,
+      "duration": 1.327
+    },
+    {
+      "text": "(pen swipes)",
+      "start": 434.677,
+      "duration": 1.703
+    },
+    {
+      "text": "you'll be able to record audio\nwhile you watch your edit.",
+      "start": 436.38,
+      "duration": 2.61
+    },
+    {
+      "text": "Your performance doesn't\nneed to be perfect.",
+      "start": 438.99,
+      "duration": 1.89
+    },
+    {
+      "text": "We can always chop it up afterwards",
+      "start": 440.88,
+      "duration": 1.59
+    },
+    {
+      "text": "and match it more carefully to the edit.",
+      "start": 442.47,
+      "duration": 2.46
+    },
+    {
+      "text": "Excellent, the mix is\nsounding pretty good,",
+      "start": 444.93,
+      "duration": 2.28
+    },
+    {
+      "text": "but there's something important missing,",
+      "start": 447.21,
+      "duration": 1.68
+    },
+    {
+      "text": "reverberation.",
+      "start": 448.89,
+      "duration": 1.35
+    },
+    {
+      "text": "All our foley has been recorded",
+      "start": 450.24,
+      "duration": 1.56
+    },
+    {
+      "text": "in a studio environment\nwith acoustic baffling.",
+      "start": 451.8,
+      "duration": 2.82
+    },
+    {
+      "text": "Ralph's office, on the other\nhand, should have some reverb.",
+      "start": 454.62,
+      "duration": 3.3
+    },
+    {
+      "text": "Here's what our section\nof foley sounded like,",
+      "start": 457.92,
+      "duration": 1.95
+    },
+    {
+      "text": "before a bit of environmental reverb.",
+      "start": 459.87,
+      "duration": 2.614
+    },
+    {
+      "text": "(clicking without reverberation)",
+      "start": 462.484,
+      "duration": 2.246
+    },
+    {
+      "text": "And here's what it sounded like after.",
+      "start": 464.73,
+      "duration": 2.097
+    },
+    {
+      "text": "(clicking with reverberation)",
+      "start": 466.827,
+      "duration": 1.983
+    },
+    {
+      "text": "Much more natural sounding",
+      "start": 468.81,
+      "duration": 1.41
+    },
+    {
+      "text": "and fitting of the\ncharacter's environment.",
+      "start": 470.22,
+      "duration": 2.31
+    },
+    {
+      "text": "Instead of adding reverb\nto each individual clip,",
+      "start": 472.53,
+      "duration": 2.55
+    },
+    {
+      "text": "we'll route all our foley\ntracks through a sub mix,",
+      "start": 475.08,
+      "duration": 2.58
+    },
+    {
+      "text": "sometimes call a bus.",
+      "start": 477.66,
+      "duration": 1.41
+    },
+    {
+      "text": "By adding a reverb effect to that sub mix,",
+      "start": 479.07,
+      "duration": 2.64
+    },
+    {
+      "text": "we can apply it to all\nof our foley in one go.",
+      "start": 481.71,
+      "duration": 2.673
+    },
+    {
+      "text": "The next problem that we're gonna tackle",
+      "start": 485.88,
+      "duration": 1.5
+    },
+    {
+      "text": "is the lack of creativity in general.",
+      "start": 487.38,
+      "duration": 2.37
+    },
+    {
+      "text": "Sound is most powerful when we\nuse it to communicate things",
+      "start": 489.75,
+      "duration": 3.3
+    },
+    {
+      "text": "that the audience cannot see.",
+      "start": 493.05,
+      "duration": 1.92
+    },
+    {
+      "text": "We're not talking about\naction that's off screen.",
+      "start": 494.97,
+      "duration": 2.58
+    },
+    {
+      "text": "What we're actually talking\nabout are things like,",
+      "start": 497.55,
+      "duration": 1.68
+    },
+    {
+      "text": "emotions and feelings.",
+      "start": 499.23,
+      "duration": 1.95
+    },
+    {
+      "text": "This is probably the single biggest way",
+      "start": 501.18,
+      "duration": 2.13
+    },
+    {
+      "text": "that our edit can improve.",
+      "start": 503.31,
+      "duration": 1.35
+    },
+    {
+      "text": "So it's time to get creative\nand use sound design",
+      "start": 504.66,
+      "duration": 2.85
+    },
+    {
+      "text": "to communicate the abstract\ninstead of the obvious.",
+      "start": 507.51,
+      "duration": 2.913
+    },
+    {
+      "text": "The opening credits don't feel right",
+      "start": 511.86,
+      "duration": 1.86
+    },
+    {
+      "text": "playing out in complete silence.",
+      "start": 513.72,
+      "duration": 1.74
+    },
+    {
+      "text": "We'll add some chimes\nto match the text reveal",
+      "start": 515.46,
+      "duration": 2.76
+    },
+    {
+      "text": "and a drone as a precursor\nto the first musical queue.",
+      "start": 518.22,
+      "duration": 3.48
+    },
+    {
+      "text": "The wondrous sound of the chimes",
+      "start": 521.7,
+      "duration": 2.46
+    },
+    {
+      "text": "mixed with the uncertainty of the drone,",
+      "start": 524.16,
+      "duration": 2.22
+    },
+    {
+      "text": "sets the perfect tone here.",
+      "start": 526.38,
+      "duration": 2.1
+    },
+    {
+      "text": "Now let's add a reverse impact\nto the de-stapling moment",
+      "start": 528.48,
+      "duration": 3.6
+    },
+    {
+      "text": "to make it a little bit more sinister.",
+      "start": 532.08,
+      "duration": 1.902
+    },
+    {
+      "text": "(reverse impact sound)",
+      "start": 533.982,
+      "duration": 1.458
+    },
+    {
+      "text": "Perfect. All right.",
+      "start": 535.44,
+      "duration": 1.35
+    },
+    {
+      "text": "This middle section feels pretty good,",
+      "start": 536.79,
+      "duration": 2.19
+    },
+    {
+      "text": "with all the key strikes, the\npen strokes, and the like.",
+      "start": 538.98,
+      "duration": 2.58
+    },
+    {
+      "text": "So we're gonna skip to\na section at the end",
+      "start": 541.56,
+      "duration": 2.19
+    },
+    {
+      "text": "that feels a bit empty at the moment.",
+      "start": 543.75,
+      "duration": 1.89
+    },
+    {
+      "text": "Ripe for creative sound design work.",
+      "start": 545.64,
+      "duration": 2.58
+    },
+    {
+      "text": "So we don't want the\ntone to be too dark here,",
+      "start": 548.22,
+      "duration": 2.94
+    },
+    {
+      "text": "because this is also a comedy.",
+      "start": 551.16,
+      "duration": 1.77
+    },
+    {
+      "text": "Whooshes can add levity to moments",
+      "start": 552.93,
+      "duration": 2.13
+    },
+    {
+      "text": "and help reinforce the\ncomedic nature of the movie.",
+      "start": 555.06,
+      "duration": 2.67
+    },
+    {
+      "text": "Think, \"Hot Fuzz\".",
+      "start": 557.73,
+      "duration": 1.18
+    },
+    {
+      "text": "(whooshes)\n(upbeat action music)",
+      "start": 558.91,
+      "duration": 5.0
+    },
+    {
+      "text": "(guns racking)\n(upbeat action music)",
+      "start": 567.477,
+      "duration": 5.0
+    },
+    {
+      "text": "(door creaks and closes)",
+      "start": 573.293,
+      "duration": 2.077
+    },
+    {
+      "text": "So we'll add whooshes to all\nof Ralph's quick movements",
+      "start": 575.37,
+      "duration": 3.48
+    },
+    {
+      "text": "in this section and to this\ncamera move at the end.",
+      "start": 578.85,
+      "duration": 3.802
+    },
+    {
+      "text": "(whooshes)",
+      "start": 582.652,
+      "duration": 2.408
+    },
+    {
+      "text": "Next, hits make things more dramatic.",
+      "start": 585.06,
+      "duration": 2.91
+    },
+    {
+      "text": "For example, placing a\nbox of files on a desk,",
+      "start": 587.97,
+      "duration": 2.43
+    },
+    {
+      "text": "in itself, not particularly dramatic,",
+      "start": 590.4,
+      "duration": 2.76
+    },
+    {
+      "text": "but adding a reverberating hit here,",
+      "start": 593.16,
+      "duration": 2.4
+    },
+    {
+      "text": "tells our audience that this box",
+      "start": 595.56,
+      "duration": 1.92
+    },
+    {
+      "text": "has more severe consequences\nthan we might realize.",
+      "start": 597.48,
+      "duration": 2.763
+    },
+    {
+      "text": "(box hits desk)\n(ominous drone)",
+      "start": 603.711,
+      "duration": 2.559
+    },
+    {
+      "text": "Very cool.",
+      "start": 606.27,
+      "duration": 0.87
+    },
+    {
+      "text": "So there's lots of other moments",
+      "start": 607.14,
+      "duration": 1.29
+    },
+    {
+      "text": "that we can sound design too.",
+      "start": 608.43,
+      "duration": 1.83
+    },
+    {
+      "text": "Remember, sound design\nis an iterative process.",
+      "start": 610.26,
+      "duration": 3.3
+    },
+    {
+      "text": "You're not gonna get it\nall right in just one pass.",
+      "start": 613.56,
+      "duration": 2.7
+    },
+    {
+      "text": "For example, we can\nemphasize parts of the score",
+      "start": 616.26,
+      "duration": 2.85
+    },
+    {
+      "text": "with additional sound effects.",
+      "start": 619.11,
+      "duration": 1.89
+    },
+    {
+      "text": "I'm gonna add an impact\nto the first musical stab.",
+      "start": 621.0,
+      "duration": 2.943
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 625.272,
+      "duration": 2.568
+    },
+    {
+      "text": "Let's add some horrifying bone crunching",
+      "start": 627.84,
+      "duration": 2.1
+    },
+    {
+      "text": "to the staple remover.",
+      "start": 629.94,
+      "duration": 1.173
+    },
+    {
+      "text": "(bone crunching)",
+      "start": 632.745,
+      "duration": 2.445
+    },
+    {
+      "text": "Layering sounds is a great way",
+      "start": 635.19,
+      "duration": 2.07
+    },
+    {
+      "text": "of making your soundscape richer.",
+      "start": 637.26,
+      "duration": 1.92
+    },
+    {
+      "text": "Stationary definitely\ndoesn't sound like that,",
+      "start": 639.18,
+      "duration": 2.58
+    },
+    {
+      "text": "but because these crunching\nand squelching sound effects",
+      "start": 641.76,
+      "duration": 3.27
+    },
+    {
+      "text": "are similar in tone and frequency",
+      "start": 645.03,
+      "duration": 2.13
+    },
+    {
+      "text": "to the natural sounds of the\nstaple remover and the shredder",
+      "start": 647.16,
+      "duration": 2.97
+    },
+    {
+      "text": "we can actually integrate them",
+      "start": 650.13,
+      "duration": 1.5
+    },
+    {
+      "text": "pretty naturally into the mix.",
+      "start": 651.63,
+      "duration": 1.983
+    },
+    {
+      "text": "(bone crunching)",
+      "start": 653.613,
+      "duration": 0.927
+    },
+    {
+      "text": "These definitely make the\nscene more intriguing,",
+      "start": 654.54,
+      "duration": 3.0
+    },
+    {
+      "text": "a little uneasy, and they\nheighten the audience's curiosity,",
+      "start": 657.54,
+      "duration": 3.72
+    },
+    {
+      "text": "and of course, also foreshadow things",
+      "start": 661.26,
+      "duration": 1.89
+    },
+    {
+      "text": "that are gonna come later in the film.",
+      "start": 663.15,
+      "duration": 1.47
+    },
+    {
+      "text": "This is a very stylized edit,\nso the whooshes, the hits,",
+      "start": 664.62,
+      "duration": 3.27
+    },
+    {
+      "text": "and the other sound effects fit right in.",
+      "start": 667.89,
+      "duration": 1.86
+    },
+    {
+      "text": "With other styles of editing,",
+      "start": 669.75,
+      "duration": 1.47
+    },
+    {
+      "text": "they might be pretty out of place.",
+      "start": 671.22,
+      "duration": 1.98
+    },
+    {
+      "text": "Now, important point here, once\nyou've committed to a style,",
+      "start": 673.2,
+      "duration": 4.02
+    },
+    {
+      "text": "it's important to be consistent\nthroughout the piece.",
+      "start": 677.22,
+      "duration": 2.16
+    },
+    {
+      "text": "Sometimes moments worthy of\nsound accenting are obvious,",
+      "start": 679.38,
+      "duration": 3.42
+    },
+    {
+      "text": "like our paper box drop,",
+      "start": 682.8,
+      "duration": 1.59
+    },
+    {
+      "text": "and also like these quick\ncharacter movements,",
+      "start": 684.39,
+      "duration": 2.4
+    },
+    {
+      "text": "but others can be more subtle,",
+      "start": 686.79,
+      "duration": 1.62
+    },
+    {
+      "text": "and we need to learn how to recognize them",
+      "start": 688.41,
+      "duration": 1.74
+    },
+    {
+      "text": "and then how to treat them.",
+      "start": 690.15,
+      "duration": 1.74
+    },
+    {
+      "text": "As a general rule,",
+      "start": 691.89,
+      "duration": 1.38
+    },
+    {
+      "text": "both visual movement and lighting changes",
+      "start": 693.27,
+      "duration": 3.21
+    },
+    {
+      "text": "should clue you into the fact",
+      "start": 696.48,
+      "duration": 1.47
+    },
+    {
+      "text": "that you might have that\ntype of moment on your hands.",
+      "start": 697.95,
+      "duration": 2.34
+    },
+    {
+      "text": "For example, look at this sundown.",
+      "start": 700.29,
+      "duration": 2.28
+    },
+    {
+      "text": "If we added a reverse cymbal\nleading up to the cut,",
+      "start": 702.57,
+      "duration": 2.796
+    },
+    {
+      "text": "(reverse cymbal)",
+      "start": 705.366,
+      "duration": 1.254
+    },
+    {
+      "text": "and layer it with a bass drop\nthat starts right on the cut,",
+      "start": 706.62,
+      "duration": 3.396
+    },
+    {
+      "text": "(bass drop)",
+      "start": 710.016,
+      "duration": 1.284
+    },
+    {
+      "text": "you've now effectively accented a moment",
+      "start": 711.3,
+      "duration": 2.34
+    },
+    {
+      "text": "that might have otherwise\nbeen a missed opportunity.",
+      "start": 713.64,
+      "duration": 2.888
+    },
+    {
+      "text": "(clock ticking)\n(blinds clink)",
+      "start": 716.528,
+      "duration": 1.642
+    },
+    {
+      "text": "(reverse cymbal)\n(bass drop)",
+      "start": 718.17,
+      "duration": 1.332
+    },
+    {
+      "text": "(pen swipes)\n(keyboard clicks)",
+      "start": 719.502,
+      "duration": 1.248
+    },
+    {
+      "text": "The end result,",
+      "start": 720.75,
+      "duration": 0.833
+    },
+    {
+      "text": "is that you've got a more\nconsistently styled piece,",
+      "start": 721.583,
+      "duration": 2.587
+    },
+    {
+      "text": "which a more novice editor",
+      "start": 724.17,
+      "duration": 1.53
+    },
+    {
+      "text": "might not have been able to achieve.",
+      "start": 725.7,
+      "duration": 1.74
+    },
+    {
+      "text": "Now there's one last important point",
+      "start": 727.44,
+      "duration": 1.8
+    },
+    {
+      "text": "about sound design that\nwe wanna share with you.",
+      "start": 729.24,
+      "duration": 1.77
+    },
+    {
+      "text": "Not every moment needs to be accented",
+      "start": 731.01,
+      "duration": 2.88
+    },
+    {
+      "text": "and not every accented moment\nneeds to be maximum intensity.",
+      "start": 733.89,
+      "duration": 4.05
+    },
+    {
+      "text": "You need to be balanced.",
+      "start": 737.94,
+      "duration": 1.29
+    },
+    {
+      "text": "Let's look at an example\nof what we mean by this.",
+      "start": 739.23,
+      "duration": 2.91
+    },
+    {
+      "text": "If we overload this moment\ntoo far, we create problems.",
+      "start": 742.14,
+      "duration": 3.81
+    },
+    {
+      "text": "Have a listen.",
+      "start": 745.95,
+      "duration": 1.551
+    },
+    {
+      "text": "(knocking)\n(bass drop)",
+      "start": 747.501,
+      "duration": 2.049
+    },
+    {
+      "text": "- Simon.",
+      "start": 749.55,
+      "duration": 1.26
+    },
+    {
+      "text": "- Ralph.",
+      "start": 750.81,
+      "duration": 1.053
+    },
+    {
+      "text": "- Those two pieces of sound design,",
+      "start": 752.76,
+      "duration": 1.86
+    },
+    {
+      "text": "the bass drop,",
+      "start": 754.62,
+      "duration": 1.079
+    },
+    {
+      "text": "(bass drop)",
+      "start": 755.699,
+      "duration": 2.221
+    },
+    {
+      "text": "and the hit,",
+      "start": 757.92,
+      "duration": 1.281
+    },
+    {
+      "text": "(ominous hit)",
+      "start": 759.201,
+      "duration": 1.689
+    },
+    {
+      "text": "are far too intense for\na soft moment like this,",
+      "start": 760.89,
+      "duration": 3.21
+    },
+    {
+      "text": "that isn't confined to one single frame",
+      "start": 764.1,
+      "duration": 2.31
+    },
+    {
+      "text": "and isn't even the climax of the scene.",
+      "start": 766.41,
+      "duration": 2.13
+    },
+    {
+      "text": "The movement when the hand is pulled back",
+      "start": 768.54,
+      "duration": 1.86
+    },
+    {
+      "text": "is meant to be in momentary\npause in the tension,",
+      "start": 770.4,
+      "duration": 2.34
+    },
+    {
+      "text": "versus a major impactful event.",
+      "start": 772.74,
+      "duration": 2.28
+    },
+    {
+      "text": "Ralph is about to go home",
+      "start": 775.02,
+      "duration": 1.44
+    },
+    {
+      "text": "and this is the moment when he realizes",
+      "start": 776.46,
+      "duration": 1.68
+    },
+    {
+      "text": "that he can't do that.",
+      "start": 778.14,
+      "duration": 2.07
+    },
+    {
+      "text": "Identify key moments.",
+      "start": 780.21,
+      "duration": 2.1
+    },
+    {
+      "text": "If you try to make every moment special,",
+      "start": 782.31,
+      "duration": 2.61
+    },
+    {
+      "text": "none of them will be special.",
+      "start": 784.92,
+      "duration": 2.16
+    },
+    {
+      "text": "This moment still deserves sound design,",
+      "start": 787.08,
+      "duration": 2.13
+    },
+    {
+      "text": "just something subtler.",
+      "start": 789.21,
+      "duration": 1.77
+    },
+    {
+      "text": "Have a look with the hits turned off,",
+      "start": 790.98,
+      "duration": 1.92
+    },
+    {
+      "text": "leaving only the cymbal suck.",
+      "start": 792.9,
+      "duration": 2.398
+    },
+    {
+      "text": "(suspenseful music)\n(knocking)",
+      "start": 795.298,
+      "duration": 3.002
+    },
+    {
+      "text": "- Simon.",
+      "start": 798.3,
+      "duration": 1.26
+    },
+    {
+      "text": "- Ralph.",
+      "start": 799.56,
+      "duration": 1.083
+    },
+    {
+      "text": "- Much better and more appropriate.",
+      "start": 802.08,
+      "duration": 1.92
+    },
+    {
+      "text": "Now let's look at the actual climax.",
+      "start": 804.0,
+      "duration": 2.46
+    },
+    {
+      "text": "We've already lined the score up.",
+      "start": 806.46,
+      "duration": 1.62
+    },
+    {
+      "text": "We'll add a reverse cymbal,\nalso known as a suck back,",
+      "start": 808.08,
+      "duration": 2.967
+    },
+    {
+      "text": "(reverse cymbal)",
+      "start": 811.047,
+      "duration": 2.75
+    },
+    {
+      "text": "and a boom.",
+      "start": 815.85,
+      "duration": 1.464
+    },
+    {
+      "text": "(ominous boom)",
+      "start": 817.314,
+      "duration": 2.886
+    },
+    {
+      "text": "Combined with the score,",
+      "start": 820.2,
+      "duration": 1.44
+    },
+    {
+      "text": "this now signals the\nresolution of the scene",
+      "start": 821.64,
+      "duration": 2.787
+    },
+    {
+      "text": "and the setup of the next.",
+      "start": 824.427,
+      "duration": 1.977
+    },
+    {
+      "text": "(suspenseful music)",
+      "start": 826.404,
+      "duration": 2.551
+    },
+    {
+      "text": "(reverse cymbal)\n(ominous boom)",
+      "start": 828.955,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay, so the pieces are there,",
+      "start": 834.6,
+      "duration": 2.61
+    },
+    {
+      "text": "but the levels are all over the place.",
+      "start": 837.21,
+      "duration": 2.58
+    },
+    {
+      "text": "It's time to mix the audio.",
+      "start": 839.79,
+      "duration": 1.62
+    },
+    {
+      "text": "We need to make sure\nthat the score, dialogue,",
+      "start": 841.41,
+      "duration": 2.25
+    },
+    {
+      "text": "and sound effects all\nplay at the correct levels",
+      "start": 843.66,
+      "duration": 2.52
+    },
+    {
+      "text": "in relation to each other.",
+      "start": 846.18,
+      "duration": 1.77
+    },
+    {
+      "text": "When using your audio meters,\nhere's kind of a rough guide.",
+      "start": 847.95,
+      "duration": 2.97
+    },
+    {
+      "text": "Make sure that nothing peaks.",
+      "start": 850.92,
+      "duration": 2.01
+    },
+    {
+      "text": "Aim for dialogue around negative 12 db.",
+      "start": 852.93,
+      "duration": 2.82
+    },
+    {
+      "text": "It tends to be one of the\nloudest things in our mix.",
+      "start": 855.75,
+      "duration": 2.25
+    },
+    {
+      "text": "This obviously is because we want people",
+      "start": 858.0,
+      "duration": 1.89
+    },
+    {
+      "text": "to be able to understand the\ndialogue and follow the story.",
+      "start": 859.89,
+      "duration": 2.73
+    },
+    {
+      "text": "Depending on what they are,\nsound effects will be anywhere",
+      "start": 862.62,
+      "duration": 2.91
+    },
+    {
+      "text": "from negative 10 db to negative 30 db,",
+      "start": 865.53,
+      "duration": 2.7
+    },
+    {
+      "text": "and then the score or the music itself,",
+      "start": 868.23,
+      "duration": 2.04
+    },
+    {
+      "text": "tends to sit around negative\n20 to negative 30 db.",
+      "start": 870.27,
+      "duration": 3.51
+    },
+    {
+      "text": "All right, now let's\nsee how it all sounds.",
+      "start": 873.78,
+      "duration": 2.343
+    },
+    {
+      "text": "(suspenseful music)\n(upbeat chimes)",
+      "start": 877.623,
+      "duration": 4.02
+    },
+    {
+      "text": "(ominous chord)",
+      "start": 881.643,
+      "duration": 2.667
+    },
+    {
+      "text": "(metallic slice)\n(bone crunching)",
+      "start": 888.63,
+      "duration": 1.406
+    },
+    {
+      "text": "(ominous chord)",
+      "start": 890.036,
+      "duration": 1.567
+    },
+    {
+      "text": "(pen swipes)\n(keyboard clicks)",
+      "start": 891.603,
+      "duration": 5.0
+    },
+    {
+      "text": "(ominous chord)",
+      "start": 897.315,
+      "duration": 1.983
+    },
+    {
+      "text": "(clock ticking)\n(blinds clink)",
+      "start": 899.298,
+      "duration": 0.833
+    },
+    {
+      "text": "(reverse cymbal)\n(ominous boom)",
+      "start": 900.131,
+      "duration": 2.125
+    },
+    {
+      "text": "(pens swipes)\n(keyboard clicks)",
+      "start": 902.256,
+      "duration": 3.841
+    },
+    {
+      "text": "(ominous music)",
+      "start": 906.097,
+      "duration": 2.408
+    },
+    {
+      "text": "(keyboard clicks)\n(bone crunching)",
+      "start": 908.505,
+      "duration": 2.725
+    },
+    {
+      "text": "(ominous drone)",
+      "start": 911.23,
+      "duration": 1.558
+    },
+    {
+      "text": "(whooshes)",
+      "start": 912.788,
+      "duration": 2.425
+    },
+    {
+      "text": "(ominous music)\n(knocking)",
+      "start": 915.213,
+      "duration": 2.367
+    },
+    {
+      "text": "- Simon.",
+      "start": 917.58,
+      "duration": 1.317
+    },
+    {
+      "text": "- Ralph.",
+      "start": 918.897,
+      "duration": 0.833
+    },
+    {
+      "text": "(reverse cymbal)\n(ominous boom)",
+      "start": 920.8,
+      "duration": 5.0
+    },
+    {
+      "text": "- Not bad.",
+      "start": 930.18,
+      "duration": 0.87
+    },
+    {
+      "text": "Sound design is an iterative process.",
+      "start": 931.05,
+      "duration": 2.61
+    },
+    {
+      "text": "Like building a brick wall,",
+      "start": 933.66,
+      "duration": 1.44
+    },
+    {
+      "text": "good sound design is made\nup of many small touches,",
+      "start": 935.1,
+      "duration": 3.48
+    },
+    {
+      "text": "that when you step back,\nmake something truly awesome.",
+      "start": 938.58,
+      "duration": 3.39
+    },
+    {
+      "text": "Start with the foundations,\nscore, ambience, foley,",
+      "start": 941.97,
+      "duration": 4.38
+    },
+    {
+      "text": "and then keep on building\nwith more and more creativity.",
+      "start": 946.35,
+      "duration": 3.48
+    },
+    {
+      "text": "Well-built layers add sophistication",
+      "start": 949.83,
+      "duration": 2.4
+    },
+    {
+      "text": "and interest to the entire audio bed.",
+      "start": 952.23,
+      "duration": 2.58
+    },
+    {
+      "text": "Follow a consistent workflow, yes,",
+      "start": 954.81,
+      "duration": 2.28
+    },
+    {
+      "text": "but creatively, try to\nthink outside the box.",
+      "start": 957.09,
+      "duration": 3.06
+    },
+    {
+      "text": "And of course remember,",
+      "start": 960.15,
+      "duration": 1.35
+    },
+    {
+      "text": "these techniques are applicable",
+      "start": 961.5,
+      "duration": 1.62
+    },
+    {
+      "text": "no matter what software that you work in.",
+      "start": 963.12,
+      "duration": 2.31
+    },
+    {
+      "text": "All right, now go sound design something.",
+      "start": 965.43,
+      "duration": 3.09
+    },
+    {
+      "text": "It'll be fun, I promise.",
+      "start": 968.52,
+      "duration": 1.473
+    },
+    {
+      "text": "Hey there for tons more\nfree editing training,",
+      "start": 971.46,
+      "duration": 2.76
+    },
+    {
+      "text": "head over to our website at\nfilmeditingpro.com/freetraining.",
+      "start": 974.22,
+      "duration": 5.0
+    },
+    {
+      "text": "Here you can download free editing guides,",
+      "start": 979.23,
+      "duration": 2.22
+    },
+    {
+      "text": "along with high quality\nvideo training courses,",
+      "start": 981.45,
+      "duration": 2.61
+    },
+    {
+      "text": "created by our team of\nprofessional Hollywood editors.",
+      "start": 984.06,
+      "duration": 3.3
+    },
+    {
+      "text": "Our tutorials cover a wide\nrange of editing topics,",
+      "start": 987.36,
+      "duration": 3.21
+    },
+    {
+      "text": "like cutting awesome movie\ntrailers, editing action scenes,",
+      "start": 990.57,
+      "duration": 3.78
+    },
+    {
+      "text": "how to work with music and\nsound design, and a lot more.",
+      "start": 994.35,
+      "duration": 3.24
+    },
+    {
+      "text": "All of these free guides and videos",
+      "start": 997.59,
+      "duration": 1.68
+    },
+    {
+      "text": "are available at\nfilmeditingpro.com/freetraining.",
+      "start": 999.27,
+      "duration": 4.92
+    },
+    {
+      "text": "I'll see you next time.",
+      "start": 1004.19,
+      "duration": 1.15
+    }
+  ],
+  "full_text": "- We all know sound is important, right? Footage often arrives from production MOS, or without sound. Or you could also say without personality. It's up to the editor to give the footage character, often through the use of sound design. Today, we're gonna sound design a sequence from a dark comedy. To make things interesting, we're gonna create two versions. First, a quick initial pass. Then we'll critique it and take our time making a second version, where the sound works much better. All right, let's begin. There are three steps to making your edit sound awesome. One, score. Even if a composer will be scoring music later, it's important to add temp music. This is gonna help you design your sound effects in context, and it's also gonna help others to understand your vision. Two, ambience and foley. We should be able to hear everything we see. Remember, nothing is silent, so even an empty room is gonna make noise. Three, finally, we can reinforce moments with creative sound design. Not everything needs to sound the way it looks. We can even add sounds for things that we can't see, like thoughts, feelings, and camera moves. Let's start by familiarizing ourselves with a footage that we're gonna be editing here. It's a short film by Craig D. Foster called \"Overtime.\" We'll skip through it a bit quickly. The movie opens showing Ralph at work in his office. Ordinary paperwork is made to appear menacing. Then there's some dialogue at the end. Ralph is evidently anxious to get home, but is delayed when his boss, Simon, arrives with more work. Queue the movie's main title card. All right, without further ado, here's our initial pass. Using stock libraries, we've added score, sound effects, and sound design. Let's take a listen. - Simon. - Ralph. - It's a good start, but there's definitely some issues. Number one, some elements of the score match the edit, but some don't. The beginning sounds good, but the queue quickly changes into a lighter hearted melody, more reminiscent of something like a crime drama. Number two, we forgot to add ambience. During the quiet moments, the soundscape is noticeably dead and doesn't contain the hum and the hiss present in everyday life. Also, there's not enough variety in the sound effects. We've used the same keyboard sound for every letter typed and the same pen sound for every pen stroke. Moving on, once you start adding sound design to the edit, sections that are missing it become more obvious. We could definitely cover more of the edit with creative sound design. Next, treatment and effects on the audio. A lot of our assets have been recorded in a studio environment. They don't have the reverberation that would be present in a small, boxy room. And finally, there's definitely some room for more creativity. We're missing an opportunity to use sound to contribute to our story in non-literal ways. Let's get to work. We're gonna start with the score. It's not terrible, but it could be better. The problem is, unless a queue has been scored specifically for your edit, it won't line up. For example, this staple being pulled is a great moment. The cut builds towards it in our first edit, but as you can tell, it kind of falls flat without the support of the score. So instead of playing the queue straight, we're gonna cut it up to match our edit. We'll use the beginning of the queue, cutting before the tone changes for that opening scare and then this small section from the end for the staple being pulled. We'll line that final hit up with the moment that the staple gets pulled. The transition is pretty much invisible, because we've chosen two sections of the queue that are similar. Orchestral music without rhythm, like this, is really easy to edit, because there are no beats to line up. For the rest of the edit, we've found another queue from a different artist. It's simpler than the opening queue, more of an ominous drone than any sort of melody. We'll apply the same principles though, cutting the queue so that hits and dips, along with loud and quiet moments all fall in the right place. Now let's work on the ambience. We'll mute the score and the sound effects, so that we can hear what's going on. Unless your film is set in space, where nobody can hear you scream, every location in a movie should have ambient sound. Ralph is working late in a private office here. There's not many people around. So what does an empty office actually sound like? We'll use something simple. The hum of an air conditioner is gonna work fine. We'll add some wind for the only outside shot, this POV of the sun setting. And then don't forget to lower the volume of any ambience to a suitable level. Next, let's address those repetitive sound effects. So we're using stock assets. We found this keystroke sound effect. The problem is that I use the same sound effect every single time. And like I said before, we did the same thing with the pen strokes. Instead of a single keystroke, here's a clip of typing that lasts 10 seconds. It has multiple keystrokes in it and each one sounds slightly different, but we can't use them as they are. If we add the clip directly to the timeline, it's not gonna match the onscreen action. We'll place some cuts to separate individual keystrokes and then use each sound once and line them up. Editing with waveforms visible is vital. When lining up the apex of a sound effect to your edit, you can add markers to make it easier. So it's important to be thorough with your sound design. Once you start adding sounds, sections that are missing sound effects become very, very obvious. We'll add some sounds for the blinds, the watch, and the knocks on the door. This staple remover is gonna be a little bit harder. It's not the kind of thing that you'd find on stock libraries, so maybe we can find something that sounds similar. It's a metal on metal sound, like scissors. Ah, perfect. Stock libraries are great, but with more particular visuals, it can often be difficult to find the right sound. In those instances, you can record fully at your desk straight into your timeline. The exact procedure is gonna vary between NLEs, but once you're set up, you'll be able to record audio while you watch your edit. Your performance doesn't need to be perfect. We can always chop it up afterwards and match it more carefully to the edit. Excellent, the mix is sounding pretty good, but there's something important missing, reverberation. All our foley has been recorded in a studio environment with acoustic baffling. Ralph's office, on the other hand, should have some reverb. Here's what our section of foley sounded like, before a bit of environmental reverb. And here's what it sounded like after. Much more natural sounding and fitting of the character's environment. Instead of adding reverb to each individual clip, we'll route all our foley tracks through a sub mix, sometimes call a bus. By adding a reverb effect to that sub mix, we can apply it to all of our foley in one go. The next problem that we're gonna tackle is the lack of creativity in general. Sound is most powerful when we use it to communicate things that the audience cannot see. We're not talking about action that's off screen. What we're actually talking about are things like, emotions and feelings. This is probably the single biggest way that our edit can improve. So it's time to get creative and use sound design to communicate the abstract instead of the obvious. The opening credits don't feel right playing out in complete silence. We'll add some chimes to match the text reveal and a drone as a precursor to the first musical queue. The wondrous sound of the chimes mixed with the uncertainty of the drone, sets the perfect tone here. Now let's add a reverse impact to the de-stapling moment to make it a little bit more sinister. Perfect. All right. This middle section feels pretty good, with all the key strikes, the pen strokes, and the like. So we're gonna skip to a section at the end that feels a bit empty at the moment. Ripe for creative sound design work. So we don't want the tone to be too dark here, because this is also a comedy. Whooshes can add levity to moments and help reinforce the comedic nature of the movie. Think, \"Hot Fuzz\". So we'll add whooshes to all of Ralph's quick movements in this section and to this camera move at the end. Next, hits make things more dramatic. For example, placing a box of files on a desk, in itself, not particularly dramatic, but adding a reverberating hit here, tells our audience that this box has more severe consequences than we might realize. Very cool. So there's lots of other moments that we can sound design too. Remember, sound design is an iterative process. You're not gonna get it all right in just one pass. For example, we can emphasize parts of the score with additional sound effects. I'm gonna add an impact to the first musical stab. Let's add some horrifying bone crunching to the staple remover. Layering sounds is a great way of making your soundscape richer. Stationary definitely doesn't sound like that, but because these crunching and squelching sound effects are similar in tone and frequency to the natural sounds of the staple remover and the shredder we can actually integrate them pretty naturally into the mix. These definitely make the scene more intriguing, a little uneasy, and they heighten the audience's curiosity, and of course, also foreshadow things that are gonna come later in the film. This is a very stylized edit, so the whooshes, the hits, and the other sound effects fit right in. With other styles of editing, they might be pretty out of place. Now, important point here, once you've committed to a style, it's important to be consistent throughout the piece. Sometimes moments worthy of sound accenting are obvious, like our paper box drop, and also like these quick character movements, but others can be more subtle, and we need to learn how to recognize them and then how to treat them. As a general rule, both visual movement and lighting changes should clue you into the fact that you might have that type of moment on your hands. For example, look at this sundown. If we added a reverse cymbal leading up to the cut, and layer it with a bass drop that starts right on the cut, you've now effectively accented a moment that might have otherwise been a missed opportunity. The end result, is that you've got a more consistently styled piece, which a more novice editor might not have been able to achieve. Now there's one last important point about sound design that we wanna share with you. Not every moment needs to be accented and not every accented moment needs to be maximum intensity. You need to be balanced. Let's look at an example of what we mean by this. If we overload this moment too far, we create problems. Have a listen. - Simon. - Ralph. - Those two pieces of sound design, the bass drop, and the hit, are far too intense for a soft moment like this, that isn't confined to one single frame and isn't even the climax of the scene. The movement when the hand is pulled back is meant to be in momentary pause in the tension, versus a major impactful event. Ralph is about to go home and this is the moment when he realizes that he can't do that. Identify key moments. If you try to make every moment special, none of them will be special. This moment still deserves sound design, just something subtler. Have a look with the hits turned off, leaving only the cymbal suck. - Simon. - Ralph. - Much better and more appropriate. Now let's look at the actual climax. We've already lined the score up. We'll add a reverse cymbal, also known as a suck back, and a boom. Combined with the score, this now signals the resolution of the scene and the setup of the next. Okay, so the pieces are there, but the levels are all over the place. It's time to mix the audio. We need to make sure that the score, dialogue, and sound effects all play at the correct levels in relation to each other. When using your audio meters, here's kind of a rough guide. Make sure that nothing peaks. Aim for dialogue around negative 12 db. It tends to be one of the loudest things in our mix. This obviously is because we want people to be able to understand the dialogue and follow the story. Depending on what they are, sound effects will be anywhere from negative 10 db to negative 30 db, and then the score or the music itself, tends to sit around negative 20 to negative 30 db. All right, now let's see how it all sounds. - Simon. - Ralph. - Not bad. Sound design is an iterative process. Like building a brick wall, good sound design is made up of many small touches, that when you step back, make something truly awesome. Start with the foundations, score, ambience, foley, and then keep on building with more and more creativity. Well-built layers add sophistication and interest to the entire audio bed. Follow a consistent workflow, yes, but creatively, try to think outside the box. And of course remember, these techniques are applicable no matter what software that you work in. All right, now go sound design something. It'll be fun, I promise. Hey there for tons more free editing training, head over to our website at filmeditingpro.com/freetraining. Here you can download free editing guides, along with high quality video training courses, created by our team of professional Hollywood editors. Our tutorials cover a wide range of editing topics, like cutting awesome movie trailers, editing action scenes, how to work with music and sound design, and a lot more. All of these free guides and videos are available at filmeditingpro.com/freetraining. I'll see you next time.",
+  "duration_seconds": 1005.34,
+  "segment_count": 407,
+  "word_count": 2422,
+  "char_count": 13688
+}

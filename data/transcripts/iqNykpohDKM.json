@@ -1,0 +1,2451 @@
+{
+  "video_id": "iqNykpohDKM",
+  "url": "https://youtu.be/iqNykpohDKM?si=DgOW44i-zXDvnDQh",
+  "raw_transcript": [
+    {
+      "text": "8 years ago I made a switch to DaVinci",
+      "start": 0.4,
+      "duration": 3.48
+    },
+    {
+      "text": "Resolve.",
+      "start": 2.36,
+      "duration": 4.0
+    },
+    {
+      "text": "Since then, Resolve has kept improving",
+      "start": 3.88,
+      "duration": 5.16
+    },
+    {
+      "text": "with constant new updates and features.",
+      "start": 6.36,
+      "duration": 4.32
+    },
+    {
+      "text": "So, even after 8 years, it's been a",
+      "start": 9.04,
+      "duration": 3.24
+    },
+    {
+      "text": "continuous learning process and I'm",
+      "start": 10.68,
+      "duration": 3.08
+    },
+    {
+      "text": "still picking up new things all the",
+      "start": 12.28,
+      "duration": 2.68
+    },
+    {
+      "text": "time.",
+      "start": 13.76,
+      "duration": 2.88
+    },
+    {
+      "text": "And since it's November and the weather",
+      "start": 14.96,
+      "duration": 3.2
+    },
+    {
+      "text": "is horrible,",
+      "start": 16.64,
+      "duration": 3.4
+    },
+    {
+      "text": "I figured I'd just stay in today and",
+      "start": 18.16,
+      "duration": 3.8
+    },
+    {
+      "text": "share 18 little things in Resolve that",
+      "start": 20.04,
+      "duration": 4.0
+    },
+    {
+      "text": "has made my workflow a lot faster and",
+      "start": 21.96,
+      "duration": 5.16
+    },
+    {
+      "text": "smoother over the years.",
+      "start": 24.04,
+      "duration": 3.08
+    },
+    {
+      "text": "Number one, select left or right of",
+      "start": 27.16,
+      "duration": 3.92
+    },
+    {
+      "text": "playhead and close gaps.",
+      "start": 29.12,
+      "duration": 3.319
+    },
+    {
+      "text": "If you need a quick way to instantly",
+      "start": 31.08,
+      "duration": 3.4
+    },
+    {
+      "text": "highlight everything either before or",
+      "start": 32.439,
+      "duration": 3.961
+    },
+    {
+      "text": "after your playhead, if you for example",
+      "start": 34.48,
+      "duration": 3.72
+    },
+    {
+      "text": "want to make space for this clip in",
+      "start": 36.4,
+      "duration": 3.72
+    },
+    {
+      "text": "between these two clips without breaking",
+      "start": 38.2,
+      "duration": 4.16
+    },
+    {
+      "text": "anything further down your timeline, on",
+      "start": 40.12,
+      "duration": 4.52
+    },
+    {
+      "text": "Mac the default shortcuts are option",
+      "start": 42.36,
+      "duration": 4.8
+    },
+    {
+      "text": "command Y for selecting everything to",
+      "start": 44.64,
+      "duration": 5.44
+    },
+    {
+      "text": "the left and option Y for everything to",
+      "start": 47.16,
+      "duration": 4.92
+    },
+    {
+      "text": "the right, which makes it really easy to",
+      "start": 50.08,
+      "duration": 4.38
+    },
+    {
+      "text": "select and move large sections at once.",
+      "start": 52.08,
+      "duration": 4.88
+    },
+    {
+      "text": "[Music]",
+      "start": 54.46,
+      "duration": 3.9
+    },
+    {
+      "text": "And let's say your timeline looks like",
+      "start": 56.96,
+      "duration": 3.12
+    },
+    {
+      "text": "this and you just want to remove all the",
+      "start": 58.36,
+      "duration": 3.76
+    },
+    {
+      "text": "empty spaces between all the clips.",
+      "start": 60.08,
+      "duration": 4.0
+    },
+    {
+      "text": "Instead of manually clicking each gap to",
+      "start": 62.12,
+      "duration": 5.44
+    },
+    {
+      "text": "delete it, you can use use delete gaps.",
+      "start": 64.08,
+      "duration": 5.2
+    },
+    {
+      "text": "In the keyboard customization, I have",
+      "start": 67.56,
+      "duration": 4.96
+    },
+    {
+      "text": "mapped delete gaps to command G.",
+      "start": 69.28,
+      "duration": 4.68
+    },
+    {
+      "text": "And now I can just remove all the empty",
+      "start": 72.52,
+      "duration": 3.96
+    },
+    {
+      "text": "spaces instantly.",
+      "start": 73.96,
+      "duration": 4.84
+    },
+    {
+      "text": "Number two, shuffle clips.",
+      "start": 76.48,
+      "duration": 3.8
+    },
+    {
+      "text": "Are you still swapping clips like this",
+      "start": 78.8,
+      "duration": 2.57
+    },
+    {
+      "text": "manually?",
+      "start": 80.28,
+      "duration": 4.4
+    },
+    {
+      "text": "[Music]",
+      "start": 81.37,
+      "duration": 3.31
+    },
+    {
+      "text": "The swap clip shortcut is really useful",
+      "start": 85.52,
+      "duration": 3.08
+    },
+    {
+      "text": "when you want to rearrange clips in your",
+      "start": 87.24,
+      "duration": 3.04
+    },
+    {
+      "text": "timeline without breaking the timeline",
+      "start": 88.6,
+      "duration": 2.92
+    },
+    {
+      "text": "structure.",
+      "start": 90.28,
+      "duration": 3.0
+    },
+    {
+      "text": "To swap clips, just select the clip and",
+      "start": 91.52,
+      "duration": 4.6
+    },
+    {
+      "text": "press shift command comma to move your",
+      "start": 93.28,
+      "duration": 5.72
+    },
+    {
+      "text": "clip or clips to the left",
+      "start": 96.12,
+      "duration": 5.56
+    },
+    {
+      "text": "and shift command dot to move them to",
+      "start": 99.0,
+      "duration": 4.76
+    },
+    {
+      "text": "the right.",
+      "start": 101.68,
+      "duration": 4.6
+    },
+    {
+      "text": "You can also hold shift command and",
+      "start": 103.76,
+      "duration": 4.24
+    },
+    {
+      "text": "simply drag a clip and Resolve will",
+      "start": 106.28,
+      "duration": 3.48
+    },
+    {
+      "text": "automatically push the other clips out",
+      "start": 108.0,
+      "duration": 3.6
+    },
+    {
+      "text": "of the way.",
+      "start": 109.76,
+      "duration": 4.76
+    },
+    {
+      "text": "Number three, trim to playhead.",
+      "start": 111.6,
+      "duration": 4.6
+    },
+    {
+      "text": "This is my most used keyboard shortcut",
+      "start": 114.52,
+      "duration": 4.28
+    },
+    {
+      "text": "when editing and it's using Q and W to",
+      "start": 116.2,
+      "duration": 4.0
+    },
+    {
+      "text": "trim your clips to the playhead's",
+      "start": 118.8,
+      "duration": 3.0
+    },
+    {
+      "text": "position.",
+      "start": 120.2,
+      "duration": 3.84
+    },
+    {
+      "text": "When I press Q, it removes everything",
+      "start": 121.8,
+      "duration": 3.92
+    },
+    {
+      "text": "before the playhead.",
+      "start": 124.04,
+      "duration": 3.4
+    },
+    {
+      "text": "And when I press W, it removes",
+      "start": 125.72,
+      "duration": 3.84
+    },
+    {
+      "text": "everything after, just as in Premiere",
+      "start": 127.44,
+      "duration": 3.72
+    },
+    {
+      "text": "Pro.",
+      "start": 129.56,
+      "duration": 3.36
+    },
+    {
+      "text": "So, in the keyboard customization, I",
+      "start": 131.16,
+      "duration": 5.12
+    },
+    {
+      "text": "have remapped ripple start to playhead",
+      "start": 132.92,
+      "duration": 5.2
+    },
+    {
+      "text": "to Q",
+      "start": 136.28,
+      "duration": 5.0
+    },
+    {
+      "text": "and end to playhead to W.",
+      "start": 138.12,
+      "duration": 4.52
+    },
+    {
+      "text": "It's a simple way to move through your",
+      "start": 141.28,
+      "duration": 3.2
+    },
+    {
+      "text": "timeline without ever touching the blade",
+      "start": 142.64,
+      "duration": 3.28
+    },
+    {
+      "text": "tool.",
+      "start": 144.48,
+      "duration": 4.28
+    },
+    {
+      "text": "You can just play, stop, trim, and keep",
+      "start": 145.92,
+      "duration": 5.32
+    },
+    {
+      "text": "going.",
+      "start": 148.76,
+      "duration": 2.48
+    },
+    {
+      "text": "And once Q and W are in your muscle",
+      "start": 151.56,
+      "duration": 4.04
+    },
+    {
+      "text": "memory, it completely changes how fast",
+      "start": 153.56,
+      "duration": 4.6
+    },
+    {
+      "text": "you can work. Number four, dynamic",
+      "start": 155.6,
+      "duration": 4.52
+    },
+    {
+      "text": "project switching. Sometimes you need to",
+      "start": 158.16,
+      "duration": 4.28
+    },
+    {
+      "text": "copy things from one project to another,",
+      "start": 160.12,
+      "duration": 4.56
+    },
+    {
+      "text": "maybe a timeline, a grade, or some other",
+      "start": 162.44,
+      "duration": 3.32
+    },
+    {
+      "text": "assets.",
+      "start": 164.68,
+      "duration": 2.56
+    },
+    {
+      "text": "Normally, you would have to close one",
+      "start": 165.76,
+      "duration": 3.72
+    },
+    {
+      "text": "project, open the next one, and wait for",
+      "start": 167.24,
+      "duration": 3.6
+    },
+    {
+      "text": "it to load.",
+      "start": 169.48,
+      "duration": 3.4
+    },
+    {
+      "text": "But if you go into your project manager,",
+      "start": 170.84,
+      "duration": 4.48
+    },
+    {
+      "text": "right click, and enable dynamic project",
+      "start": 172.88,
+      "duration": 4.24
+    },
+    {
+      "text": "switching, you can keep multiple",
+      "start": 175.32,
+      "duration": 4.08
+    },
+    {
+      "text": "projects open at the same time",
+      "start": 177.12,
+      "duration": 4.84
+    },
+    {
+      "text": "and switch between them instantly.",
+      "start": 179.4,
+      "duration": 5.2
+    },
+    {
+      "text": "Number five, viewer background.",
+      "start": 181.96,
+      "duration": 4.28
+    },
+    {
+      "text": "Sometimes when you're resizing or",
+      "start": 184.6,
+      "duration": 3.4
+    },
+    {
+      "text": "repositioning in a clip,",
+      "start": 186.24,
+      "duration": 3.12
+    },
+    {
+      "text": "it can be hard to see where the clip",
+      "start": 188.0,
+      "duration": 3.56
+    },
+    {
+      "text": "edge actually ends, especially if the",
+      "start": 189.36,
+      "duration": 3.76
+    },
+    {
+      "text": "clip is dark and blends into the",
+      "start": 191.56,
+      "duration": 2.72
+    },
+    {
+      "text": "background.",
+      "start": 193.12,
+      "duration": 2.76
+    },
+    {
+      "text": "I have accidentally exported a project",
+      "start": 194.28,
+      "duration": 3.24
+    },
+    {
+      "text": "in the past where a small edge of the",
+      "start": 195.88,
+      "duration": 3.36
+    },
+    {
+      "text": "viewer background was visible in the",
+      "start": 197.52,
+      "duration": 3.96
+    },
+    {
+      "text": "final video.",
+      "start": 199.24,
+      "duration": 3.76
+    },
+    {
+      "text": "To avoid that, you can actually change",
+      "start": 201.48,
+      "duration": 3.68
+    },
+    {
+      "text": "the viewer background color. Just open",
+      "start": 203.0,
+      "duration": 4.04
+    },
+    {
+      "text": "the timeline view options and go to",
+      "start": 205.16,
+      "duration": 3.44
+    },
+    {
+      "text": "viewer background.",
+      "start": 207.04,
+      "duration": 3.04
+    },
+    {
+      "text": "Here you can choose something other than",
+      "start": 208.6,
+      "duration": 3.8
+    },
+    {
+      "text": "black, black, red, or a checkerboard",
+      "start": 210.08,
+      "duration": 4.2
+    },
+    {
+      "text": "pattern. It's a simple adjustment, but",
+      "start": 212.4,
+      "duration": 3.52
+    },
+    {
+      "text": "it makes it a lot easier to see where",
+      "start": 214.28,
+      "duration": 3.44
+    },
+    {
+      "text": "your frame really ends and help you",
+      "start": 215.92,
+      "duration": 3.2
+    },
+    {
+      "text": "catch those small mistakes before",
+      "start": 217.72,
+      "duration": 2.64
+    },
+    {
+      "text": "exporting.",
+      "start": 219.12,
+      "duration": 2.64
+    },
+    {
+      "text": "Number six,",
+      "start": 220.36,
+      "duration": 2.76
+    },
+    {
+      "text": "power bins.",
+      "start": 221.76,
+      "duration": 2.44
+    },
+    {
+      "text": "If you have a collection of sound",
+      "start": 223.12,
+      "duration": 3.08
+    },
+    {
+      "text": "effects, overlays, or any assets you",
+      "start": 224.2,
+      "duration": 4.24
+    },
+    {
+      "text": "tend to use across multiple edits, power",
+      "start": 226.2,
+      "duration": 3.92
+    },
+    {
+      "text": "bins let you store assets that stays",
+      "start": 228.44,
+      "duration": 3.6
+    },
+    {
+      "text": "available across all of your projects.",
+      "start": 230.12,
+      "duration": 3.44
+    },
+    {
+      "text": "So, instead of re-importing the same",
+      "start": 232.04,
+      "duration": 3.6
+    },
+    {
+      "text": "media every time, you can just store",
+      "start": 233.56,
+      "duration": 4.16
+    },
+    {
+      "text": "them in a power bin. To enable them,",
+      "start": 235.64,
+      "duration": 4.28
+    },
+    {
+      "text": "just click these three dots and select",
+      "start": 237.72,
+      "duration": 4.04
+    },
+    {
+      "text": "show power bins.",
+      "start": 239.92,
+      "duration": 3.68
+    },
+    {
+      "text": "If I want to save this flash transition",
+      "start": 241.76,
+      "duration": 4.08
+    },
+    {
+      "text": "I made for example, I can just drag this",
+      "start": 243.6,
+      "duration": 4.08
+    },
+    {
+      "text": "adjustment clip into a power bin and it",
+      "start": 245.84,
+      "duration": 3.48
+    },
+    {
+      "text": "will automatically be visible in every",
+      "start": 247.68,
+      "duration": 4.72
+    },
+    {
+      "text": "future or old project I open.",
+      "start": 249.32,
+      "duration": 6.12
+    },
+    {
+      "text": "Number seven, dynamic zoom.",
+      "start": 252.4,
+      "duration": 4.559
+    },
+    {
+      "text": "You might know this one already, but if",
+      "start": 255.44,
+      "duration": 3.4
+    },
+    {
+      "text": "you want to add a simple zoom to a clip,",
+      "start": 256.959,
+      "duration": 3.241
+    },
+    {
+      "text": "you don't actually have to keyframe",
+      "start": 258.84,
+      "duration": 2.399
+    },
+    {
+      "text": "anything.",
+      "start": 260.2,
+      "duration": 2.88
+    },
+    {
+      "text": "In the inspector, Resolve has a feature",
+      "start": 261.239,
+      "duration": 4.361
+    },
+    {
+      "text": "called dynamic zoom.",
+      "start": 263.08,
+      "duration": 4.52
+    },
+    {
+      "text": "When you enable it and click this drop",
+      "start": 265.6,
+      "duration": 3.92
+    },
+    {
+      "text": "down to show the on-screen controls for",
+      "start": 267.6,
+      "duration": 4.24
+    },
+    {
+      "text": "dynamic zoom, you'll see two boxes in",
+      "start": 269.52,
+      "duration": 3.52
+    },
+    {
+      "text": "the viewer,",
+      "start": 271.84,
+      "duration": 3.6
+    },
+    {
+      "text": "a green one and a red one.",
+      "start": 273.04,
+      "duration": 3.68
+    },
+    {
+      "text": "The green box is the starting",
+      "start": 275.44,
+      "duration": 3.48
+    },
+    {
+      "text": "composition and the red box is the end",
+      "start": 276.72,
+      "duration": 3.76
+    },
+    {
+      "text": "composition.",
+      "start": 278.92,
+      "duration": 3.16
+    },
+    {
+      "text": "So, if I want to slow zoom in on this",
+      "start": 280.48,
+      "duration": 2.84
+    },
+    {
+      "text": "clip,",
+      "start": 282.08,
+      "duration": 3.44
+    },
+    {
+      "text": "it always zooms out by default. First,",
+      "start": 283.32,
+      "duration": 4.44
+    },
+    {
+      "text": "click swap to reverse the movement and",
+      "start": 285.52,
+      "duration": 4.16
+    },
+    {
+      "text": "then adjust the red box slightly smaller",
+      "start": 287.76,
+      "duration": 4.72
+    },
+    {
+      "text": "than the green one.",
+      "start": 289.68,
+      "duration": 2.8
+    },
+    {
+      "text": "Number eight, timeline playback",
+      "start": 294.0,
+      "duration": 3.36
+    },
+    {
+      "text": "resolution.",
+      "start": 295.88,
+      "duration": 2.96
+    },
+    {
+      "text": "If your playback starts to feel a bit",
+      "start": 297.36,
+      "duration": 3.44
+    },
+    {
+      "text": "choppy, especially when you're working",
+      "start": 298.84,
+      "duration": 3.8
+    },
+    {
+      "text": "with heavy grades or high resolution",
+      "start": 300.8,
+      "duration": 4.08
+    },
+    {
+      "text": "footage, a quick way to fix that without",
+      "start": 302.64,
+      "duration": 4.4
+    },
+    {
+      "text": "generating proxy files is to let Resolve",
+      "start": 304.88,
+      "duration": 3.56
+    },
+    {
+      "text": "play the footage back at a lower",
+      "start": 307.04,
+      "duration": 2.84
+    },
+    {
+      "text": "resolution.",
+      "start": 308.44,
+      "duration": 3.2
+    },
+    {
+      "text": "You can do that under playback and",
+      "start": 309.88,
+      "duration": 3.84
+    },
+    {
+      "text": "timeline playback resolution, where you",
+      "start": 311.64,
+      "duration": 4.12
+    },
+    {
+      "text": "can choose to play your timeline back at",
+      "start": 313.72,
+      "duration": 4.6
+    },
+    {
+      "text": "half or quarter resolution. What this",
+      "start": 315.76,
+      "duration": 4.56
+    },
+    {
+      "text": "does is temporarily lower the resolution",
+      "start": 318.32,
+      "duration": 3.8
+    },
+    {
+      "text": "in the viewer, so you're able to get",
+      "start": 320.32,
+      "duration": 3.56
+    },
+    {
+      "text": "much smoother playback and it can also",
+      "start": 322.12,
+      "duration": 4.16
+    },
+    {
+      "text": "help you stay sane.",
+      "start": 323.88,
+      "duration": 5.52
+    },
+    {
+      "text": "Number nine, export presets.",
+      "start": 326.28,
+      "duration": 4.72
+    },
+    {
+      "text": "In the deliver tab, you can create your",
+      "start": 329.4,
+      "duration": 3.08
+    },
+    {
+      "text": "own export presets for different",
+      "start": 331.0,
+      "duration": 3.16
+    },
+    {
+      "text": "purposes.",
+      "start": 332.48,
+      "duration": 3.68
+    },
+    {
+      "text": "For example, I have one for Instagram,",
+      "start": 334.16,
+      "duration": 4.12
+    },
+    {
+      "text": "one for quick test exports, and one for",
+      "start": 336.16,
+      "duration": 3.96
+    },
+    {
+      "text": "YouTube.",
+      "start": 338.28,
+      "duration": 3.08
+    },
+    {
+      "text": "And once you've set up your export",
+      "start": 340.12,
+      "duration": 3.4
+    },
+    {
+      "text": "settings the way you like, just click",
+      "start": 341.36,
+      "duration": 3.8
+    },
+    {
+      "text": "these three dots next to the render",
+      "start": 343.52,
+      "duration": 5.44
+    },
+    {
+      "text": "settings and choose save as new preset.",
+      "start": 345.16,
+      "duration": 5.64
+    },
+    {
+      "text": "Here you can give your preset a name and",
+      "start": 348.96,
+      "duration": 3.2
+    },
+    {
+      "text": "an icon.",
+      "start": 350.8,
+      "duration": 2.72
+    },
+    {
+      "text": "So, now you can load these settings",
+      "start": 352.16,
+      "duration": 3.28
+    },
+    {
+      "text": "instantly whenever you export and not",
+      "start": 353.52,
+      "duration": 3.56
+    },
+    {
+      "text": "having to redo your settings every",
+      "start": 355.44,
+      "duration": 3.6
+    },
+    {
+      "text": "single time.",
+      "start": 357.08,
+      "duration": 3.28
+    },
+    {
+      "text": "And for an even quicker way of",
+      "start": 359.04,
+      "duration": 3.52
+    },
+    {
+      "text": "exporting, click these three dots again",
+      "start": 360.36,
+      "duration": 4.6
+    },
+    {
+      "text": "and add your preset to quick exports.",
+      "start": 362.56,
+      "duration": 3.96
+    },
+    {
+      "text": "Now you can export your video with this",
+      "start": 364.96,
+      "duration": 5.52
+    },
+    {
+      "text": "preset directly from the edit page.",
+      "start": 366.52,
+      "duration": 3.96
+    },
+    {
+      "text": "Number 10, hide layers from the color",
+      "start": 370.88,
+      "duration": 3.84
+    },
+    {
+      "text": "page.",
+      "start": 373.12,
+      "duration": 2.92
+    },
+    {
+      "text": "Let's say you have a bunch of adjustment",
+      "start": 374.72,
+      "duration": 3.0
+    },
+    {
+      "text": "clips on your timeline.",
+      "start": 376.04,
+      "duration": 4.08
+    },
+    {
+      "text": "Maybe a dynamic zoom, some transitions,",
+      "start": 377.72,
+      "duration": 3.84
+    },
+    {
+      "text": "or something else.",
+      "start": 380.12,
+      "duration": 3.12
+    },
+    {
+      "text": "Then when you go into the color page to",
+      "start": 381.56,
+      "duration": 3.8
+    },
+    {
+      "text": "grade, Resolve keeps selecting those",
+      "start": 383.24,
+      "duration": 3.76
+    },
+    {
+      "text": "adjustment clips instead of the actual",
+      "start": 385.36,
+      "duration": 3.68
+    },
+    {
+      "text": "footage underneath. To fix that, you can",
+      "start": 387.0,
+      "duration": 4.0
+    },
+    {
+      "text": "temporarily hide specific layers from",
+      "start": 389.04,
+      "duration": 3.8
+    },
+    {
+      "text": "the color page. Just open the timeline",
+      "start": 391.0,
+      "duration": 3.96
+    },
+    {
+      "text": "view and alt or option click on the",
+      "start": 392.84,
+      "duration": 3.72
+    },
+    {
+      "text": "layer you want to hide. This is",
+      "start": 394.96,
+      "duration": 2.92
+    },
+    {
+      "text": "different than just clicking on the",
+      "start": 396.56,
+      "duration": 3.28
+    },
+    {
+      "text": "layer and hiding it all together, since",
+      "start": 397.88,
+      "duration": 3.28
+    },
+    {
+      "text": "the adjustments you've added are still",
+      "start": 399.84,
+      "duration": 3.08
+    },
+    {
+      "text": "visible, but the color page will simply",
+      "start": 401.16,
+      "duration": 4.16
+    },
+    {
+      "text": "ignore that layer while you're grading.",
+      "start": 402.92,
+      "duration": 4.88
+    },
+    {
+      "text": "Number 11, shared nodes.",
+      "start": 405.32,
+      "duration": 3.84
+    },
+    {
+      "text": "If you've ever had one effect or",
+      "start": 407.8,
+      "duration": 2.84
+    },
+    {
+      "text": "adjustment that you wanted to use across",
+      "start": 409.16,
+      "duration": 3.92
+    },
+    {
+      "text": "multiple clips, using a shared node lets",
+      "start": 410.64,
+      "duration": 4.12
+    },
+    {
+      "text": "you use the same node across all of",
+      "start": 413.08,
+      "duration": 3.0
+    },
+    {
+      "text": "them.",
+      "start": 414.76,
+      "duration": 3.0
+    },
+    {
+      "text": "So, any grade or adjustment you make to",
+      "start": 416.08,
+      "duration": 3.76
+    },
+    {
+      "text": "it will automatically update everywhere",
+      "start": 417.76,
+      "duration": 3.33
+    },
+    {
+      "text": "else it's used.",
+      "start": 419.84,
+      "duration": 2.44
+    },
+    {
+      "text": "[Music]",
+      "start": 421.09,
+      "duration": 2.75
+    },
+    {
+      "text": "If you disable a shared node, it will",
+      "start": 422.28,
+      "duration": 3.64
+    },
+    {
+      "text": "also turn off in every clip that's using",
+      "start": 423.84,
+      "duration": 3.48
+    },
+    {
+      "text": "it.",
+      "start": 425.92,
+      "duration": 3.12
+    },
+    {
+      "text": "That's especially useful for stuff like",
+      "start": 427.32,
+      "duration": 3.88
+    },
+    {
+      "text": "noise reduction that you usually want to",
+      "start": 429.04,
+      "duration": 4.36
+    },
+    {
+      "text": "have turned off during editing to avoid",
+      "start": 431.2,
+      "duration": 4.16
+    },
+    {
+      "text": "laggy playback.",
+      "start": 433.4,
+      "duration": 3.72
+    },
+    {
+      "text": "So, if you have several noisy shots that",
+      "start": 435.36,
+      "duration": 3.28
+    },
+    {
+      "text": "require the same amount of noise",
+      "start": 437.12,
+      "duration": 2.68
+    },
+    {
+      "text": "reduction,",
+      "start": 438.64,
+      "duration": 2.92
+    },
+    {
+      "text": "you can assign them to the same shared",
+      "start": 439.8,
+      "duration": 2.88
+    },
+    {
+      "text": "node.",
+      "start": 441.56,
+      "duration": 2.72
+    },
+    {
+      "text": "Then you can toggle this specific node",
+      "start": 442.68,
+      "duration": 4.04
+    },
+    {
+      "text": "off across all the clips with one single",
+      "start": 444.28,
+      "duration": 4.4
+    },
+    {
+      "text": "click. And then just remember to enable",
+      "start": 446.72,
+      "duration": 3.88
+    },
+    {
+      "text": "it again before exporting. To create a",
+      "start": 448.68,
+      "duration": 3.72
+    },
+    {
+      "text": "shared node, just right click on the",
+      "start": 450.6,
+      "duration": 4.24
+    },
+    {
+      "text": "node you want to use and select save as",
+      "start": 452.4,
+      "duration": 4.48
+    },
+    {
+      "text": "shared node and you'll see two small",
+      "start": 454.84,
+      "duration": 3.84
+    },
+    {
+      "text": "blue arrows appear showing that it's",
+      "start": 456.88,
+      "duration": 3.8
+    },
+    {
+      "text": "shared. To add this shared node to",
+      "start": 458.68,
+      "duration": 4.12
+    },
+    {
+      "text": "another clip, right click on the node",
+      "start": 460.68,
+      "duration": 4.6
+    },
+    {
+      "text": "and under add node, you'll see all your",
+      "start": 462.8,
+      "duration": 4.96
+    },
+    {
+      "text": "shared nodes listed down here.",
+      "start": 465.28,
+      "duration": 4.24
+    },
+    {
+      "text": "By default, shared nodes are locked so",
+      "start": 467.76,
+      "duration": 3.2
+    },
+    {
+      "text": "you don't accidentally make changes to",
+      "start": 469.52,
+      "duration": 2.44
+    },
+    {
+      "text": "them.",
+      "start": 470.96,
+      "duration": 2.76
+    },
+    {
+      "text": "And if you want to edit one, just right",
+      "start": 471.96,
+      "duration": 4.76
+    },
+    {
+      "text": "click and unlock it first.",
+      "start": 473.72,
+      "duration": 6.44
+    },
+    {
+      "text": "Number 12, power grades.",
+      "start": 476.72,
+      "duration": 4.92
+    },
+    {
+      "text": "If you don't know about power grades,",
+      "start": 480.16,
+      "duration": 3.24
+    },
+    {
+      "text": "they let you save entire grades",
+      "start": 481.64,
+      "duration": 3.68
+    },
+    {
+      "text": "including all the nodes, keyframes, and",
+      "start": 483.4,
+      "duration": 4.6
+    },
+    {
+      "text": "effects, so you can reuse them later.",
+      "start": 485.32,
+      "duration": 4.68
+    },
+    {
+      "text": "To save one, right click on your video",
+      "start": 488.0,
+      "duration": 4.88
+    },
+    {
+      "text": "clip and choose grab still.",
+      "start": 490.0,
+      "duration": 4.72
+    },
+    {
+      "text": "This still now includes the entire node",
+      "start": 492.88,
+      "duration": 4.0
+    },
+    {
+      "text": "structure and grade.",
+      "start": 494.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Regular stills are tied to the current",
+      "start": 496.88,
+      "duration": 4.04
+    },
+    {
+      "text": "project, but if you drag it into a power",
+      "start": 498.72,
+      "duration": 3.68
+    },
+    {
+      "text": "grade folder,",
+      "start": 500.92,
+      "duration": 3.2
+    },
+    {
+      "text": "it now, just like power bins, are",
+      "start": 502.4,
+      "duration": 3.56
+    },
+    {
+      "text": "accessible from any project in your",
+      "start": 504.12,
+      "duration": 3.0
+    },
+    {
+      "text": "database.",
+      "start": 505.96,
+      "duration": 2.72
+    },
+    {
+      "text": "And when you want to apply a power grade",
+      "start": 507.12,
+      "duration": 3.96
+    },
+    {
+      "text": "to a new clip, just middle click on that",
+      "start": 508.68,
+      "duration": 5.16
+    },
+    {
+      "text": "still or simply drag it directly onto",
+      "start": 511.08,
+      "duration": 4.0
+    },
+    {
+      "text": "your node tree.",
+      "start": 513.84,
+      "duration": 2.48
+    },
+    {
+      "text": "It's a great way to build your own",
+      "start": 515.08,
+      "duration": 3.44
+    },
+    {
+      "text": "library of looks or to save node",
+      "start": 516.32,
+      "duration": 3.48
+    },
+    {
+      "text": "structures that you don't want to",
+      "start": 518.52,
+      "duration": 3.72
+    },
+    {
+      "text": "rebuild every single time.",
+      "start": 519.8,
+      "duration": 4.0
+    },
+    {
+      "text": "Number 13,",
+      "start": 522.24,
+      "duration": 2.96
+    },
+    {
+      "text": "groups.",
+      "start": 523.8,
+      "duration": 2.96
+    },
+    {
+      "text": "Groups are something I use to grade",
+      "start": 525.2,
+      "duration": 3.88
+    },
+    {
+      "text": "every single project. By selecting a few",
+      "start": 526.76,
+      "duration": 4.6
+    },
+    {
+      "text": "clips, right clicking, and choosing add",
+      "start": 529.08,
+      "duration": 3.72
+    },
+    {
+      "text": "to new group,",
+      "start": 531.36,
+      "duration": 2.84
+    },
+    {
+      "text": "you create a group of clips that can",
+      "start": 532.8,
+      "duration": 3.64
+    },
+    {
+      "text": "share parts of the same grade.",
+      "start": 534.2,
+      "duration": 4.4
+    },
+    {
+      "text": "Once a clip is in a group, you'll see",
+      "start": 536.44,
+      "duration": 3.92
+    },
+    {
+      "text": "two new dots at the top of the node",
+      "start": 538.6,
+      "duration": 2.64
+    },
+    {
+      "text": "tree,",
+      "start": 540.36,
+      "duration": 3.36
+    },
+    {
+      "text": "pre-group and post-group.",
+      "start": 541.24,
+      "duration": 4.08
+    },
+    {
+      "text": "The pre-group is for adjustments that",
+      "start": 543.72,
+      "duration": 3.2
+    },
+    {
+      "text": "happens before the clip's own",
+      "start": 545.32,
+      "duration": 3.08
+    },
+    {
+      "text": "adjustments",
+      "start": 546.92,
+      "duration": 3.08
+    },
+    {
+      "text": "and the post-group is for adjustments",
+      "start": 548.4,
+      "duration": 3.2
+    },
+    {
+      "text": "that happen after",
+      "start": 550.0,
+      "duration": 3.52
+    },
+    {
+      "text": "across the whole group.",
+      "start": 551.6,
+      "duration": 3.92
+    },
+    {
+      "text": "The way I usually use groups is to use",
+      "start": 553.52,
+      "duration": 3.72
+    },
+    {
+      "text": "the pre-group to add a color space",
+      "start": 555.52,
+      "duration": 3.88
+    },
+    {
+      "text": "transform from my camera's color space",
+      "start": 557.24,
+      "duration": 4.2
+    },
+    {
+      "text": "to my working color space.",
+      "start": 559.4,
+      "duration": 4.32
+    },
+    {
+      "text": "And as the last node in the post-group,",
+      "start": 561.44,
+      "duration": 4.48
+    },
+    {
+      "text": "I add another CST from DaVinci wide",
+      "start": 563.72,
+      "duration": 5.88
+    },
+    {
+      "text": "gamut to my output color space.",
+      "start": 565.92,
+      "duration": 5.44
+    },
+    {
+      "text": "And then I do all my color correction on",
+      "start": 569.6,
+      "duration": 3.72
+    },
+    {
+      "text": "each clip individually, like white",
+      "start": 571.36,
+      "duration": 5.28
+    },
+    {
+      "text": "balance, exposure, and power windows.",
+      "start": 573.32,
+      "duration": 4.8
+    },
+    {
+      "text": "And then in the post-group again is",
+      "start": 576.64,
+      "duration": 4.36
+    },
+    {
+      "text": "where I apply my overall grade.",
+      "start": 578.12,
+      "duration": 4.36
+    },
+    {
+      "text": "You can have all your clips in one group",
+      "start": 581.0,
+      "duration": 2.96
+    },
+    {
+      "text": "if you want the same adjustments to",
+      "start": 582.48,
+      "duration": 3.44
+    },
+    {
+      "text": "apply to the whole project, or you can",
+      "start": 583.96,
+      "duration": 3.72
+    },
+    {
+      "text": "create separate groups for each camera,",
+      "start": 585.92,
+      "duration": 3.32
+    },
+    {
+      "text": "for example, one for your drone shots",
+      "start": 587.68,
+      "duration": 3.44
+    },
+    {
+      "text": "and one for the main camera if you want",
+      "start": 589.24,
+      "duration": 4.96
+    },
+    {
+      "text": "slightly different adjustments for each.",
+      "start": 591.12,
+      "duration": 6.08
+    },
+    {
+      "text": "Number 14, chroma warper.",
+      "start": 594.2,
+      "duration": 4.52
+    },
+    {
+      "text": "This is one of my favorite tools in the",
+      "start": 597.2,
+      "duration": 4.04
+    },
+    {
+      "text": "Resolve 12 update. The color warper is a",
+      "start": 598.72,
+      "duration": 4.36
+    },
+    {
+      "text": "powerful tool that lets you do specific",
+      "start": 601.24,
+      "duration": 3.48
+    },
+    {
+      "text": "hue adjustments.",
+      "start": 603.08,
+      "duration": 3.08
+    },
+    {
+      "text": "Let's say I wanted to change the color",
+      "start": 604.72,
+      "duration": 3.8
+    },
+    {
+      "text": "of this jacket.",
+      "start": 606.16,
+      "duration": 4.24
+    },
+    {
+      "text": "With the color warper open, I can just",
+      "start": 608.52,
+      "duration": 4.08
+    },
+    {
+      "text": "click and drag directly on the image to",
+      "start": 610.4,
+      "duration": 4.52
+    },
+    {
+      "text": "change the color.",
+      "start": 612.6,
+      "duration": 3.8
+    },
+    {
+      "text": "And I could also drag down here in the",
+      "start": 614.92,
+      "duration": 3.52
+    },
+    {
+      "text": "UI as well.",
+      "start": 616.4,
+      "duration": 4.08
+    },
+    {
+      "text": "This white blob is referring to all the",
+      "start": 618.44,
+      "duration": 4.48
+    },
+    {
+      "text": "colors present in this image.",
+      "start": 620.48,
+      "duration": 3.92
+    },
+    {
+      "text": "And since I'm currently in the normal",
+      "start": 622.92,
+      "duration": 3.6
+    },
+    {
+      "text": "mode, if I want to make a more drastic",
+      "start": 624.4,
+      "duration": 4.08
+    },
+    {
+      "text": "color change, then all the colors that",
+      "start": 626.52,
+      "duration": 3.84
+    },
+    {
+      "text": "are in the way of this line are getting",
+      "start": 628.48,
+      "duration": 4.28
+    },
+    {
+      "text": "pushed in this direction as well.",
+      "start": 630.36,
+      "duration": 4.76
+    },
+    {
+      "text": "Which might not always be what we want.",
+      "start": 632.76,
+      "duration": 4.08
+    },
+    {
+      "text": "But if we click here and switch to point",
+      "start": 635.12,
+      "duration": 3.44
+    },
+    {
+      "text": "to point,",
+      "start": 636.84,
+      "duration": 3.68
+    },
+    {
+      "text": "the selection becomes isolated to just",
+      "start": 638.56,
+      "duration": 3.84
+    },
+    {
+      "text": "the color you picked.",
+      "start": 640.52,
+      "duration": 4.08
+    },
+    {
+      "text": "It's also great for skin tones. If the",
+      "start": 642.4,
+      "duration": 4.28
+    },
+    {
+      "text": "skin tones look too yellow, for example,",
+      "start": 644.6,
+      "duration": 4.32
+    },
+    {
+      "text": "I can just click and drag to align it",
+      "start": 646.68,
+      "duration": 5.72
+    },
+    {
+      "text": "with the skin tone line in the scopes.",
+      "start": 648.92,
+      "duration": 5.16
+    },
+    {
+      "text": "And we also have some sliders that lets",
+      "start": 652.4,
+      "duration": 4.04
+    },
+    {
+      "text": "us adjust stuff like the chroma range,",
+      "start": 654.08,
+      "duration": 4.4
+    },
+    {
+      "text": "which broadens or narrows our selection",
+      "start": 656.44,
+      "duration": 3.399
+    },
+    {
+      "text": "of colors,",
+      "start": 658.48,
+      "duration": 2.96
+    },
+    {
+      "text": "and exposure, which we can use to",
+      "start": 659.839,
+      "duration": 5.761
+    },
+    {
+      "text": "brighten or darken our selected color.",
+      "start": 661.44,
+      "duration": 4.16
+    },
+    {
+      "text": "Number 15, cinematic haze.",
+      "start": 668.2,
+      "duration": 4.56
+    },
+    {
+      "text": "Another new effect in the color page",
+      "start": 671.24,
+      "duration": 2.72
+    },
+    {
+      "text": "that I've been playing around with is",
+      "start": 672.76,
+      "duration": 3.72
+    },
+    {
+      "text": "the cinematic haze effect.",
+      "start": 673.96,
+      "duration": 4.36
+    },
+    {
+      "text": "I used it on a recent mini documentary I",
+      "start": 676.48,
+      "duration": 4.12
+    },
+    {
+      "text": "did for Mazda in Italy.",
+      "start": 678.32,
+      "duration": 3.56
+    },
+    {
+      "text": "I thought it would be cool with a bit of",
+      "start": 680.6,
+      "duration": 3.239
+    },
+    {
+      "text": "haze in this location, but I wasn't able",
+      "start": 681.88,
+      "duration": 3.84
+    },
+    {
+      "text": "to bring a haze machine to Italy. So",
+      "start": 683.839,
+      "duration": 3.641
+    },
+    {
+      "text": "when I edited the project, I decided to",
+      "start": 685.72,
+      "duration": 3.88
+    },
+    {
+      "text": "just try out the haze effect.",
+      "start": 687.48,
+      "duration": 3.84
+    },
+    {
+      "text": "When you apply it, you'll see that it",
+      "start": 689.6,
+      "duration": 3.64
+    },
+    {
+      "text": "uses the depth map to determine where",
+      "start": 691.32,
+      "duration": 3.56
+    },
+    {
+      "text": "the fog appears.",
+      "start": 693.24,
+      "duration": 3.88
+    },
+    {
+      "text": "White areas will show the fog, and black",
+      "start": 694.88,
+      "duration": 4.44
+    },
+    {
+      "text": "areas stay clear.",
+      "start": 697.12,
+      "duration": 3.84
+    },
+    {
+      "text": "If I scroll down, we can see that",
+      "start": 699.32,
+      "duration": 3.04
+    },
+    {
+      "text": "there's a bunch of adjustments we can",
+      "start": 700.96,
+      "duration": 3.4
+    },
+    {
+      "text": "make to manipulate the haze,",
+      "start": 702.36,
+      "duration": 3.96
+    },
+    {
+      "text": "like adjust the halos around the bright",
+      "start": 704.36,
+      "duration": 4.479
+    },
+    {
+      "text": "areas, and also add some light rays,",
+      "start": 706.32,
+      "duration": 4.24
+    },
+    {
+      "text": "which I thought looked good to emphasize",
+      "start": 708.839,
+      "duration": 3.241
+    },
+    {
+      "text": "the sunlight coming in through these",
+      "start": 710.56,
+      "duration": 3.64
+    },
+    {
+      "text": "windows.",
+      "start": 712.08,
+      "duration": 4.04
+    },
+    {
+      "text": "Selecting air disturbance can also help",
+      "start": 714.2,
+      "duration": 4.92
+    },
+    {
+      "text": "making the haze look more realistic.",
+      "start": 716.12,
+      "duration": 4.8
+    },
+    {
+      "text": "And when decreasing the opacity to just",
+      "start": 719.12,
+      "duration": 3.96
+    },
+    {
+      "text": "have a subtle amount of the effect, it",
+      "start": 720.92,
+      "duration": 5.6
+    },
+    {
+      "text": "can actually look pretty believable.",
+      "start": 723.08,
+      "duration": 4.759
+    },
+    {
+      "text": "But when it comes to storytelling and",
+      "start": 726.52,
+      "duration": 3.6
+    },
+    {
+      "text": "trying to convey a feeling on screen,",
+      "start": 727.839,
+      "duration": 3.841
+    },
+    {
+      "text": "one of the most powerful ways to do that",
+      "start": 730.12,
+      "duration": 3.6
+    },
+    {
+      "text": "is through sound.",
+      "start": 731.68,
+      "duration": 3.6
+    },
+    {
+      "text": "Adding some wind,",
+      "start": 733.72,
+      "duration": 2.96
+    },
+    {
+      "text": "rain,",
+      "start": 735.28,
+      "duration": 2.68
+    },
+    {
+      "text": "waves,",
+      "start": 736.68,
+      "duration": 3.0
+    },
+    {
+      "text": "and maybe a sad song,",
+      "start": 737.96,
+      "duration": 3.0
+    },
+    {
+      "text": "makes this weather feel even more",
+      "start": 739.68,
+      "duration": 3.72
+    },
+    {
+      "text": "miserable than it already is.",
+      "start": 740.96,
+      "duration": 3.96
+    },
+    {
+      "text": "My go-to place when I'm searching for",
+      "start": 743.4,
+      "duration": 3.2
+    },
+    {
+      "text": "sound effects, music, or any other",
+      "start": 744.92,
+      "duration": 4.16
+    },
+    {
+      "text": "creative assets is Artlist, which is",
+      "start": 746.6,
+      "duration": 4.68
+    },
+    {
+      "text": "sponsoring this part of the video.",
+      "start": 749.08,
+      "duration": 3.8
+    },
+    {
+      "text": "As you probably know, Artlist is an",
+      "start": 751.28,
+      "duration": 3.16
+    },
+    {
+      "text": "all-in-one platform where you can find",
+      "start": 752.88,
+      "duration": 3.04
+    },
+    {
+      "text": "pretty much everything you need to bring",
+      "start": 754.44,
+      "duration": 3.28
+    },
+    {
+      "text": "your stories to life. Their sound",
+      "start": 755.92,
+      "duration": 3.72
+    },
+    {
+      "text": "effects library is massive, and whatever",
+      "start": 757.72,
+      "duration": 3.52
+    },
+    {
+      "text": "sound you're looking for, there's a good",
+      "start": 759.64,
+      "duration": 3.56
+    },
+    {
+      "text": "chance you will find it there.",
+      "start": 761.24,
+      "duration": 3.599
+    },
+    {
+      "text": "One of my favorite parts about Artlist",
+      "start": 763.2,
+      "duration": 3.36
+    },
+    {
+      "text": "music catalog is that you can download",
+      "start": 764.839,
+      "duration": 3.841
+    },
+    {
+      "text": "the individual stems of the song,",
+      "start": 766.56,
+      "duration": 3.8
+    },
+    {
+      "text": "which means you get each instrument",
+      "start": 768.68,
+      "duration": 3.64
+    },
+    {
+      "text": "separated. When I'm building the sound",
+      "start": 770.36,
+      "duration": 3.92
+    },
+    {
+      "text": "design around the project, that gives me",
+      "start": 772.32,
+      "duration": 4.04
+    },
+    {
+      "text": "as an editor a lot more freedom to shape",
+      "start": 774.28,
+      "duration": 4.08
+    },
+    {
+      "text": "the track to fit the video. They've also",
+      "start": 776.36,
+      "duration": 3.68
+    },
+    {
+      "text": "added a feature which makes finding the",
+      "start": 778.36,
+      "duration": 3.88
+    },
+    {
+      "text": "right track a lot easier. You can now",
+      "start": 780.04,
+      "duration": 4.4
+    },
+    {
+      "text": "search songs by pasting a Spotify link",
+      "start": 782.24,
+      "duration": 3.72
+    },
+    {
+      "text": "into the search bar",
+      "start": 784.44,
+      "duration": 4.399
+    },
+    {
+      "text": "and get results with a similar style.",
+      "start": 785.96,
+      "duration": 4.56
+    },
+    {
+      "text": "Other than music and sound effects, they",
+      "start": 788.839,
+      "duration": 3.801
+    },
+    {
+      "text": "have some amazing stock footage, editing",
+      "start": 790.52,
+      "duration": 4.52
+    },
+    {
+      "text": "templates and plugins, AI voiceovers,",
+      "start": 792.64,
+      "duration": 4.72
+    },
+    {
+      "text": "and much more. Artlist keeps expanding",
+      "start": 795.04,
+      "duration": 3.84
+    },
+    {
+      "text": "their platform, adding new tools and",
+      "start": 797.36,
+      "duration": 3.68
+    },
+    {
+      "text": "features, and it's all under one simple",
+      "start": 798.88,
+      "duration": 3.959
+    },
+    {
+      "text": "license. If you want to give Artlist a",
+      "start": 801.04,
+      "duration": 4.2
+    },
+    {
+      "text": "try, you get 2 months for free on an",
+      "start": 802.839,
+      "duration": 4.0
+    },
+    {
+      "text": "annual subscription using the link in",
+      "start": 805.24,
+      "duration": 3.28
+    },
+    {
+      "text": "the description. Thank you, Artlist, for",
+      "start": 806.839,
+      "duration": 3.561
+    },
+    {
+      "text": "sponsoring this video, and now let's get",
+      "start": 808.52,
+      "duration": 3.96
+    },
+    {
+      "text": "back inside for the last few audio",
+      "start": 810.4,
+      "duration": 4.36
+    },
+    {
+      "text": "tricks in DaVinci Resolve.",
+      "start": 812.48,
+      "duration": 4.88
+    },
+    {
+      "text": "Number 16, Fairlight buses.",
+      "start": 814.76,
+      "duration": 3.92
+    },
+    {
+      "text": "If you're working with several audio",
+      "start": 817.36,
+      "duration": 3.96
+    },
+    {
+      "text": "tracks, maybe a voiceover, music, and",
+      "start": 818.68,
+      "duration": 4.44
+    },
+    {
+      "text": "sound effects, it can be really helpful",
+      "start": 821.32,
+      "duration": 3.76
+    },
+    {
+      "text": "to group them together using buses in",
+      "start": 823.12,
+      "duration": 4.12
+    },
+    {
+      "text": "Fairlight. A bus is basically a way to",
+      "start": 825.08,
+      "duration": 4.16
+    },
+    {
+      "text": "group and control multiple audio tracks",
+      "start": 827.24,
+      "duration": 4.28
+    },
+    {
+      "text": "as one. So instead of adding EQ or",
+      "start": 829.24,
+      "duration": 4.04
+    },
+    {
+      "text": "compression to every single track, you",
+      "start": 831.52,
+      "duration": 3.68
+    },
+    {
+      "text": "can just apply it once to the bus, and",
+      "start": 833.28,
+      "duration": 3.44
+    },
+    {
+      "text": "it affects everything that's routed",
+      "start": 835.2,
+      "duration": 3.639
+    },
+    {
+      "text": "through it. To set one up, go to the",
+      "start": 836.72,
+      "duration": 5.16
+    },
+    {
+      "text": "Fairlight menu and choose bus format.",
+      "start": 838.839,
+      "duration": 5.081
+    },
+    {
+      "text": "There we can add a new bus, for example,",
+      "start": 841.88,
+      "duration": 4.56
+    },
+    {
+      "text": "one for our music. So let's rename it to",
+      "start": 843.92,
+      "duration": 6.08
+    },
+    {
+      "text": "music, give it a color, and hit okay.",
+      "start": 846.44,
+      "duration": 5.399
+    },
+    {
+      "text": "Then in the mixer, we have to assign our",
+      "start": 850.0,
+      "duration": 5.24
+    },
+    {
+      "text": "music tracks to that bus.",
+      "start": 851.839,
+      "duration": 4.921
+    },
+    {
+      "text": "Now the music tracks are routed to our",
+      "start": 855.24,
+      "duration": 3.599
+    },
+    {
+      "text": "new music bus, but to actually hear",
+      "start": 856.76,
+      "duration": 3.96
+    },
+    {
+      "text": "something, we also have to assign this",
+      "start": 858.839,
+      "duration": 4.201
+    },
+    {
+      "text": "bus to bus one, which is our main",
+      "start": 860.72,
+      "duration": 3.64
+    },
+    {
+      "text": "output.",
+      "start": 863.04,
+      "duration": 2.48
+    },
+    {
+      "text": "And now you're able to adjust the",
+      "start": 864.36,
+      "duration": 4.0
+    },
+    {
+      "text": "volume, add EQ or compression to that",
+      "start": 865.52,
+      "duration": 4.439
+    },
+    {
+      "text": "group as a whole,",
+      "start": 868.36,
+      "duration": 3.32
+    },
+    {
+      "text": "which makes mixing much faster and",
+      "start": 869.959,
+      "duration": 3.161
+    },
+    {
+      "text": "organized, especially if you're working",
+      "start": 871.68,
+      "duration": 3.36
+    },
+    {
+      "text": "with a lot of audio layers.",
+      "start": 873.12,
+      "duration": 4.56
+    },
+    {
+      "text": "Number 17, save Fairlight configuration",
+      "start": 875.04,
+      "duration": 3.76
+    },
+    {
+      "text": "presets.",
+      "start": 877.68,
+      "duration": 2.6
+    },
+    {
+      "text": "Something that can be really useful is",
+      "start": 878.8,
+      "duration": 3.279
+    },
+    {
+      "text": "saving your entire Fairlight setup with",
+      "start": 880.28,
+      "duration": 4.4
+    },
+    {
+      "text": "all your layers and effects as a preset.",
+      "start": 882.079,
+      "duration": 4.641
+    },
+    {
+      "text": "To do that, go to the Fairlight menu and",
+      "start": 884.68,
+      "duration": 4.399
+    },
+    {
+      "text": "choose preset library.",
+      "start": 886.72,
+      "duration": 4.04
+    },
+    {
+      "text": "And in the drop-down, select Fairlight",
+      "start": 889.079,
+      "duration": 3.921
+    },
+    {
+      "text": "configuration presets and click save",
+      "start": 890.76,
+      "duration": 4.64
+    },
+    {
+      "text": "new.",
+      "start": 893.0,
+      "duration": 2.4
+    },
+    {
+      "text": "Now the next time you start a new",
+      "start": 897.959,
+      "duration": 3.0
+    },
+    {
+      "text": "project, you can just load this",
+      "start": 899.2,
+      "duration": 3.639
+    },
+    {
+      "text": "configuration and avoid rebuilding your",
+      "start": 900.959,
+      "duration": 5.361
+    },
+    {
+      "text": "mixer from scratch every single time.",
+      "start": 902.839,
+      "duration": 6.12
+    },
+    {
+      "text": "Number 18, loudness normalization for",
+      "start": 906.32,
+      "duration": 3.84
+    },
+    {
+      "text": "YouTube.",
+      "start": 908.959,
+      "duration": 2.961
+    },
+    {
+      "text": "When uploading to YouTube, dynamic range",
+      "start": 910.16,
+      "duration": 3.52
+    },
+    {
+      "text": "compression is automatically applied to",
+      "start": 911.92,
+      "duration": 3.88
+    },
+    {
+      "text": "videos that are too loud. Normalizing",
+      "start": 913.68,
+      "duration": 3.84
+    },
+    {
+      "text": "your audio beforehand can make sure it",
+      "start": 915.8,
+      "duration": 3.64
+    },
+    {
+      "text": "hits the correct target loudness, so",
+      "start": 917.52,
+      "duration": 4.08
+    },
+    {
+      "text": "your videos won't sound too quiet, or so",
+      "start": 919.44,
+      "duration": 4.36
+    },
+    {
+      "text": "YouTube doesn't need to compress it.",
+      "start": 921.6,
+      "duration": 3.92
+    },
+    {
+      "text": "In the delivery page, under the audio",
+      "start": 923.8,
+      "duration": 3.68
+    },
+    {
+      "text": "tab, if you go down to audio",
+      "start": 925.52,
+      "duration": 4.52
+    },
+    {
+      "text": "normalization and check normalize audio,",
+      "start": 927.48,
+      "duration": 4.28
+    },
+    {
+      "text": "you can select from different loudness",
+      "start": 930.04,
+      "duration": 3.48
+    },
+    {
+      "text": "standard presets.",
+      "start": 931.76,
+      "duration": 4.04
+    },
+    {
+      "text": "For example, YouTube in this case.",
+      "start": 933.52,
+      "duration": 3.8
+    },
+    {
+      "text": "Resolve will then automatically bring",
+      "start": 935.8,
+      "duration": 3.44
+    },
+    {
+      "text": "the volume up or down, depending on your",
+      "start": 937.32,
+      "duration": 4.8
+    },
+    {
+      "text": "mix, to meet YouTube's target loudness,",
+      "start": 939.24,
+      "duration": 5.04
+    },
+    {
+      "text": "which is minus 14 lufs.",
+      "start": 942.12,
+      "duration": 3.48
+    },
+    {
+      "text": "It isn't all magic, though, and you",
+      "start": 944.28,
+      "duration": 3.08
+    },
+    {
+      "text": "still need to balance your individual",
+      "start": 945.6,
+      "duration": 3.68
+    },
+    {
+      "text": "audio tracks, so the overall mix feels",
+      "start": 947.36,
+      "duration": 3.4
+    },
+    {
+      "text": "consistent.",
+      "start": 949.28,
+      "duration": 3.32
+    },
+    {
+      "text": "That's it. I hope you learned at least",
+      "start": 950.76,
+      "duration": 3.56
+    },
+    {
+      "text": "one thing, and if you know any other",
+      "start": 952.6,
+      "duration": 3.76
+    },
+    {
+      "text": "time-savers or hacks in Resolve, feel",
+      "start": 954.32,
+      "duration": 3.68
+    },
+    {
+      "text": "free to leave them in the comments.",
+      "start": 956.36,
+      "duration": 3.08
+    },
+    {
+      "text": "Thank you for sticking around until the",
+      "start": 958.0,
+      "duration": 2.839
+    },
+    {
+      "text": "end, and I hope we'll see each other",
+      "start": 959.44,
+      "duration": 5.0
+    },
+    {
+      "text": "again soon in the next one.",
+      "start": 960.839,
+      "duration": 3.601
+    }
+  ],
+  "full_text": "8 years ago I made a switch to DaVinci Resolve. Since then, Resolve has kept improving with constant new updates and features. So, even after 8 years, it's been a continuous learning process and I'm still picking up new things all the time. And since it's November and the weather is horrible, I figured I'd just stay in today and share 18 little things in Resolve that has made my workflow a lot faster and smoother over the years. Number one, select left or right of playhead and close gaps. If you need a quick way to instantly highlight everything either before or after your playhead, if you for example want to make space for this clip in between these two clips without breaking anything further down your timeline, on Mac the default shortcuts are option command Y for selecting everything to the left and option Y for everything to the right, which makes it really easy to select and move large sections at once. And let's say your timeline looks like this and you just want to remove all the empty spaces between all the clips. Instead of manually clicking each gap to delete it, you can use use delete gaps. In the keyboard customization, I have mapped delete gaps to command G. And now I can just remove all the empty spaces instantly. Number two, shuffle clips. Are you still swapping clips like this manually? The swap clip shortcut is really useful when you want to rearrange clips in your timeline without breaking the timeline structure. To swap clips, just select the clip and press shift command comma to move your clip or clips to the left and shift command dot to move them to the right. You can also hold shift command and simply drag a clip and Resolve will automatically push the other clips out of the way. Number three, trim to playhead. This is my most used keyboard shortcut when editing and it's using Q and W to trim your clips to the playhead's position. When I press Q, it removes everything before the playhead. And when I press W, it removes everything after, just as in Premiere Pro. So, in the keyboard customization, I have remapped ripple start to playhead to Q and end to playhead to W. It's a simple way to move through your timeline without ever touching the blade tool. You can just play, stop, trim, and keep going. And once Q and W are in your muscle memory, it completely changes how fast you can work. Number four, dynamic project switching. Sometimes you need to copy things from one project to another, maybe a timeline, a grade, or some other assets. Normally, you would have to close one project, open the next one, and wait for it to load. But if you go into your project manager, right click, and enable dynamic project switching, you can keep multiple projects open at the same time and switch between them instantly. Number five, viewer background. Sometimes when you're resizing or repositioning in a clip, it can be hard to see where the clip edge actually ends, especially if the clip is dark and blends into the background. I have accidentally exported a project in the past where a small edge of the viewer background was visible in the final video. To avoid that, you can actually change the viewer background color. Just open the timeline view options and go to viewer background. Here you can choose something other than black, black, red, or a checkerboard pattern. It's a simple adjustment, but it makes it a lot easier to see where your frame really ends and help you catch those small mistakes before exporting. Number six, power bins. If you have a collection of sound effects, overlays, or any assets you tend to use across multiple edits, power bins let you store assets that stays available across all of your projects. So, instead of re-importing the same media every time, you can just store them in a power bin. To enable them, just click these three dots and select show power bins. If I want to save this flash transition I made for example, I can just drag this adjustment clip into a power bin and it will automatically be visible in every future or old project I open. Number seven, dynamic zoom. You might know this one already, but if you want to add a simple zoom to a clip, you don't actually have to keyframe anything. In the inspector, Resolve has a feature called dynamic zoom. When you enable it and click this drop down to show the on-screen controls for dynamic zoom, you'll see two boxes in the viewer, a green one and a red one. The green box is the starting composition and the red box is the end composition. So, if I want to slow zoom in on this clip, it always zooms out by default. First, click swap to reverse the movement and then adjust the red box slightly smaller than the green one. Number eight, timeline playback resolution. If your playback starts to feel a bit choppy, especially when you're working with heavy grades or high resolution footage, a quick way to fix that without generating proxy files is to let Resolve play the footage back at a lower resolution. You can do that under playback and timeline playback resolution, where you can choose to play your timeline back at half or quarter resolution. What this does is temporarily lower the resolution in the viewer, so you're able to get much smoother playback and it can also help you stay sane. Number nine, export presets. In the deliver tab, you can create your own export presets for different purposes. For example, I have one for Instagram, one for quick test exports, and one for YouTube. And once you've set up your export settings the way you like, just click these three dots next to the render settings and choose save as new preset. Here you can give your preset a name and an icon. So, now you can load these settings instantly whenever you export and not having to redo your settings every single time. And for an even quicker way of exporting, click these three dots again and add your preset to quick exports. Now you can export your video with this preset directly from the edit page. Number 10, hide layers from the color page. Let's say you have a bunch of adjustment clips on your timeline. Maybe a dynamic zoom, some transitions, or something else. Then when you go into the color page to grade, Resolve keeps selecting those adjustment clips instead of the actual footage underneath. To fix that, you can temporarily hide specific layers from the color page. Just open the timeline view and alt or option click on the layer you want to hide. This is different than just clicking on the layer and hiding it all together, since the adjustments you've added are still visible, but the color page will simply ignore that layer while you're grading. Number 11, shared nodes. If you've ever had one effect or adjustment that you wanted to use across multiple clips, using a shared node lets you use the same node across all of them. So, any grade or adjustment you make to it will automatically update everywhere else it's used. If you disable a shared node, it will also turn off in every clip that's using it. That's especially useful for stuff like noise reduction that you usually want to have turned off during editing to avoid laggy playback. So, if you have several noisy shots that require the same amount of noise reduction, you can assign them to the same shared node. Then you can toggle this specific node off across all the clips with one single click. And then just remember to enable it again before exporting. To create a shared node, just right click on the node you want to use and select save as shared node and you'll see two small blue arrows appear showing that it's shared. To add this shared node to another clip, right click on the node and under add node, you'll see all your shared nodes listed down here. By default, shared nodes are locked so you don't accidentally make changes to them. And if you want to edit one, just right click and unlock it first. Number 12, power grades. If you don't know about power grades, they let you save entire grades including all the nodes, keyframes, and effects, so you can reuse them later. To save one, right click on your video clip and choose grab still. This still now includes the entire node structure and grade. Regular stills are tied to the current project, but if you drag it into a power grade folder, it now, just like power bins, are accessible from any project in your database. And when you want to apply a power grade to a new clip, just middle click on that still or simply drag it directly onto your node tree. It's a great way to build your own library of looks or to save node structures that you don't want to rebuild every single time. Number 13, groups. Groups are something I use to grade every single project. By selecting a few clips, right clicking, and choosing add to new group, you create a group of clips that can share parts of the same grade. Once a clip is in a group, you'll see two new dots at the top of the node tree, pre-group and post-group. The pre-group is for adjustments that happens before the clip's own adjustments and the post-group is for adjustments that happen after across the whole group. The way I usually use groups is to use the pre-group to add a color space transform from my camera's color space to my working color space. And as the last node in the post-group, I add another CST from DaVinci wide gamut to my output color space. And then I do all my color correction on each clip individually, like white balance, exposure, and power windows. And then in the post-group again is where I apply my overall grade. You can have all your clips in one group if you want the same adjustments to apply to the whole project, or you can create separate groups for each camera, for example, one for your drone shots and one for the main camera if you want slightly different adjustments for each. Number 14, chroma warper. This is one of my favorite tools in the Resolve 12 update. The color warper is a powerful tool that lets you do specific hue adjustments. Let's say I wanted to change the color of this jacket. With the color warper open, I can just click and drag directly on the image to change the color. And I could also drag down here in the UI as well. This white blob is referring to all the colors present in this image. And since I'm currently in the normal mode, if I want to make a more drastic color change, then all the colors that are in the way of this line are getting pushed in this direction as well. Which might not always be what we want. But if we click here and switch to point to point, the selection becomes isolated to just the color you picked. It's also great for skin tones. If the skin tones look too yellow, for example, I can just click and drag to align it with the skin tone line in the scopes. And we also have some sliders that lets us adjust stuff like the chroma range, which broadens or narrows our selection of colors, and exposure, which we can use to brighten or darken our selected color. Number 15, cinematic haze. Another new effect in the color page that I've been playing around with is the cinematic haze effect. I used it on a recent mini documentary I did for Mazda in Italy. I thought it would be cool with a bit of haze in this location, but I wasn't able to bring a haze machine to Italy. So when I edited the project, I decided to just try out the haze effect. When you apply it, you'll see that it uses the depth map to determine where the fog appears. White areas will show the fog, and black areas stay clear. If I scroll down, we can see that there's a bunch of adjustments we can make to manipulate the haze, like adjust the halos around the bright areas, and also add some light rays, which I thought looked good to emphasize the sunlight coming in through these windows. Selecting air disturbance can also help making the haze look more realistic. And when decreasing the opacity to just have a subtle amount of the effect, it can actually look pretty believable. But when it comes to storytelling and trying to convey a feeling on screen, one of the most powerful ways to do that is through sound. Adding some wind, rain, waves, and maybe a sad song, makes this weather feel even more miserable than it already is. My go-to place when I'm searching for sound effects, music, or any other creative assets is Artlist, which is sponsoring this part of the video. As you probably know, Artlist is an all-in-one platform where you can find pretty much everything you need to bring your stories to life. Their sound effects library is massive, and whatever sound you're looking for, there's a good chance you will find it there. One of my favorite parts about Artlist music catalog is that you can download the individual stems of the song, which means you get each instrument separated. When I'm building the sound design around the project, that gives me as an editor a lot more freedom to shape the track to fit the video. They've also added a feature which makes finding the right track a lot easier. You can now search songs by pasting a Spotify link into the search bar and get results with a similar style. Other than music and sound effects, they have some amazing stock footage, editing templates and plugins, AI voiceovers, and much more. Artlist keeps expanding their platform, adding new tools and features, and it's all under one simple license. If you want to give Artlist a try, you get 2 months for free on an annual subscription using the link in the description. Thank you, Artlist, for sponsoring this video, and now let's get back inside for the last few audio tricks in DaVinci Resolve. Number 16, Fairlight buses. If you're working with several audio tracks, maybe a voiceover, music, and sound effects, it can be really helpful to group them together using buses in Fairlight. A bus is basically a way to group and control multiple audio tracks as one. So instead of adding EQ or compression to every single track, you can just apply it once to the bus, and it affects everything that's routed through it. To set one up, go to the Fairlight menu and choose bus format. There we can add a new bus, for example, one for our music. So let's rename it to music, give it a color, and hit okay. Then in the mixer, we have to assign our music tracks to that bus. Now the music tracks are routed to our new music bus, but to actually hear something, we also have to assign this bus to bus one, which is our main output. And now you're able to adjust the volume, add EQ or compression to that group as a whole, which makes mixing much faster and organized, especially if you're working with a lot of audio layers. Number 17, save Fairlight configuration presets. Something that can be really useful is saving your entire Fairlight setup with all your layers and effects as a preset. To do that, go to the Fairlight menu and choose preset library. And in the drop-down, select Fairlight configuration presets and click save new. Now the next time you start a new project, you can just load this configuration and avoid rebuilding your mixer from scratch every single time. Number 18, loudness normalization for YouTube. When uploading to YouTube, dynamic range compression is automatically applied to videos that are too loud. Normalizing your audio beforehand can make sure it hits the correct target loudness, so your videos won't sound too quiet, or so YouTube doesn't need to compress it. In the delivery page, under the audio tab, if you go down to audio normalization and check normalize audio, you can select from different loudness standard presets. For example, YouTube in this case. Resolve will then automatically bring the volume up or down, depending on your mix, to meet YouTube's target loudness, which is minus 14 lufs. It isn't all magic, though, and you still need to balance your individual audio tracks, so the overall mix feels consistent. That's it. I hope you learned at least one thing, and if you know any other time-savers or hacks in Resolve, feel free to leave them in the comments. Thank you for sticking around until the end, and I hope we'll see each other again soon in the next one.",
+  "duration_seconds": 964.44,
+  "segment_count": 488,
+  "word_count": 2912,
+  "char_count": 16084
+}

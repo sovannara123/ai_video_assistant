@@ -1,0 +1,1481 @@
+{
+  "video_id": "BtEJiXNA1kg",
+  "url": "https://youtu.be/BtEJiXNA1kg?si=VRteZiY1giJ1Q9rz",
+  "raw_transcript": [
+    {
+      "text": "[music]",
+      "start": 3.929,
+      "duration": 2.02
+    },
+    {
+      "text": "[music]",
+      "start": 8.515,
+      "duration": 2.02
+    },
+    {
+      "text": ">> Hey guys. Today I'm going to show you",
+      "start": 13.76,
+      "duration": 3.52
+    },
+    {
+      "text": "six must-have techniques for creating an",
+      "start": 15.2,
+      "duration": 4.44
+    },
+    {
+      "text": "awesome flow edit in DaVinci Resolve and",
+      "start": 17.28,
+      "duration": 4.24
+    },
+    {
+      "text": "how to combine them together so you get",
+      "start": 19.64,
+      "duration": 4.2
+    },
+    {
+      "text": "a seamless pro edit in the end. Quick",
+      "start": 21.52,
+      "duration": 4.12
+    },
+    {
+      "text": "announcement. I've created a pack of",
+      "start": 23.84,
+      "duration": 3.68
+    },
+    {
+      "text": "flow transitions and effects available",
+      "start": 25.64,
+      "duration": 4.32
+    },
+    {
+      "text": "for download in my store. Optimized for",
+      "start": 27.52,
+      "duration": 5.0
+    },
+    {
+      "text": "both vertical and horizontal resolution.",
+      "start": 29.96,
+      "duration": 4.68
+    },
+    {
+      "text": "So go check it out. Let's start from",
+      "start": 32.52,
+      "duration": 4.08
+    },
+    {
+      "text": "scratch. Here I have a music track that",
+      "start": 34.64,
+      "duration": 4.04
+    },
+    {
+      "text": "I like and this track will be our main",
+      "start": 36.6,
+      "duration": 4.12
+    },
+    {
+      "text": "core which will dictate the pace of our",
+      "start": 38.68,
+      "duration": 4.16
+    },
+    {
+      "text": "edit, which shots to choose and when to",
+      "start": 40.72,
+      "duration": 4.08
+    },
+    {
+      "text": "use effects and transitions depending on",
+      "start": 42.84,
+      "duration": 4.76
+    },
+    {
+      "text": "the beat. Let's drag our first clips. I",
+      "start": 44.8,
+      "duration": 4.6
+    },
+    {
+      "text": "like this black and white flower and",
+      "start": 47.6,
+      "duration": 3.8
+    },
+    {
+      "text": "this trees shot with a spinning camera.",
+      "start": 49.4,
+      "duration": 3.6
+    },
+    {
+      "text": "I'm going to place the flower first like",
+      "start": 51.4,
+      "duration": 3.76
+    },
+    {
+      "text": "this and put the spinning trees shot",
+      "start": 53.0,
+      "duration": 4.28
+    },
+    {
+      "text": "after but increase its speed to around",
+      "start": 55.16,
+      "duration": 4.88
+    },
+    {
+      "text": "1,700% so it will actually look like a",
+      "start": 57.28,
+      "duration": 4.84
+    },
+    {
+      "text": "transition as well. Right click or use",
+      "start": 60.04,
+      "duration": 4.28
+    },
+    {
+      "text": "the shortcut command or control R to",
+      "start": 62.12,
+      "duration": 4.52
+    },
+    {
+      "text": "open retime controls. Drag the top right",
+      "start": 64.32,
+      "duration": 4.76
+    },
+    {
+      "text": "edge of the clip to desired speed.",
+      "start": 66.64,
+      "duration": 4.32
+    },
+    {
+      "text": "Now this clip is spinning very fast",
+      "start": 69.08,
+      "duration": 3.36
+    },
+    {
+      "text": "which will look better with effects",
+      "start": 70.96,
+      "duration": 3.24
+    },
+    {
+      "text": "applied on top of it. Let's quickly",
+      "start": 72.44,
+      "duration": 4.04
+    },
+    {
+      "text": "create text like in the intro. Open",
+      "start": 74.2,
+      "duration": 4.68
+    },
+    {
+      "text": "effects browser, titles and drag title",
+      "start": 76.48,
+      "duration": 4.72
+    },
+    {
+      "text": "plus into the timeline. This one is art",
+      "start": 78.88,
+      "duration": 6.2
+    },
+    {
+      "text": "three with Imperial script font.",
+      "start": 81.2,
+      "duration": 3.88
+    },
+    {
+      "text": "Hold alt or option to duplicate this",
+      "start": 87.24,
+      "duration": 4.4
+    },
+    {
+      "text": "text and the second will be studio with",
+      "start": 89.16,
+      "duration": 5.56
+    },
+    {
+      "text": "enter black font.",
+      "start": 91.64,
+      "duration": 6.96
+    },
+    {
+      "text": "Place this text next to the first one.",
+      "start": 94.72,
+      "duration": 3.88
+    },
+    {
+      "text": "Now we are going to create our first",
+      "start": 101.64,
+      "duration": 3.28
+    },
+    {
+      "text": "directional blur effect with the zoom.",
+      "start": 103.16,
+      "duration": 3.44
+    },
+    {
+      "text": "All the effects and transitions that we",
+      "start": 104.92,
+      "duration": 3.56
+    },
+    {
+      "text": "are going to use today will be created",
+      "start": 106.6,
+      "duration": 3.76
+    },
+    {
+      "text": "with adjustment clips. So drag the",
+      "start": 108.48,
+      "duration": 3.96
+    },
+    {
+      "text": "adjustment clip into the timeline about",
+      "start": 110.36,
+      "duration": 4.12
+    },
+    {
+      "text": "15 frames long. Let's apply Gaussian",
+      "start": 112.44,
+      "duration": 4.2
+    },
+    {
+      "text": "blur to it and animate it from zero to",
+      "start": 114.48,
+      "duration": 6.16
+    },
+    {
+      "text": "0.5 and back to zero.",
+      "start": 116.64,
+      "duration": 4.0
+    },
+    {
+      "text": "Open the keyframe tab, select blur",
+      "start": 124.44,
+      "duration": 3.88
+    },
+    {
+      "text": "keyframes and press this button to ease",
+      "start": 126.32,
+      "duration": 4.68
+    },
+    {
+      "text": "keyframes.",
+      "start": 128.32,
+      "duration": 2.68
+    },
+    {
+      "text": "Now let's apply the directional blur",
+      "start": 132.36,
+      "duration": 3.48
+    },
+    {
+      "text": "effect. Set the blur angle to your",
+      "start": 133.88,
+      "duration": 4.24
+    },
+    {
+      "text": "liking and animate strength from zero to",
+      "start": 135.84,
+      "duration": 6.68
+    },
+    {
+      "text": "0.7 and back to zero.",
+      "start": 138.12,
+      "duration": 4.4
+    },
+    {
+      "text": "Ease keyframes again.",
+      "start": 143.96,
+      "duration": 3.28
+    },
+    {
+      "text": "And we have this double blur effect",
+      "start": 149.64,
+      "duration": 4.36
+    },
+    {
+      "text": "which looks cool.",
+      "start": 151.24,
+      "duration": 4.36
+    },
+    {
+      "text": "I'm going to also drop a transform",
+      "start": 154.0,
+      "duration": 3.56
+    },
+    {
+      "text": "effect to add a little bit of zoom and",
+      "start": 155.6,
+      "duration": 6.12
+    },
+    {
+      "text": "animate zoom from one to 1.7.",
+      "start": 157.56,
+      "duration": 4.16
+    },
+    {
+      "text": "And position X value from zero to minus",
+      "start": 164.48,
+      "duration": 7.04
+    },
+    {
+      "text": "0.05 so it has a little position shift.",
+      "start": 166.72,
+      "duration": 6.2
+    },
+    {
+      "text": "Open the keyframe tab and ease",
+      "start": 171.52,
+      "duration": 4.16
+    },
+    {
+      "text": "keyframes.",
+      "start": 172.92,
+      "duration": 2.76
+    },
+    {
+      "text": "The zoom is actually pretty intense.",
+      "start": 181.56,
+      "duration": 3.84
+    },
+    {
+      "text": "To add extra smoothness to our motion,",
+      "start": 187.68,
+      "duration": 4.6
+    },
+    {
+      "text": "open transform effect, animation and",
+      "start": 189.8,
+      "duration": 4.28
+    },
+    {
+      "text": "increase motion blur all the way up to",
+      "start": 192.28,
+      "duration": 5.8
+    },
+    {
+      "text": "make our transition look even smoother.",
+      "start": 194.08,
+      "duration": 4.0
+    },
+    {
+      "text": "Looking good and the last effect to",
+      "start": 199.04,
+      "duration": 4.08
+    },
+    {
+      "text": "apply is film grain. I'm going to change",
+      "start": 200.72,
+      "duration": 5.88
+    },
+    {
+      "text": "the grain parameters quickly.",
+      "start": 203.12,
+      "duration": 3.48
+    },
+    {
+      "text": "And animate strength from zero to one.",
+      "start": 206.68,
+      "duration": 4.08
+    },
+    {
+      "text": "Ease keyframes.",
+      "start": 213.16,
+      "duration": 3.0
+    },
+    {
+      "text": "This film grain effect is only available",
+      "start": 217.52,
+      "duration": 4.72
+    },
+    {
+      "text": "in the studio version.",
+      "start": 219.36,
+      "duration": 4.72
+    },
+    {
+      "text": "But if you have the free version, just",
+      "start": 222.24,
+      "duration": 3.88
+    },
+    {
+      "text": "open fusion page, apply the film grain",
+      "start": 224.08,
+      "duration": 4.48
+    },
+    {
+      "text": "effect and animate strength the same way",
+      "start": 226.12,
+      "duration": 5.16
+    },
+    {
+      "text": "as we did in the edit page.",
+      "start": 228.56,
+      "duration": 4.2
+    },
+    {
+      "text": "Let's set the marker on the middle",
+      "start": 231.28,
+      "duration": 3.64
+    },
+    {
+      "text": "keyframe so it's easy to identify where",
+      "start": 232.76,
+      "duration": 5.6
+    },
+    {
+      "text": "the main effect is happening.",
+      "start": 234.92,
+      "duration": 3.44
+    },
+    {
+      "text": "Change color and we have this cool",
+      "start": 239.2,
+      "duration": 3.64
+    },
+    {
+      "text": "looking effect that we can also use as a",
+      "start": 241.04,
+      "duration": 3.92
+    },
+    {
+      "text": "transition in the future. Next, let's",
+      "start": 242.84,
+      "duration": 3.88
+    },
+    {
+      "text": "create a flash blur effect with film",
+      "start": 244.96,
+      "duration": 3.88
+    },
+    {
+      "text": "grain. Duplicate this effect, delete",
+      "start": 246.72,
+      "duration": 4.08
+    },
+    {
+      "text": "directional blur and transform so we",
+      "start": 248.84,
+      "duration": 3.76
+    },
+    {
+      "text": "have only Gaussian blur and film grain",
+      "start": 250.8,
+      "duration": 4.12
+    },
+    {
+      "text": "left. Open fusion page to add a flash",
+      "start": 252.6,
+      "duration": 4.84
+    },
+    {
+      "text": "effect. Hit shift space and apply color",
+      "start": 254.92,
+      "duration": 4.36
+    },
+    {
+      "text": "corrector node. I'm going to animate",
+      "start": 257.44,
+      "duration": 3.68
+    },
+    {
+      "text": "this brightness value to create a flash",
+      "start": 259.28,
+      "duration": 4.6
+    },
+    {
+      "text": "effect from zero to 0.4.",
+      "start": 261.12,
+      "duration": 6.88
+    },
+    {
+      "text": "Open spline editor to ease keyframes.",
+      "start": 263.88,
+      "duration": 4.12
+    },
+    {
+      "text": "Cool. We already made two effects. One",
+      "start": 268.56,
+      "duration": 4.12
+    },
+    {
+      "text": "is a blur effect and the other as a",
+      "start": 270.96,
+      "duration": 4.12
+    },
+    {
+      "text": "flash transition.",
+      "start": 272.68,
+      "duration": 4.36
+    },
+    {
+      "text": "Let's rename this second effect and set",
+      "start": 275.08,
+      "duration": 3.72
+    },
+    {
+      "text": "a different color so everything looks",
+      "start": 277.04,
+      "duration": 3.6
+    },
+    {
+      "text": "nice and clean.",
+      "start": 278.8,
+      "duration": 3.8
+    },
+    {
+      "text": "Let's drag the next clips. This one with",
+      "start": 280.64,
+      "duration": 4.36
+    },
+    {
+      "text": "the biker and the other with the birds.",
+      "start": 282.6,
+      "duration": 4.08
+    },
+    {
+      "text": "I'm going to use a technique called",
+      "start": 285.0,
+      "duration": 4.0
+    },
+    {
+      "text": "directional continuity where movement in",
+      "start": 286.68,
+      "duration": 4.44
+    },
+    {
+      "text": "one clip must complement the movement of",
+      "start": 289.0,
+      "duration": 4.16
+    },
+    {
+      "text": "the other. I will also use speed ramping",
+      "start": 291.12,
+      "duration": 4.28
+    },
+    {
+      "text": "on both clips which is another important",
+      "start": 293.16,
+      "duration": 4.2
+    },
+    {
+      "text": "timer mapping technique. Both techniques",
+      "start": 295.4,
+      "duration": 4.08
+    },
+    {
+      "text": "are essential for creating a flow edit.",
+      "start": 297.36,
+      "duration": 4.36
+    },
+    {
+      "text": "Hit command or control plus R to open",
+      "start": 299.48,
+      "duration": 4.44
+    },
+    {
+      "text": "retime controls. Add speed point where",
+      "start": 301.72,
+      "duration": 4.08
+    },
+    {
+      "text": "you want to speed up the footage and",
+      "start": 303.92,
+      "duration": 3.8
+    },
+    {
+      "text": "drag the top right edge of the clip to",
+      "start": 305.8,
+      "duration": 3.88
+    },
+    {
+      "text": "the left to increase its speed. To make",
+      "start": 307.72,
+      "duration": 3.88
+    },
+    {
+      "text": "your speed ramps look buttery smooth,",
+      "start": 309.68,
+      "duration": 3.76
+    },
+    {
+      "text": "open retime and scaling and change",
+      "start": 311.6,
+      "duration": 3.84
+    },
+    {
+      "text": "retime process to optical flow and",
+      "start": 313.44,
+      "duration": 4.52
+    },
+    {
+      "text": "motion estimation to AI speed warp. Open",
+      "start": 315.44,
+      "duration": 4.92
+    },
+    {
+      "text": "the keyframe tab, select spline and ease",
+      "start": 317.96,
+      "duration": 4.0
+    },
+    {
+      "text": "keyframes and you can drag the",
+      "start": 320.36,
+      "duration": 5.76
+    },
+    {
+      "text": "individual sliders by holding shift.",
+      "start": 321.96,
+      "duration": 4.16
+    },
+    {
+      "text": "Let's also apply speed ramp to the clip",
+      "start": 328.68,
+      "duration": 4.0
+    },
+    {
+      "text": "with the birds. Open retime controls,",
+      "start": 330.48,
+      "duration": 4.16
+    },
+    {
+      "text": "add speed point. If you drag the point",
+      "start": 332.68,
+      "duration": 4.32
+    },
+    {
+      "text": "at the top, you're changing the speed.",
+      "start": 334.64,
+      "duration": 4.2
+    },
+    {
+      "text": "If you drag the lower part, you're just",
+      "start": 337.0,
+      "duration": 5.2
+    },
+    {
+      "text": "changing the point position.",
+      "start": 338.84,
+      "duration": 3.36
+    },
+    {
+      "text": "Now add a second speed point and",
+      "start": 345.88,
+      "duration": 5.32
+    },
+    {
+      "text": "increase the end of the clip too.",
+      "start": 347.56,
+      "duration": 3.64
+    },
+    {
+      "text": "So we have a visual slide that goes down",
+      "start": 353.64,
+      "duration": 4.64
+    },
+    {
+      "text": "and up.",
+      "start": 355.72,
+      "duration": 2.56
+    },
+    {
+      "text": "And to make it look perfect, change",
+      "start": 362.76,
+      "duration": 3.44
+    },
+    {
+      "text": "position and scale of both clips to",
+      "start": 364.36,
+      "duration": 3.44
+    },
+    {
+      "text": "match the position of the biker and the",
+      "start": 366.2,
+      "duration": 4.16
+    },
+    {
+      "text": "birds.",
+      "start": 367.8,
+      "duration": 2.56
+    },
+    {
+      "text": "Awesome. These two clips are done. I'm",
+      "start": 374.24,
+      "duration": 3.32
+    },
+    {
+      "text": "going to add one more clip with the",
+      "start": 376.32,
+      "duration": 3.24
+    },
+    {
+      "text": "cowgirl to create another relation with",
+      "start": 377.56,
+      "duration": 4.12
+    },
+    {
+      "text": "matching motion. The birds flying to the",
+      "start": 379.56,
+      "duration": 3.68
+    },
+    {
+      "text": "right create a nice transition to the",
+      "start": 381.68,
+      "duration": 3.96
+    },
+    {
+      "text": "cowgirl also moving to the right. So I",
+      "start": 383.24,
+      "duration": 4.04
+    },
+    {
+      "text": "will add a speed ramp into that clip",
+      "start": 385.64,
+      "duration": 5.32
+    },
+    {
+      "text": "with optical flow turned on.",
+      "start": 387.28,
+      "duration": 3.68
+    },
+    {
+      "text": "Ease keyframes.",
+      "start": 391.52,
+      "duration": 3.0
+    },
+    {
+      "text": "Try to match the speed and moment as",
+      "start": 399.2,
+      "duration": 3.8
+    },
+    {
+      "text": "precisely as possible and you can also",
+      "start": 400.96,
+      "duration": 3.92
+    },
+    {
+      "text": "hear that our visuals are synced with",
+      "start": 403.0,
+      "duration": 3.92
+    },
+    {
+      "text": "the music. That's another flow technique",
+      "start": 404.88,
+      "duration": 4.0
+    },
+    {
+      "text": "called rhythm sync. Let's make it look",
+      "start": 406.92,
+      "duration": 3.72
+    },
+    {
+      "text": "even more awesome by adding transitions",
+      "start": 408.88,
+      "duration": 3.52
+    },
+    {
+      "text": "between these four clips. I'm going to",
+      "start": 410.64,
+      "duration": 3.92
+    },
+    {
+      "text": "duplicate our first effect so I don't",
+      "start": 412.4,
+      "duration": 4.44
+    },
+    {
+      "text": "have to start creating it from scratch.",
+      "start": 414.56,
+      "duration": 4.28
+    },
+    {
+      "text": "Delete everything except transform so we",
+      "start": 416.84,
+      "duration": 4.04
+    },
+    {
+      "text": "have a little bit of zoom left. Now I'm",
+      "start": 418.84,
+      "duration": 3.84
+    },
+    {
+      "text": "going to copy the color corrector node",
+      "start": 420.88,
+      "duration": 3.68
+    },
+    {
+      "text": "from the second effect and paste it to",
+      "start": 422.68,
+      "duration": 3.96
+    },
+    {
+      "text": "our new one so we have a subtle zoom and",
+      "start": 424.56,
+      "duration": 4.64
+    },
+    {
+      "text": "flash.",
+      "start": 426.64,
+      "duration": 2.56
+    },
+    {
+      "text": "Let's rename it to flash zoom and pick a",
+      "start": 435.12,
+      "duration": 3.96
+    },
+    {
+      "text": "different color so this works as a",
+      "start": 437.04,
+      "duration": 3.72
+    },
+    {
+      "text": "transition now. Let's create a",
+      "start": 439.08,
+      "duration": 3.32
+    },
+    {
+      "text": "directional blur transition between",
+      "start": 440.76,
+      "duration": 3.76
+    },
+    {
+      "text": "these two clips. Duplicate our first",
+      "start": 442.4,
+      "duration": 4.72
+    },
+    {
+      "text": "effect, make it longer.",
+      "start": 444.52,
+      "duration": 5.0
+    },
+    {
+      "text": "Delete Gaussian blur and film grain.",
+      "start": 447.12,
+      "duration": 4.28
+    },
+    {
+      "text": "Change the blur angle to zero and set",
+      "start": 449.52,
+      "duration": 4.04
+    },
+    {
+      "text": "strength to 0.5.",
+      "start": 451.4,
+      "duration": 4.0
+    },
+    {
+      "text": "Open the keyframe tab to extend our",
+      "start": 453.56,
+      "duration": 4.08
+    },
+    {
+      "text": "keyframes. So now we have a subtle blur",
+      "start": 455.4,
+      "duration": 5.4
+    },
+    {
+      "text": "with zoom transition.",
+      "start": 457.64,
+      "duration": 3.16
+    },
+    {
+      "text": "Which looks great and create that flow",
+      "start": 463.4,
+      "duration": 3.92
+    },
+    {
+      "text": "motion. Now I'm going to create a pen",
+      "start": 465.24,
+      "duration": 4.04
+    },
+    {
+      "text": "transition from the birds clips to the",
+      "start": 467.32,
+      "duration": 4.24
+    },
+    {
+      "text": "cowgirl clip. Drag an adjustment clip",
+      "start": 469.28,
+      "duration": 5.44
+    },
+    {
+      "text": "and apply the transform effect.",
+      "start": 471.56,
+      "duration": 5.16
+    },
+    {
+      "text": "Increase motion blur right away and",
+      "start": 474.72,
+      "duration": 3.88
+    },
+    {
+      "text": "change edge behavior to reflect so we",
+      "start": 476.72,
+      "duration": 3.28
+    },
+    {
+      "text": "don't have the black edges while",
+      "start": 478.6,
+      "duration": 3.6
+    },
+    {
+      "text": "animating the X position. Now animate",
+      "start": 480.0,
+      "duration": 6.4
+    },
+    {
+      "text": "position X from zero to minus two.",
+      "start": 482.2,
+      "duration": 4.2
+    },
+    {
+      "text": "And animate zoom from one to 1.3.",
+      "start": 491.12,
+      "duration": 4.32
+    },
+    {
+      "text": "Open keyframe tab and ease keyframes",
+      "start": 500.72,
+      "duration": 4.64
+    },
+    {
+      "text": "like this.",
+      "start": 502.72,
+      "duration": 2.64
+    },
+    {
+      "text": "Cool. Now let's watch from the",
+      "start": 507.4,
+      "duration": 4.04
+    },
+    {
+      "text": "beginning.",
+      "start": 508.84,
+      "duration": 2.6
+    },
+    {
+      "text": "Awesome. Another cool trick is that you",
+      "start": 513.32,
+      "duration": 3.64
+    },
+    {
+      "text": "can trim adjustment clip from one side",
+      "start": 515.12,
+      "duration": 3.64
+    },
+    {
+      "text": "like that and it will create that cool",
+      "start": 516.96,
+      "duration": 3.88
+    },
+    {
+      "text": "looking abrupt effect that you can also",
+      "start": 518.76,
+      "duration": 4.0
+    },
+    {
+      "text": "use as an impact.",
+      "start": 520.84,
+      "duration": 3.68
+    },
+    {
+      "text": "And you can just duplicate it in other",
+      "start": 522.76,
+      "duration": 3.6
+    },
+    {
+      "text": "places of your edit and get a nice",
+      "start": 524.52,
+      "duration": 3.84
+    },
+    {
+      "text": "results.",
+      "start": 526.36,
+      "duration": 3.92
+    },
+    {
+      "text": "Cool. Now let me quickly show you two",
+      "start": 528.36,
+      "duration": 3.56
+    },
+    {
+      "text": "more transitions that you can create",
+      "start": 530.28,
+      "duration": 3.32
+    },
+    {
+      "text": "using the adjustment clips which will",
+      "start": 531.92,
+      "duration": 3.72
+    },
+    {
+      "text": "add some extra sauce to your edit. This",
+      "start": 533.6,
+      "duration": 3.56
+    },
+    {
+      "text": "cool transition is actually two",
+      "start": 535.64,
+      "duration": 3.4
+    },
+    {
+      "text": "transitions on top of each other. The",
+      "start": 537.16,
+      "duration": 3.84
+    },
+    {
+      "text": "top one is almost the same as first one",
+      "start": 539.04,
+      "duration": 4.28
+    },
+    {
+      "text": "we made but instead of directional blur,",
+      "start": 541.0,
+      "duration": 4.2
+    },
+    {
+      "text": "I used Gaussian blur. The bottom",
+      "start": 543.32,
+      "duration": 3.92
+    },
+    {
+      "text": "transition is made of zoom blur and lens",
+      "start": 545.2,
+      "duration": 4.28
+    },
+    {
+      "text": "distortion effects. Use lens distort if",
+      "start": 547.24,
+      "duration": 3.88
+    },
+    {
+      "text": "you have a free version and lens",
+      "start": 549.48,
+      "duration": 3.76
+    },
+    {
+      "text": "distortion if you have studio version. I",
+      "start": 551.12,
+      "duration": 4.08
+    },
+    {
+      "text": "just animated the distortion value from",
+      "start": 553.24,
+      "duration": 4.48
+    },
+    {
+      "text": "zero to around one and also animate blur",
+      "start": 555.2,
+      "duration": 5.44
+    },
+    {
+      "text": "amount from zero to 0.6. I also added an",
+      "start": 557.72,
+      "duration": 4.92
+    },
+    {
+      "text": "ellipse mask to zoom blur so it doesn't",
+      "start": 560.64,
+      "duration": 3.88
+    },
+    {
+      "text": "cover the whole image, just around the",
+      "start": 562.64,
+      "duration": 3.72
+    },
+    {
+      "text": "edges and it creates that zoom warp",
+      "start": 564.52,
+      "duration": 3.92
+    },
+    {
+      "text": "effect. And in combination with zoom",
+      "start": 566.36,
+      "duration": 4.16
+    },
+    {
+      "text": "blur transition that we made before, it",
+      "start": 568.44,
+      "duration": 3.92
+    },
+    {
+      "text": "looks even better. Great. Let me show",
+      "start": 570.52,
+      "duration": 3.64
+    },
+    {
+      "text": "you another cool transition which is a",
+      "start": 572.36,
+      "duration": 4.24
+    },
+    {
+      "text": "spin transition. You apply the transform",
+      "start": 574.16,
+      "duration": 4.64
+    },
+    {
+      "text": "effect as usual and animate rotate from",
+      "start": 576.6,
+      "duration": 5.12
+    },
+    {
+      "text": "zero to 360 so it makes a full circle.",
+      "start": 578.8,
+      "duration": 4.84
+    },
+    {
+      "text": "By adding lens distortion which you can",
+      "start": 581.72,
+      "duration": 4.08
+    },
+    {
+      "text": "apply directly in the edit page, you can",
+      "start": 583.64,
+      "duration": 4.24
+    },
+    {
+      "text": "create that warp effect as well. I also",
+      "start": 585.8,
+      "duration": 4.0
+    },
+    {
+      "text": "combined that transition with zoom blur",
+      "start": 587.88,
+      "duration": 4.84
+    },
+    {
+      "text": "and Gaussian blur.",
+      "start": 589.8,
+      "duration": 2.92
+    },
+    {
+      "text": "And together it creates that awesome",
+      "start": 594.6,
+      "duration": 3.92
+    },
+    {
+      "text": "spin warp transition. And the final",
+      "start": 596.36,
+      "duration": 4.36
+    },
+    {
+      "text": "technique are sound effects. All the",
+      "start": 598.52,
+      "duration": 4.32
+    },
+    {
+      "text": "sounds I'm going to use here are from my",
+      "start": 600.72,
+      "duration": 3.76
+    },
+    {
+      "text": "sound effects pack, which you can",
+      "start": 602.84,
+      "duration": 3.56
+    },
+    {
+      "text": "download from my store. Let's watch it",
+      "start": 604.48,
+      "duration": 3.76
+    },
+    {
+      "text": "first and then decide where it's better",
+      "start": 606.4,
+      "duration": 5.16
+    },
+    {
+      "text": "to place sound effects.",
+      "start": 608.24,
+      "duration": 3.32
+    },
+    {
+      "text": ">> [music]",
+      "start": 615.707,
+      "duration": 2.02
+    },
+    {
+      "text": ">> I would place whooshes almost every",
+      "start": 621.16,
+      "duration": 3.44
+    },
+    {
+      "text": "transition that we have, especially",
+      "start": 622.8,
+      "duration": 3.68
+    },
+    {
+      "text": "panning zoom. Okay, I'm going to grab",
+      "start": 624.6,
+      "duration": 3.8
+    },
+    {
+      "text": "this folder inside Resolve and place",
+      "start": 626.48,
+      "duration": 4.92
+    },
+    {
+      "text": "whooshes first.",
+      "start": 628.4,
+      "duration": 3.0
+    },
+    {
+      "text": "I like this whoosh number one under the",
+      "start": 634.28,
+      "duration": 4.76
+    },
+    {
+      "text": "first transition.",
+      "start": 636.04,
+      "duration": 3.0
+    },
+    {
+      "text": "What about whoosh 27?",
+      "start": 641.12,
+      "duration": 6.36
+    },
+    {
+      "text": "I'm going to put it here.",
+      "start": 644.4,
+      "duration": 3.08
+    },
+    {
+      "text": "Cool. Let's combine whooshes 28 and 30",
+      "start": 653.32,
+      "duration": 5.92
+    },
+    {
+      "text": "under the pan transition.",
+      "start": 655.84,
+      "duration": 3.4
+    },
+    {
+      "text": "Awesome. I'm going to quickly place the",
+      "start": 667.28,
+      "duration": 4.76
+    },
+    {
+      "text": "rest of the whooshes.",
+      "start": 669.0,
+      "duration": 3.04
+    },
+    {
+      "text": "Great. Now, let's move on to impacts,",
+      "start": 672.36,
+      "duration": 4.6
+    },
+    {
+      "text": "flashes, and risers. I like that riser",
+      "start": 674.6,
+      "duration": 4.84
+    },
+    {
+      "text": "impact.",
+      "start": 676.96,
+      "duration": 3.8
+    },
+    {
+      "text": "So, I'm going to place it right in the",
+      "start": 679.44,
+      "duration": 3.24
+    },
+    {
+      "text": "start, shift it to the left because it's",
+      "start": 680.76,
+      "duration": 4.4
+    },
+    {
+      "text": "too long, and create a fade. This impact",
+      "start": 682.68,
+      "duration": 6.64
+    },
+    {
+      "text": "creates tension before the biker shot.",
+      "start": 685.16,
+      "duration": 4.16
+    },
+    {
+      "text": "Great. I would also put flash sound",
+      "start": 690.2,
+      "duration": 3.96
+    },
+    {
+      "text": "effect under the bright flash transition",
+      "start": 692.16,
+      "duration": 4.44
+    },
+    {
+      "text": "clip.",
+      "start": 694.16,
+      "duration": 2.44
+    },
+    {
+      "text": "And in this part of the video, it would",
+      "start": 702.88,
+      "duration": 4.04
+    },
+    {
+      "text": "be great to place gear sounds as they",
+      "start": 704.72,
+      "duration": 3.88
+    },
+    {
+      "text": "can match with the gun and zoom lens",
+      "start": 706.92,
+      "duration": 4.56
+    },
+    {
+      "text": "blur effects.",
+      "start": 708.6,
+      "duration": 2.88
+    },
+    {
+      "text": "Gear number five somewhere here.",
+      "start": 715.6,
+      "duration": 3.76
+    },
+    {
+      "text": "And gear number eight a little bit",
+      "start": 721.72,
+      "duration": 3.373
+    },
+    {
+      "text": "further.",
+      "start": 723.28,
+      "duration": 3.68
+    },
+    {
+      "text": ">> [music]",
+      "start": 725.093,
+      "duration": 3.627
+    },
+    {
+      "text": ">> Great. I'm going to add a couple more",
+      "start": 726.96,
+      "duration": 3.44
+    },
+    {
+      "text": "sound effects and let's watch it from",
+      "start": 728.72,
+      "duration": 4.4
+    },
+    {
+      "text": "the beginning.",
+      "start": 730.4,
+      "duration": 2.72
+    },
+    {
+      "text": ">> [music]",
+      "start": 737.538,
+      "duration": 2.02
+    },
+    {
+      "text": ">> Awesome. Let's do a quick recap. We used",
+      "start": 745.28,
+      "duration": 4.6
+    },
+    {
+      "text": "six techniques to get the flow editing",
+      "start": 748.0,
+      "duration": 3.96
+    },
+    {
+      "text": "done. Rhythm sync with the beat",
+      "start": 749.88,
+      "duration": 4.28
+    },
+    {
+      "text": "matching, time remapping to create time",
+      "start": 751.96,
+      "duration": 4.8
+    },
+    {
+      "text": "flow, directional continuity by matching",
+      "start": 754.16,
+      "duration": 4.52
+    },
+    {
+      "text": "the right clips and emphasizing it with",
+      "start": 756.76,
+      "duration": 4.28
+    },
+    {
+      "text": "the seamless transitions like blur, pan,",
+      "start": 758.68,
+      "duration": 4.84
+    },
+    {
+      "text": "or spin, impact effects with flash,",
+      "start": 761.04,
+      "duration": 5.12
+    },
+    {
+      "text": "blur, zoom, etc. And the last technique",
+      "start": 763.52,
+      "duration": 4.52
+    },
+    {
+      "text": "was sound effects, which reinforce",
+      "start": 766.16,
+      "duration": 3.84
+    },
+    {
+      "text": "motion and timing.",
+      "start": 768.04,
+      "duration": 3.52
+    },
+    {
+      "text": "If you like this video, please like,",
+      "start": 770.0,
+      "duration": 3.04
+    },
+    {
+      "text": "subscribe, and leave a comments down",
+      "start": 771.56,
+      "duration": 3.2
+    },
+    {
+      "text": "below. If you want to create awesome",
+      "start": 773.04,
+      "duration": 3.56
+    },
+    {
+      "text": "flow edits like this and spice it up",
+      "start": 774.76,
+      "duration": 3.56
+    },
+    {
+      "text": "with transitions and effects, please",
+      "start": 776.6,
+      "duration": 3.239
+    },
+    {
+      "text": "check out my new flow effects and",
+      "start": 778.32,
+      "duration": 3.6
+    },
+    {
+      "text": "transitions pack available for download",
+      "start": 779.839,
+      "duration": 4.161
+    },
+    {
+      "text": "in my store. Drop a comment down below",
+      "start": 781.92,
+      "duration": 3.64
+    },
+    {
+      "text": "and tell me what tutorial you want to",
+      "start": 784.0,
+      "duration": 3.72
+    },
+    {
+      "text": "see next. Thanks for your support and",
+      "start": 785.56,
+      "duration": 5.24
+    },
+    {
+      "text": "see you in the next one.",
+      "start": 787.72,
+      "duration": 3.08
+    }
+  ],
+  "full_text": ">> Hey guys. Today I'm going to show you six must-have techniques for creating an awesome flow edit in DaVinci Resolve and how to combine them together so you get a seamless pro edit in the end. Quick announcement. I've created a pack of flow transitions and effects available for download in my store. Optimized for both vertical and horizontal resolution. So go check it out. Let's start from scratch. Here I have a music track that I like and this track will be our main core which will dictate the pace of our edit, which shots to choose and when to use effects and transitions depending on the beat. Let's drag our first clips. I like this black and white flower and this trees shot with a spinning camera. I'm going to place the flower first like this and put the spinning trees shot after but increase its speed to around 1,700% so it will actually look like a transition as well. Right click or use the shortcut command or control R to open retime controls. Drag the top right edge of the clip to desired speed. Now this clip is spinning very fast which will look better with effects applied on top of it. Let's quickly create text like in the intro. Open effects browser, titles and drag title plus into the timeline. This one is art three with Imperial script font. Hold alt or option to duplicate this text and the second will be studio with enter black font. Place this text next to the first one. Now we are going to create our first directional blur effect with the zoom. All the effects and transitions that we are going to use today will be created with adjustment clips. So drag the adjustment clip into the timeline about 15 frames long. Let's apply Gaussian blur to it and animate it from zero to 0.5 and back to zero. Open the keyframe tab, select blur keyframes and press this button to ease keyframes. Now let's apply the directional blur effect. Set the blur angle to your liking and animate strength from zero to 0.7 and back to zero. Ease keyframes again. And we have this double blur effect which looks cool. I'm going to also drop a transform effect to add a little bit of zoom and animate zoom from one to 1.7. And position X value from zero to minus 0.05 so it has a little position shift. Open the keyframe tab and ease keyframes. The zoom is actually pretty intense. To add extra smoothness to our motion, open transform effect, animation and increase motion blur all the way up to make our transition look even smoother. Looking good and the last effect to apply is film grain. I'm going to change the grain parameters quickly. And animate strength from zero to one. Ease keyframes. This film grain effect is only available in the studio version. But if you have the free version, just open fusion page, apply the film grain effect and animate strength the same way as we did in the edit page. Let's set the marker on the middle keyframe so it's easy to identify where the main effect is happening. Change color and we have this cool looking effect that we can also use as a transition in the future. Next, let's create a flash blur effect with film grain. Duplicate this effect, delete directional blur and transform so we have only Gaussian blur and film grain left. Open fusion page to add a flash effect. Hit shift space and apply color corrector node. I'm going to animate this brightness value to create a flash effect from zero to 0.4. Open spline editor to ease keyframes. Cool. We already made two effects. One is a blur effect and the other as a flash transition. Let's rename this second effect and set a different color so everything looks nice and clean. Let's drag the next clips. This one with the biker and the other with the birds. I'm going to use a technique called directional continuity where movement in one clip must complement the movement of the other. I will also use speed ramping on both clips which is another important timer mapping technique. Both techniques are essential for creating a flow edit. Hit command or control plus R to open retime controls. Add speed point where you want to speed up the footage and drag the top right edge of the clip to the left to increase its speed. To make your speed ramps look buttery smooth, open retime and scaling and change retime process to optical flow and motion estimation to AI speed warp. Open the keyframe tab, select spline and ease keyframes and you can drag the individual sliders by holding shift. Let's also apply speed ramp to the clip with the birds. Open retime controls, add speed point. If you drag the point at the top, you're changing the speed. If you drag the lower part, you're just changing the point position. Now add a second speed point and increase the end of the clip too. So we have a visual slide that goes down and up. And to make it look perfect, change position and scale of both clips to match the position of the biker and the birds. Awesome. These two clips are done. I'm going to add one more clip with the cowgirl to create another relation with matching motion. The birds flying to the right create a nice transition to the cowgirl also moving to the right. So I will add a speed ramp into that clip with optical flow turned on. Ease keyframes. Try to match the speed and moment as precisely as possible and you can also hear that our visuals are synced with the music. That's another flow technique called rhythm sync. Let's make it look even more awesome by adding transitions between these four clips. I'm going to duplicate our first effect so I don't have to start creating it from scratch. Delete everything except transform so we have a little bit of zoom left. Now I'm going to copy the color corrector node from the second effect and paste it to our new one so we have a subtle zoom and flash. Let's rename it to flash zoom and pick a different color so this works as a transition now. Let's create a directional blur transition between these two clips. Duplicate our first effect, make it longer. Delete Gaussian blur and film grain. Change the blur angle to zero and set strength to 0.5. Open the keyframe tab to extend our keyframes. So now we have a subtle blur with zoom transition. Which looks great and create that flow motion. Now I'm going to create a pen transition from the birds clips to the cowgirl clip. Drag an adjustment clip and apply the transform effect. Increase motion blur right away and change edge behavior to reflect so we don't have the black edges while animating the X position. Now animate position X from zero to minus two. And animate zoom from one to 1.3. Open keyframe tab and ease keyframes like this. Cool. Now let's watch from the beginning. Awesome. Another cool trick is that you can trim adjustment clip from one side like that and it will create that cool looking abrupt effect that you can also use as an impact. And you can just duplicate it in other places of your edit and get a nice results. Cool. Now let me quickly show you two more transitions that you can create using the adjustment clips which will add some extra sauce to your edit. This cool transition is actually two transitions on top of each other. The top one is almost the same as first one we made but instead of directional blur, I used Gaussian blur. The bottom transition is made of zoom blur and lens distortion effects. Use lens distort if you have a free version and lens distortion if you have studio version. I just animated the distortion value from zero to around one and also animate blur amount from zero to 0.6. I also added an ellipse mask to zoom blur so it doesn't cover the whole image, just around the edges and it creates that zoom warp effect. And in combination with zoom blur transition that we made before, it looks even better. Great. Let me show you another cool transition which is a spin transition. You apply the transform effect as usual and animate rotate from zero to 360 so it makes a full circle. By adding lens distortion which you can apply directly in the edit page, you can create that warp effect as well. I also combined that transition with zoom blur and Gaussian blur. And together it creates that awesome spin warp transition. And the final technique are sound effects. All the sounds I'm going to use here are from my sound effects pack, which you can download from my store. Let's watch it first and then decide where it's better to place sound effects. >> >> I would place whooshes almost every transition that we have, especially panning zoom. Okay, I'm going to grab this folder inside Resolve and place whooshes first. I like this whoosh number one under the first transition. What about whoosh 27? I'm going to put it here. Cool. Let's combine whooshes 28 and 30 under the pan transition. Awesome. I'm going to quickly place the rest of the whooshes. Great. Now, let's move on to impacts, flashes, and risers. I like that riser impact. So, I'm going to place it right in the start, shift it to the left because it's too long, and create a fade. This impact creates tension before the biker shot. Great. I would also put flash sound effect under the bright flash transition clip. And in this part of the video, it would be great to place gear sounds as they can match with the gun and zoom lens blur effects. Gear number five somewhere here. And gear number eight a little bit further. >> >> Great. I'm going to add a couple more sound effects and let's watch it from the beginning. >> >> Awesome. Let's do a quick recap. We used six techniques to get the flow editing done. Rhythm sync with the beat matching, time remapping to create time flow, directional continuity by matching the right clips and emphasizing it with the seamless transitions like blur, pan, or spin, impact effects with flash, blur, zoom, etc. And the last technique was sound effects, which reinforce motion and timing. If you like this video, please like, subscribe, and leave a comments down below. If you want to create awesome flow edits like this and spice it up with transitions and effects, please check out my new flow effects and transitions pack available for download in my store. Drop a comment down below and tell me what tutorial you want to see next. Thanks for your support and see you in the next one.",
+  "duration_seconds": 790.8000000000001,
+  "segment_count": 294,
+  "word_count": 1856,
+  "char_count": 10201
+}
