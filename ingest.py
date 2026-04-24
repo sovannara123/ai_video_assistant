@@ -17,6 +17,7 @@ from utils import (
     print_error,
     print_info,
     print_step,
+    save_chunks,
     console
 )
 
@@ -258,6 +259,10 @@ class VideoIngester:
                 raise ValueError(f"Transcript too short ({transcript_data['word_count']} words)!")
 
             chunks = self.chunker.chunk(transcript_data)
+
+            # 💾 NEW: save chunks to disk
+
+            save_chunks(transcript_data["video_id"], chunks)
 
             summary = {
                 "video_id": transcript_data["video_id"],
