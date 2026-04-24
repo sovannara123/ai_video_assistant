@@ -125,6 +125,18 @@ def count_tokens(text: str, model: str = "gpt-4") -> int:
         # Fallback: estimate 4 chars per token
         return len(text) // 4
 
+import os
+import json
+
+def save_chunks(video_id: str, chunks: list[dict]):
+    os.makedirs("data/chunks", exist_ok=True)
+
+    filepath = f"data/chunks/{video_id}.json"
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(chunks, f, indent=2, ensure_ascii=False)
+
+    print(f"💾 Chunks saved → {filepath}")
 
 def chunk_text(
     text: str,
