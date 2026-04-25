@@ -1,0 +1,1056 @@
+{
+  "video_id": "6ETJU9cTEiw",
+  "url": "https://youtube.com/watch?v=6ETJU9cTEiw",
+  "raw_transcript": [
+    {
+      "text": "[music]",
+      "start": 0.654,
+      "duration": 2.02
+    },
+    {
+      "text": "Stop paying for stock audio. Seriously,",
+      "start": 3.28,
+      "duration": 6.0
+    },
+    {
+      "text": "for years, Suno AI has been the king of",
+      "start": 6.48,
+      "duration": 5.44
+    },
+    {
+      "text": "instant bangers. But as an editor, there",
+      "start": 9.28,
+      "duration": 4.96
+    },
+    {
+      "text": "was always one thing missing. You'd have",
+      "start": 11.92,
+      "duration": 4.24
+    },
+    {
+      "text": "the music, but you'd still have to hunt",
+      "start": 14.24,
+      "duration": 4.16
+    },
+    {
+      "text": "through generic libraries for one single",
+      "start": 16.16,
+      "duration": 4.72
+    },
+    {
+      "text": "transition or a background texture.",
+      "start": 18.4,
+      "duration": 5.44
+    },
+    {
+      "text": "Well, just closed that loop. They've",
+      "start": 20.88,
+      "duration": 5.92
+    },
+    {
+      "text": "dropped an update called sounds and it's",
+      "start": 23.84,
+      "duration": 4.88
+    },
+    {
+      "text": "officially time to rethink your stock",
+      "start": 26.8,
+      "duration": 4.719
+    },
+    {
+      "text": "audio subscriptions. Today I'm showing",
+      "start": 28.72,
+      "duration": 5.12
+    },
+    {
+      "text": "you how to turn into your own personal",
+      "start": 31.519,
+      "duration": 4.801
+    },
+    {
+      "text": "sound design studio. So how do we",
+      "start": 33.84,
+      "duration": 4.96
+    },
+    {
+      "text": "actually access the sound effects? It's",
+      "start": 36.32,
+      "duration": 4.399
+    },
+    {
+      "text": "simple, but it's kind of hidden under",
+      "start": 38.8,
+      "duration": 4.88
+    },
+    {
+      "text": "the hood. Open and head to the create",
+      "start": 40.719,
+      "duration": 5.84
+    },
+    {
+      "text": "tab. Toggle on the custom switch and",
+      "start": 43.68,
+      "duration": 5.68
+    },
+    {
+      "text": "there you will see a new drop-own menu.",
+      "start": 46.559,
+      "duration": 5.201
+    },
+    {
+      "text": "Click on it. Switch from custom to",
+      "start": 49.36,
+      "duration": 5.12
+    },
+    {
+      "text": "sounds. That's it. We have a big box",
+      "start": 51.76,
+      "duration": 4.72
+    },
+    {
+      "text": "here to describe our idea for the sound",
+      "start": 54.48,
+      "duration": 4.96
+    },
+    {
+      "text": "effect. Below you have some advanced",
+      "start": 56.48,
+      "duration": 5.599
+    },
+    {
+      "text": "options. This is your design terminal.",
+      "start": 59.44,
+      "duration": 5.6
+    },
+    {
+      "text": "The most important toggle is type. You",
+      "start": 62.079,
+      "duration": 4.961
+    },
+    {
+      "text": "have one shot, which is for sound",
+      "start": 65.04,
+      "duration": 4.079
+    },
+    {
+      "text": "effects that are to be played once, and",
+      "start": 67.04,
+      "duration": 4.399
+    },
+    {
+      "text": "loop for sound textures that need to",
+      "start": 69.119,
+      "duration": 4.401
+    },
+    {
+      "text": "stay consistent, like a rain. You can",
+      "start": 71.439,
+      "duration": 4.321
+    },
+    {
+      "text": "even set a specific BPM or a musical",
+      "start": 73.52,
+      "duration": 4.56
+    },
+    {
+      "text": "key, which is a feature I haven't seen",
+      "start": 75.76,
+      "duration": 5.2
+    },
+    {
+      "text": "any other AI handle this well. It means",
+      "start": 78.08,
+      "duration": 5.52
+    },
+    {
+      "text": "your SFX can actually stay harmonically",
+      "start": 80.96,
+      "duration": 4.799
+    },
+    {
+      "text": "in sync with your score. Let's get into",
+      "start": 83.6,
+      "duration": 4.8
+    },
+    {
+      "text": "the live tests. We're starting with the",
+      "start": 85.759,
+      "duration": 4.801
+    },
+    {
+      "text": "most common requirement for any video",
+      "start": 88.4,
+      "duration": 5.44
+    },
+    {
+      "text": "editor, the transition sounds. But we",
+      "start": 90.56,
+      "duration": 5.519
+    },
+    {
+      "text": "aren't just making a standard noise.",
+      "start": 93.84,
+      "duration": 4.4
+    },
+    {
+      "text": "We're going for a spatial vacuum warp,",
+      "start": 96.079,
+      "duration": 3.761
+    },
+    {
+      "text": "which can be perfect for masking",
+      "start": 98.24,
+      "duration": 4.0
+    },
+    {
+      "text": "transitions or those smooth digital",
+      "start": 99.84,
+      "duration": 4.0
+    },
+    {
+      "text": "zooms where you feel like you're being",
+      "start": 102.24,
+      "duration": 4.08
+    },
+    {
+      "text": "sucked into the next frame. If your",
+      "start": 103.84,
+      "duration": 4.88
+    },
+    {
+      "text": "whoosh sounds thin or flat, the illusion",
+      "start": 106.32,
+      "duration": 4.799
+    },
+    {
+      "text": "of movement breaks. So, let's try it",
+      "start": 108.72,
+      "duration": 5.439
+    },
+    {
+      "text": "out. Here, I'll prompt as spatial vacuum",
+      "start": 111.119,
+      "duration": 4.96
+    },
+    {
+      "text": "warp whoosh that can be used in frame",
+      "start": 114.159,
+      "duration": 4.32
+    },
+    {
+      "text": "transitions in video editing. I will",
+      "start": 116.079,
+      "duration": 4.64
+    },
+    {
+      "text": "select one shot as the type and hit",
+      "start": 118.479,
+      "duration": 6.801
+    },
+    {
+      "text": "generate. Let's listen to the first one.",
+      "start": 120.719,
+      "duration": 7.201
+    },
+    {
+      "text": "That is impressively clean. You can hear",
+      "start": 125.28,
+      "duration": 4.72
+    },
+    {
+      "text": "suction at the start of the sound.",
+      "start": 127.92,
+      "duration": 3.679
+    },
+    {
+      "text": "That's what allows you to hide a cut",
+      "start": 130.0,
+      "duration": 3.84
+    },
+    {
+      "text": "between two different clips. It has this",
+      "start": 131.599,
+      "duration": 4.481
+    },
+    {
+      "text": "incredible stereo width where the sound",
+      "start": 133.84,
+      "duration": 4.32
+    },
+    {
+      "text": "feels like it's actually traveling past",
+      "start": 136.08,
+      "duration": 5.2
+    },
+    {
+      "text": "your ears in a 3D space. Let's check out",
+      "start": 138.16,
+      "duration": 6.88
+    },
+    {
+      "text": "the other version as well.",
+      "start": 141.28,
+      "duration": 5.52
+    },
+    {
+      "text": "Again, this one's pretty much on point",
+      "start": 145.04,
+      "duration": 3.6
+    },
+    {
+      "text": "as well, but it's very different from",
+      "start": 146.8,
+      "duration": 3.84
+    },
+    {
+      "text": "the first version. This time, the",
+      "start": 148.64,
+      "duration": 3.92
+    },
+    {
+      "text": "suction starts later and ends a bit",
+      "start": 150.64,
+      "duration": 4.16
+    },
+    {
+      "text": "abruptly, which can be useful on its",
+      "start": 152.56,
+      "duration": 5.2
+    },
+    {
+      "text": "own. Both versions are smooth, heavy,",
+      "start": 154.8,
+      "duration": 5.439
+    },
+    {
+      "text": "and evolving. You could drop them into a",
+      "start": 157.76,
+      "duration": 4.64
+    },
+    {
+      "text": "high-end masking transition right now",
+      "start": 160.239,
+      "duration": 3.761
+    },
+    {
+      "text": "and no one would ever guess it was",
+      "start": 162.4,
+      "duration": 4.88
+    },
+    {
+      "text": "generated by an AI in 5 seconds. It has",
+      "start": 164.0,
+      "duration": 5.599
+    },
+    {
+      "text": "that expensive studio resonance that",
+      "start": 167.28,
+      "duration": 4.64
+    },
+    {
+      "text": "usually takes a sound designer hours to",
+      "start": 169.599,
+      "duration": 5.441
+    },
+    {
+      "text": "layer and mix. Next, let's test high",
+      "start": 171.92,
+      "duration": 5.2
+    },
+    {
+      "text": "frequency detail. These are the sounds",
+      "start": 175.04,
+      "duration": 4.16
+    },
+    {
+      "text": "that usually fall apart and sound",
+      "start": 177.12,
+      "duration": 5.28
+    },
+    {
+      "text": "crunchy in AI. We're testing an organic",
+      "start": 179.2,
+      "duration": 5.119
+    },
+    {
+      "text": "high energy texture of a sound that we",
+      "start": 182.4,
+      "duration": 4.8
+    },
+    {
+      "text": "hear often in real life. I will type the",
+      "start": 184.319,
+      "duration": 5.521
+    },
+    {
+      "text": "sound of a steak sizzling in a hot pan.",
+      "start": 187.2,
+      "duration": 4.48
+    },
+    {
+      "text": "I will set the type as one shot to",
+      "start": 189.84,
+      "duration": 5.119
+    },
+    {
+      "text": "capture the initial drop. Here we are. I",
+      "start": 191.68,
+      "duration": 5.68
+    },
+    {
+      "text": "love that AI has understood the cooking",
+      "start": 194.959,
+      "duration": 4.241
+    },
+    {
+      "text": "context and wrapped it with a perfectly",
+      "start": 197.36,
+      "duration": 5.72
+    },
+    {
+      "text": "matching album art.",
+      "start": 199.2,
+      "duration": 3.88
+    },
+    {
+      "text": "Did you hear that? It's not just white",
+      "start": 205.2,
+      "duration": 4.64
+    },
+    {
+      "text": "noise. You can hear the pop of the oil",
+      "start": 207.12,
+      "duration": 5.44
+    },
+    {
+      "text": "and the bubbling texture. It's dynamic.",
+      "start": 209.84,
+      "duration": 4.72
+    },
+    {
+      "text": "Most stock sizzle sounds are either too",
+      "start": 212.56,
+      "duration": 4.319
+    },
+    {
+      "text": "muffled or too aggressive, but Sunno",
+      "start": 214.56,
+      "duration": 4.56
+    },
+    {
+      "text": "managed to isolate the crispness of the",
+      "start": 216.879,
+      "duration": 4.881
+    },
+    {
+      "text": "heat. Now, let's test something that is",
+      "start": 219.12,
+      "duration": 4.56
+    },
+    {
+      "text": "often very useful for music production",
+      "start": 221.76,
+      "duration": 4.479
+    },
+    {
+      "text": "as well, especially for those low-fi",
+      "start": 223.68,
+      "duration": 6.0
+    },
+    {
+      "text": "tunes, the sound of rain. In my tricks",
+      "start": 226.239,
+      "duration": 5.601
+    },
+    {
+      "text": "and tips video, I showed you how to",
+      "start": 229.68,
+      "duration": 4.24
+    },
+    {
+      "text": "manually generate the sound of rain for",
+      "start": 231.84,
+      "duration": 4.319
+    },
+    {
+      "text": "background in your songs. But now that",
+      "start": 233.92,
+      "duration": 3.76
+    },
+    {
+      "text": "we have the new update for sound",
+      "start": 236.159,
+      "duration": 4.0
+    },
+    {
+      "text": "effects, let's try creating it. I will",
+      "start": 237.68,
+      "duration": 5.119
+    },
+    {
+      "text": "type the prompt as the sound of raining",
+      "start": 240.159,
+      "duration": 5.201
+    },
+    {
+      "text": "with drops crackling raindrops audibly",
+      "start": 242.799,
+      "duration": 4.881
+    },
+    {
+      "text": "falling on the road. I'm being a little",
+      "start": 245.36,
+      "duration": 4.48
+    },
+    {
+      "text": "descriptive in prompting since the model",
+      "start": 247.68,
+      "duration": 4.639
+    },
+    {
+      "text": "is still V5 and we all know it likes",
+      "start": 249.84,
+      "duration": 5.119
+    },
+    {
+      "text": "descriptions. And this time I'm setting",
+      "start": 252.319,
+      "duration": 5.04
+    },
+    {
+      "text": "the type as loop since we are looking",
+      "start": 254.959,
+      "duration": 6.52
+    },
+    {
+      "text": "for a continuous texture.",
+      "start": 257.359,
+      "duration": 4.12
+    },
+    {
+      "text": "That is great. It's quite a heavy rain",
+      "start": 265.68,
+      "duration": 4.56
+    },
+    {
+      "text": "sound than I expected. Has good realism",
+      "start": 267.84,
+      "duration": 4.16
+    },
+    {
+      "text": "in it, but I was looking for a bit",
+      "start": 270.24,
+      "duration": 3.92
+    },
+    {
+      "text": "softer texture, something that may be",
+      "start": 272.0,
+      "duration": 4.56
+    },
+    {
+      "text": "used as background for a moody low-fi",
+      "start": 274.16,
+      "duration": 4.8
+    },
+    {
+      "text": "song. So, let's adjust the prompt a bit",
+      "start": 276.56,
+      "duration": 4.4
+    },
+    {
+      "text": "and regenerate. Let's hear the first",
+      "start": 278.96,
+      "duration": 5.0
+    },
+    {
+      "text": "one.",
+      "start": 280.96,
+      "duration": 3.0
+    },
+    {
+      "text": "That one again is a bit heavy. So, let's",
+      "start": 286.639,
+      "duration": 3.681
+    },
+    {
+      "text": "check out the other generated version as",
+      "start": 288.479,
+      "duration": 4.841
+    },
+    {
+      "text": "well.",
+      "start": 290.32,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh yeah, this one is perfect. It's soft",
+      "start": 296.72,
+      "duration": 4.8
+    },
+    {
+      "text": "and consistent. This is the missing",
+      "start": 299.28,
+      "duration": 4.72
+    },
+    {
+      "text": "piece for realism, and it creates a",
+      "start": 301.52,
+      "duration": 5.76
+    },
+    {
+      "text": "sense of space. For a filmmaker, content",
+      "start": 304.0,
+      "duration": 5.6
+    },
+    {
+      "text": "creator, video editor, or a musician,",
+      "start": 307.28,
+      "duration": 4.24
+    },
+    {
+      "text": "being able to generate a custom weather",
+      "start": 309.6,
+      "duration": 4.0
+    },
+    {
+      "text": "loop that matches the exact mood of your",
+      "start": 311.52,
+      "duration": 4.64
+    },
+    {
+      "text": "scene is huge. You aren't just finding a",
+      "start": 313.6,
+      "duration": 5.439
+    },
+    {
+      "text": "sound, you're designing an atmosphere.",
+      "start": 316.16,
+      "duration": 4.8
+    },
+    {
+      "text": "One of the biggest tells for AI is",
+      "start": 319.039,
+      "duration": 4.16
+    },
+    {
+      "text": "whether it understands weight. Would",
+      "start": 320.96,
+      "duration": 4.88
+    },
+    {
+      "text": "Sunno AI understand sounds on wood and",
+      "start": 323.199,
+      "duration": 5.121
+    },
+    {
+      "text": "metal materials? Let's check it out.",
+      "start": 325.84,
+      "duration": 3.84
+    },
+    {
+      "text": "We're going to run a backto-back",
+      "start": 328.32,
+      "duration": 3.2
+    },
+    {
+      "text": "comparison using nearly identical",
+      "start": 329.68,
+      "duration": 3.92
+    },
+    {
+      "text": "prompts, only changing the material",
+      "start": 331.52,
+      "duration": 4.16
+    },
+    {
+      "text": "property. For the first one, I'm",
+      "start": 333.6,
+      "duration": 5.039
+    },
+    {
+      "text": "prompting for old wooden door slamming",
+      "start": 335.68,
+      "duration": 6.16
+    },
+    {
+      "text": "shut. First version.",
+      "start": 338.639,
+      "duration": 5.521
+    },
+    {
+      "text": "Second version.",
+      "start": 341.84,
+      "duration": 4.88
+    },
+    {
+      "text": "Both versions have that hollow thud of",
+      "start": 344.16,
+      "duration": 5.36
+    },
+    {
+      "text": "dry timber. And now let's change the",
+      "start": 346.72,
+      "duration": 4.96
+    },
+    {
+      "text": "wording for metal.",
+      "start": 349.52,
+      "duration": 4.08
+    },
+    {
+      "text": "That is a completely different frequency",
+      "start": 351.68,
+      "duration": 4.16
+    },
+    {
+      "text": "profile. You hear the high frequency",
+      "start": 353.6,
+      "duration": 4.56
+    },
+    {
+      "text": "clink and the metallic vibration after",
+      "start": 355.84,
+      "duration": 5.44
+    },
+    {
+      "text": "the impact. Thiso update has been very",
+      "start": 358.16,
+      "duration": 5.52
+    },
+    {
+      "text": "impressive so far. So this time, let's",
+      "start": 361.28,
+      "duration": 4.72
+    },
+    {
+      "text": "try something complex. A lightning",
+      "start": 363.68,
+      "duration": 4.72
+    },
+    {
+      "text": "strike. Ideally, we want a sound that",
+      "start": 366.0,
+      "duration": 4.639
+    },
+    {
+      "text": "starts with a massive peak and trails",
+      "start": 368.4,
+      "duration": 5.12
+    },
+    {
+      "text": "off into a complex electrical texture.",
+      "start": 370.639,
+      "duration": 5.12
+    },
+    {
+      "text": "Prompt. The sound of a lightning strike",
+      "start": 373.52,
+      "duration": 6.6
+    },
+    {
+      "text": "nearby with electricity. crackle.",
+      "start": 375.759,
+      "duration": 4.361
+    },
+    {
+      "text": "Okay, it's not quite what I was looking",
+      "start": 383.68,
+      "duration": 3.76
+    },
+    {
+      "text": "for. We can hear the crackle, but it",
+      "start": 385.52,
+      "duration": 3.6
+    },
+    {
+      "text": "starts from the beginning and not after",
+      "start": 387.44,
+      "duration": 4.08
+    },
+    {
+      "text": "the strike. So, let's see if we can be",
+      "start": 389.12,
+      "duration": 4.48
+    },
+    {
+      "text": "more descriptive in prompting here. And",
+      "start": 391.52,
+      "duration": 5.399
+    },
+    {
+      "text": "here we go.",
+      "start": 393.6,
+      "duration": 3.319
+    },
+    {
+      "text": "Nope, it still didn't come out right. We",
+      "start": 400.24,
+      "duration": 4.16
+    },
+    {
+      "text": "hear the crackles, but they don't come",
+      "start": 402.72,
+      "duration": 4.16
+    },
+    {
+      "text": "any close to the real phenomenon. Let's",
+      "start": 404.4,
+      "duration": 4.4
+    },
+    {
+      "text": "move on to something more mechanical.",
+      "start": 406.88,
+      "duration": 3.84
+    },
+    {
+      "text": "This should be interesting. I want to do",
+      "start": 408.8,
+      "duration": 3.44
+    },
+    {
+      "text": "a loop this time. So, I'm going to go",
+      "start": 410.72,
+      "duration": 3.28
+    },
+    {
+      "text": "for the sound of an old muscle car",
+      "start": 412.24,
+      "duration": 4.72
+    },
+    {
+      "text": "engine idling. Set for loop and hit",
+      "start": 414.0,
+      "duration": 5.96
+    },
+    {
+      "text": "create.",
+      "start": 416.96,
+      "duration": 3.0
+    },
+    {
+      "text": "It's a bit shorter for a loop, but that",
+      "start": 422.16,
+      "duration": 4.319
+    },
+    {
+      "text": "low frequency growl is perfect for a",
+      "start": 424.16,
+      "duration": 4.56
+    },
+    {
+      "text": "background layer. It has that uneven",
+      "start": 426.479,
+      "duration": 4.481
+    },
+    {
+      "text": "chugging rhythm of an old engine, and it",
+      "start": 428.72,
+      "duration": 4.96
+    },
+    {
+      "text": "feels heavy. Finally, the hardest test",
+      "start": 430.96,
+      "duration": 5.679
+    },
+    {
+      "text": "of all, action SFX. This can be",
+      "start": 433.68,
+      "duration": 4.56
+    },
+    {
+      "text": "challenging, but let's see what Sunno",
+      "start": 436.639,
+      "duration": 3.521
+    },
+    {
+      "text": "comes up with when prompted for a metal",
+      "start": 438.24,
+      "duration": 4.399
+    },
+    {
+      "text": "swords clashing sound like in a medieval",
+      "start": 440.16,
+      "duration": 5.36
+    },
+    {
+      "text": "action scene. First, let's try as one",
+      "start": 442.639,
+      "duration": 5.201
+    },
+    {
+      "text": "shot.",
+      "start": 445.52,
+      "duration": 4.799
+    },
+    {
+      "text": "Yes, you hear the ringing of the steel",
+      "start": 447.84,
+      "duration": 5.12
+    },
+    {
+      "text": "with the feel of sharpness. And what if",
+      "start": 450.319,
+      "duration": 7.521
+    },
+    {
+      "text": "we set this same prompt but for loop?",
+      "start": 452.96,
+      "duration": 7.359
+    },
+    {
+      "text": "Yeah, that's almost perfect. Although",
+      "start": 457.84,
+      "duration": 5.28
+    },
+    {
+      "text": "it's too bad that it's too short. I want",
+      "start": 460.319,
+      "duration": 4.561
+    },
+    {
+      "text": "to try mentioning the duration in the",
+      "start": 463.12,
+      "duration": 4.16
+    },
+    {
+      "text": "prompt to see if we can go for a longer",
+      "start": 464.88,
+      "duration": 6.039
+    },
+    {
+      "text": "continuous sound.",
+      "start": 467.28,
+      "duration": 3.639
+    },
+    {
+      "text": "It didn't give 8 seconds, but this time",
+      "start": 473.28,
+      "duration": 4.16
+    },
+    {
+      "text": "we have a 4se secondond generation.",
+      "start": 475.199,
+      "duration": 3.84
+    },
+    {
+      "text": "Slightly longer than our previous",
+      "start": 477.44,
+      "duration": 4.599
+    },
+    {
+      "text": "attempt.",
+      "start": 479.039,
+      "duration": 3.0
+    },
+    {
+      "text": "Yeah, that's much better. Feels like a",
+      "start": 485.12,
+      "duration": 5.12
+    },
+    {
+      "text": "real physical event. Okay, so what's the",
+      "start": 487.12,
+      "duration": 5.199
+    },
+    {
+      "text": "verdict? Overall, I think this sounds",
+      "start": 490.24,
+      "duration": 4.48
+    },
+    {
+      "text": "update is very impressive. Sound effects",
+      "start": 492.319,
+      "duration": 4.641
+    },
+    {
+      "text": "are pretty simple now. Think it, type",
+      "start": 494.72,
+      "duration": 4.56
+    },
+    {
+      "text": "it, and drag it into your timeline. Is",
+      "start": 496.96,
+      "duration": 5.84
+    },
+    {
+      "text": "it 100% perfect? No, it's still in beta.",
+      "start": 499.28,
+      "duration": 5.12
+    },
+    {
+      "text": "You'll definitely have some hit or miss",
+      "start": 502.8,
+      "duration": 3.76
+    },
+    {
+      "text": "moments like that lightning effect. But",
+      "start": 504.4,
+      "duration": 3.68
+    },
+    {
+      "text": "the sheer speed of being able to",
+      "start": 506.56,
+      "duration": 3.039
+    },
+    {
+      "text": "describe an idea and getting a",
+      "start": 508.08,
+      "duration": 3.92
+    },
+    {
+      "text": "highfidelity result in seconds is an",
+      "start": 509.599,
+      "duration": 4.161
+    },
+    {
+      "text": "unfair advantage for the efficiency of",
+      "start": 512.0,
+      "duration": 4.719
+    },
+    {
+      "text": "any workflow. So, the strategy is clear.",
+      "start": 513.76,
+      "duration": 5.12
+    },
+    {
+      "text": "Stop searching stock libraries for sound",
+      "start": 516.719,
+      "duration": 5.601
+    },
+    {
+      "text": "effects because now with AAI, you can",
+      "start": 518.88,
+      "duration": 5.84
+    },
+    {
+      "text": "start designing your own world. If you",
+      "start": 522.32,
+      "duration": 4.4
+    },
+    {
+      "text": "found this video helpful, hit that",
+      "start": 524.72,
+      "duration": 3.84
+    },
+    {
+      "text": "subscribe button for more breakdowns on",
+      "start": 526.72,
+      "duration": 3.76
+    },
+    {
+      "text": "Suno AI and I'll see you in the next",
+      "start": 528.56,
+      "duration": 4.64
+    },
+    {
+      "text": "edit.",
+      "start": 530.48,
+      "duration": 2.72
+    }
+  ],
+  "full_text": "Stop paying for stock audio. Seriously, for years, Suno AI has been the king of instant bangers. But as an editor, there was always one thing missing. You'd have the music, but you'd still have to hunt through generic libraries for one single transition or a background texture. Well, just closed that loop. They've dropped an update called sounds and it's officially time to rethink your stock audio subscriptions. Today I'm showing you how to turn into your own personal sound design studio. So how do we actually access the sound effects? It's simple, but it's kind of hidden under the hood. Open and head to the create tab. Toggle on the custom switch and there you will see a new drop-own menu. Click on it. Switch from custom to sounds. That's it. We have a big box here to describe our idea for the sound effect. Below you have some advanced options. This is your design terminal. The most important toggle is type. You have one shot, which is for sound effects that are to be played once, and loop for sound textures that need to stay consistent, like a rain. You can even set a specific BPM or a musical key, which is a feature I haven't seen any other AI handle this well. It means your SFX can actually stay harmonically in sync with your score. Let's get into the live tests. We're starting with the most common requirement for any video editor, the transition sounds. But we aren't just making a standard noise. We're going for a spatial vacuum warp, which can be perfect for masking transitions or those smooth digital zooms where you feel like you're being sucked into the next frame. If your whoosh sounds thin or flat, the illusion of movement breaks. So, let's try it out. Here, I'll prompt as spatial vacuum warp whoosh that can be used in frame transitions in video editing. I will select one shot as the type and hit generate. Let's listen to the first one. That is impressively clean. You can hear suction at the start of the sound. That's what allows you to hide a cut between two different clips. It has this incredible stereo width where the sound feels like it's actually traveling past your ears in a 3D space. Let's check out the other version as well. Again, this one's pretty much on point as well, but it's very different from the first version. This time, the suction starts later and ends a bit abruptly, which can be useful on its own. Both versions are smooth, heavy, and evolving. You could drop them into a high-end masking transition right now and no one would ever guess it was generated by an AI in 5 seconds. It has that expensive studio resonance that usually takes a sound designer hours to layer and mix. Next, let's test high frequency detail. These are the sounds that usually fall apart and sound crunchy in AI. We're testing an organic high energy texture of a sound that we hear often in real life. I will type the sound of a steak sizzling in a hot pan. I will set the type as one shot to capture the initial drop. Here we are. I love that AI has understood the cooking context and wrapped it with a perfectly matching album art. Did you hear that? It's not just white noise. You can hear the pop of the oil and the bubbling texture. It's dynamic. Most stock sizzle sounds are either too muffled or too aggressive, but Sunno managed to isolate the crispness of the heat. Now, let's test something that is often very useful for music production as well, especially for those low-fi tunes, the sound of rain. In my tricks and tips video, I showed you how to manually generate the sound of rain for background in your songs. But now that we have the new update for sound effects, let's try creating it. I will type the prompt as the sound of raining with drops crackling raindrops audibly falling on the road. I'm being a little descriptive in prompting since the model is still V5 and we all know it likes descriptions. And this time I'm setting the type as loop since we are looking for a continuous texture. That is great. It's quite a heavy rain sound than I expected. Has good realism in it, but I was looking for a bit softer texture, something that may be used as background for a moody low-fi song. So, let's adjust the prompt a bit and regenerate. Let's hear the first one. That one again is a bit heavy. So, let's check out the other generated version as well. Oh yeah, this one is perfect. It's soft and consistent. This is the missing piece for realism, and it creates a sense of space. For a filmmaker, content creator, video editor, or a musician, being able to generate a custom weather loop that matches the exact mood of your scene is huge. You aren't just finding a sound, you're designing an atmosphere. One of the biggest tells for AI is whether it understands weight. Would Sunno AI understand sounds on wood and metal materials? Let's check it out. We're going to run a backto-back comparison using nearly identical prompts, only changing the material property. For the first one, I'm prompting for old wooden door slamming shut. First version. Second version. Both versions have that hollow thud of dry timber. And now let's change the wording for metal. That is a completely different frequency profile. You hear the high frequency clink and the metallic vibration after the impact. Thiso update has been very impressive so far. So this time, let's try something complex. A lightning strike. Ideally, we want a sound that starts with a massive peak and trails off into a complex electrical texture. Prompt. The sound of a lightning strike nearby with electricity. crackle. Okay, it's not quite what I was looking for. We can hear the crackle, but it starts from the beginning and not after the strike. So, let's see if we can be more descriptive in prompting here. And here we go. Nope, it still didn't come out right. We hear the crackles, but they don't come any close to the real phenomenon. Let's move on to something more mechanical. This should be interesting. I want to do a loop this time. So, I'm going to go for the sound of an old muscle car engine idling. Set for loop and hit create. It's a bit shorter for a loop, but that low frequency growl is perfect for a background layer. It has that uneven chugging rhythm of an old engine, and it feels heavy. Finally, the hardest test of all, action SFX. This can be challenging, but let's see what Sunno comes up with when prompted for a metal swords clashing sound like in a medieval action scene. First, let's try as one shot. Yes, you hear the ringing of the steel with the feel of sharpness. And what if we set this same prompt but for loop? Yeah, that's almost perfect. Although it's too bad that it's too short. I want to try mentioning the duration in the prompt to see if we can go for a longer continuous sound. It didn't give 8 seconds, but this time we have a 4se secondond generation. Slightly longer than our previous attempt. Yeah, that's much better. Feels like a real physical event. Okay, so what's the verdict? Overall, I think this sounds update is very impressive. Sound effects are pretty simple now. Think it, type it, and drag it into your timeline. Is it 100% perfect? No, it's still in beta. You'll definitely have some hit or miss moments like that lightning effect. But the sheer speed of being able to describe an idea and getting a highfidelity result in seconds is an unfair advantage for the efficiency of any workflow. So, the strategy is clear. Stop searching stock libraries for sound effects because now with AAI, you can start designing your own world. If you found this video helpful, hit that subscribe button for more breakdowns on Suno AI and I'll see you in the next edit.",
+  "duration_seconds": 533.2,
+  "segment_count": 209,
+  "word_count": 1383,
+  "char_count": 7641
+}

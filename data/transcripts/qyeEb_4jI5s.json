@@ -1,0 +1,1331 @@
+{
+  "video_id": "qyeEb_4jI5s",
+  "url": "https://youtube.com/watch?v=qyeEb_4jI5s",
+  "raw_transcript": [
+    {
+      "text": "Adding sound effects to your AI",
+      "start": 0.08,
+      "duration": 4.16
+    },
+    {
+      "text": "generated video will either make or",
+      "start": 2.08,
+      "duration": 4.16
+    },
+    {
+      "text": "break your video. If you do it wrong,",
+      "start": 4.24,
+      "duration": 4.319
+    },
+    {
+      "text": "your video might sound like this.",
+      "start": 6.24,
+      "duration": 5.84
+    },
+    {
+      "text": ">> It's June 5th, 1942 in Pasigoula,",
+      "start": 8.559,
+      "duration": 5.601
+    },
+    {
+      "text": "Mississippi. Two young girls sleep",
+      "start": 12.08,
+      "duration": 3.92
+    },
+    {
+      "text": "peacefully in their convent bedroom.",
+      "start": 14.16,
+      "duration": 3.28
+    },
+    {
+      "text": "Outside, a window screen has been",
+      "start": 16.0,
+      "duration": 3.52
+    },
+    {
+      "text": "carefully slid open. Someone is",
+      "start": 17.44,
+      "duration": 2.56
+    },
+    {
+      "text": "watching.",
+      "start": 19.52,
+      "duration": 2.08
+    },
+    {
+      "text": ">> But if you do it right, then it will",
+      "start": 20.0,
+      "duration": 4.0
+    },
+    {
+      "text": "elevate your video into something like",
+      "start": 21.6,
+      "duration": 3.599
+    },
+    {
+      "text": "this.",
+      "start": 24.0,
+      "duration": 4.72
+    },
+    {
+      "text": ">> It's June 5th, 1942 in Pasigoula,",
+      "start": 25.199,
+      "duration": 5.521
+    },
+    {
+      "text": "Mississippi. Two young girls sleep",
+      "start": 28.72,
+      "duration": 3.839
+    },
+    {
+      "text": "peacefully in their convent bedroom.",
+      "start": 30.72,
+      "duration": 3.359
+    },
+    {
+      "text": "Outside, a window screen has been",
+      "start": 32.559,
+      "duration": 3.52
+    },
+    {
+      "text": "carefully slid open. Someone is",
+      "start": 34.079,
+      "duration": 4.881
+    },
+    {
+      "text": "watching. Someone is waiting. You see",
+      "start": 36.079,
+      "duration": 4.721
+    },
+    {
+      "text": "the difference? That's why everyone is",
+      "start": 38.96,
+      "duration": 3.919
+    },
+    {
+      "text": "nowadays using VR3 because it",
+      "start": 40.8,
+      "duration": 4.16
+    },
+    {
+      "text": "automatically adds in that sound design.",
+      "start": 42.879,
+      "duration": 4.481
+    },
+    {
+      "text": "And even though V3 isn't quite good,",
+      "start": 44.96,
+      "duration": 4.64
+    },
+    {
+      "text": "people still end up using it. But what",
+      "start": 47.36,
+      "duration": 4.08
+    },
+    {
+      "text": "if you want to use something like Cling",
+      "start": 49.6,
+      "duration": 5.04
+    },
+    {
+      "text": "Seance 1 or any of the other AI video",
+      "start": 51.44,
+      "duration": 4.959
+    },
+    {
+      "text": "generators? Then you don't have any",
+      "start": 54.64,
+      "duration": 3.759
+    },
+    {
+      "text": "option to adding your sounds. Luckily,",
+      "start": 56.399,
+      "duration": 4.081
+    },
+    {
+      "text": "11 Labs just launched their new and",
+      "start": 58.399,
+      "duration": 4.721
+    },
+    {
+      "text": "improved AI sound effects generator, and",
+      "start": 60.48,
+      "duration": 4.24
+    },
+    {
+      "text": "I've been testing it, and it's actually",
+      "start": 63.12,
+      "duration": 3.84
+    },
+    {
+      "text": "pretty good. That means that 11 Labs is",
+      "start": 64.72,
+      "duration": 5.04
+    },
+    {
+      "text": "becoming your all-in-one tool for audio",
+      "start": 66.96,
+      "duration": 4.88
+    },
+    {
+      "text": "generation. It can do voice cloning,",
+      "start": 69.76,
+      "duration": 4.88
+    },
+    {
+      "text": "voice generation, music, and even sound",
+      "start": 71.84,
+      "duration": 4.959
+    },
+    {
+      "text": "effects. In this video, I will walk you",
+      "start": 74.64,
+      "duration": 4.32
+    },
+    {
+      "text": "through how you can use this to add",
+      "start": 76.799,
+      "duration": 4.161
+    },
+    {
+      "text": "sound effects to your own AI generated",
+      "start": 78.96,
+      "duration": 3.68
+    },
+    {
+      "text": "videos. we will test out if it's",
+      "start": 80.96,
+      "duration": 3.76
+    },
+    {
+      "text": "actually good and if it can replace",
+      "start": 82.64,
+      "duration": 4.56
+    },
+    {
+      "text": "other subscriptions so you can just use",
+      "start": 84.72,
+      "duration": 4.32
+    },
+    {
+      "text": "one subscription alone. If you want to",
+      "start": 87.2,
+      "duration": 4.32
+    },
+    {
+      "text": "follow along and use my assets, then I",
+      "start": 89.04,
+      "duration": 3.68
+    },
+    {
+      "text": "will leave a link to that in the",
+      "start": 91.52,
+      "duration": 2.48
+    },
+    {
+      "text": "description down below. I will also",
+      "start": 92.72,
+      "duration": 3.359
+    },
+    {
+      "text": "leave a link to 11L apps. Once you're",
+      "start": 94.0,
+      "duration": 4.32
+    },
+    {
+      "text": "logged into 11Labs, then you want to go",
+      "start": 96.079,
+      "duration": 5.04
+    },
+    {
+      "text": "over to sound effects. So here we have",
+      "start": 98.32,
+      "duration": 5.2
+    },
+    {
+      "text": "the new and improved sound effects. It",
+      "start": 101.119,
+      "duration": 3.921
+    },
+    {
+      "text": "is categorized under all of these",
+      "start": 103.52,
+      "duration": 3.04
+    },
+    {
+      "text": "different segments. So if you want to",
+      "start": 105.04,
+      "duration": 3.359
+    },
+    {
+      "text": "use animals, then you can just filter on",
+      "start": 106.56,
+      "duration": 3.36
+    },
+    {
+      "text": "animals. But if you want to have",
+      "start": 108.399,
+      "duration": 3.201
+    },
+    {
+      "text": "something custom, then you can here",
+      "start": 109.92,
+      "duration": 3.68
+    },
+    {
+      "text": "describe your sound and then you can add",
+      "start": 111.6,
+      "duration": 4.799
+    },
+    {
+      "text": "in your settings. So I have my timeline",
+      "start": 113.6,
+      "duration": 4.879
+    },
+    {
+      "text": "right here. So I have this video which",
+      "start": 116.399,
+      "duration": 4.481
+    },
+    {
+      "text": "is quite boring without any sound",
+      "start": 118.479,
+      "duration": 3.68
+    },
+    {
+      "text": "effects. Just take a listen.",
+      "start": 120.88,
+      "duration": 4.72
+    },
+    {
+      "text": ">> It's June 5th, 1942 in Pasigoula,",
+      "start": 122.159,
+      "duration": 5.521
+    },
+    {
+      "text": "Mississippi. Two young girls sleep",
+      "start": 125.6,
+      "duration": 3.92
+    },
+    {
+      "text": "peacefully in their convent bedroom.",
+      "start": 127.68,
+      "duration": 3.359
+    },
+    {
+      "text": "Outside a window screen has been",
+      "start": 129.52,
+      "duration": 4.0
+    },
+    {
+      "text": "carefully slid open. Someone is",
+      "start": 131.039,
+      "duration": 4.881
+    },
+    {
+      "text": ">> So yeah, not much going on there. No",
+      "start": 133.52,
+      "duration": 4.96
+    },
+    {
+      "text": "music, no sound effects, just a voice",
+      "start": 135.92,
+      "duration": 5.12
+    },
+    {
+      "text": "over on top of these videos. So now let",
+      "start": 138.48,
+      "duration": 4.479
+    },
+    {
+      "text": "me walk you through how I would edit",
+      "start": 141.04,
+      "duration": 3.919
+    },
+    {
+      "text": "this if I were to add in these AI",
+      "start": 142.959,
+      "duration": 3.761
+    },
+    {
+      "text": "generated sound effects. So what we do",
+      "start": 144.959,
+      "duration": 4.241
+    },
+    {
+      "text": "is we go back to 11 Labs and first we",
+      "start": 146.72,
+      "duration": 4.8
+    },
+    {
+      "text": "want to start off with an impact hit.",
+      "start": 149.2,
+      "duration": 4.48
+    },
+    {
+      "text": "That is an effect that adds a dramatic",
+      "start": 151.52,
+      "duration": 5.2
+    },
+    {
+      "text": "sound to our beginning intro, especially",
+      "start": 153.68,
+      "duration": 5.36
+    },
+    {
+      "text": "once we're hitting the black screen and",
+      "start": 156.72,
+      "duration": 5.04
+    },
+    {
+      "text": "it goes to June 5th. So to do that,",
+      "start": 159.04,
+      "duration": 4.88
+    },
+    {
+      "text": "we're going to describe our sound, which",
+      "start": 161.76,
+      "duration": 5.199
+    },
+    {
+      "text": "will be impact hit with a reverb. Now",
+      "start": 163.92,
+      "duration": 5.36
+    },
+    {
+      "text": "the reverb will add that like echoey",
+      "start": 166.959,
+      "duration": 4.161
+    },
+    {
+      "text": "sound to it. For the duration, I'm going",
+      "start": 169.28,
+      "duration": 3.76
+    },
+    {
+      "text": "to go with 7 seconds. And then for the",
+      "start": 171.12,
+      "duration": 4.64
+    },
+    {
+      "text": "prompt influence, I put it at 64. Now",
+      "start": 173.04,
+      "duration": 4.4
+    },
+    {
+      "text": "the lower you put it, the more creative",
+      "start": 175.76,
+      "duration": 3.28
+    },
+    {
+      "text": "it will get. The higher you put it, the",
+      "start": 177.44,
+      "duration": 3.2
+    },
+    {
+      "text": "more it will follow your prompt. Now you",
+      "start": 179.04,
+      "duration": 3.36
+    },
+    {
+      "text": "click on generate. And this will take",
+      "start": 180.64,
+      "duration": 4.16
+    },
+    {
+      "text": "like 10 seconds. So we have these four",
+      "start": 182.4,
+      "duration": 6.199
+    },
+    {
+      "text": "versions right here.",
+      "start": 184.8,
+      "duration": 3.799
+    },
+    {
+      "text": "Sounds good. But if you don't like them,",
+      "start": 194.56,
+      "duration": 3.84
+    },
+    {
+      "text": "then you can just generate them again.",
+      "start": 196.48,
+      "duration": 3.679
+    },
+    {
+      "text": "So, let's actually do that. Now, we have",
+      "start": 198.4,
+      "duration": 5.88
+    },
+    {
+      "text": "four new ones. Let's have a listen.",
+      "start": 200.159,
+      "duration": 4.121
+    },
+    {
+      "text": "I quite like the first one. If you want",
+      "start": 209.68,
+      "duration": 4.16
+    },
+    {
+      "text": "to search your history, then you go in",
+      "start": 211.44,
+      "duration": 4.4
+    },
+    {
+      "text": "here and you can see your history right",
+      "start": 213.84,
+      "duration": 4.24
+    },
+    {
+      "text": "here. Now, inside of your history, you",
+      "start": 215.84,
+      "duration": 4.16
+    },
+    {
+      "text": "can click download. And now we're",
+      "start": 218.08,
+      "duration": 5.439
+    },
+    {
+      "text": "downloading this as a WAV file. So, this",
+      "start": 220.0,
+      "duration": 6.959
+    },
+    {
+      "text": "will be a higher quality result. So,",
+      "start": 223.519,
+      "duration": 5.44
+    },
+    {
+      "text": "next up, you go back to Cap Cut. And now",
+      "start": 226.959,
+      "duration": 3.92
+    },
+    {
+      "text": "you find the place where you want to add",
+      "start": 228.959,
+      "duration": 4.241
+    },
+    {
+      "text": "this in there. Now, we add this effect",
+      "start": 230.879,
+      "duration": 4.961
+    },
+    {
+      "text": "right at the beginning where June 5th is",
+      "start": 233.2,
+      "duration": 4.88
+    },
+    {
+      "text": "placed. So, right over at this sound",
+      "start": 235.84,
+      "duration": 4.479
+    },
+    {
+      "text": "right here when June 5th, we will hear",
+      "start": 238.08,
+      "duration": 3.439
+    },
+    {
+      "text": "this.",
+      "start": 240.319,
+      "duration": 3.041
+    },
+    {
+      "text": ">> It's June 5th, 19.",
+      "start": 241.519,
+      "duration": 4.0
+    },
+    {
+      "text": ">> And this makes it a bit more dramatic.",
+      "start": 243.36,
+      "duration": 4.879
+    },
+    {
+      "text": "Let's add another sound effect using 11",
+      "start": 245.519,
+      "duration": 4.401
+    },
+    {
+      "text": "lapse. So, we're going to go back to",
+      "start": 248.239,
+      "duration": 3.761
+    },
+    {
+      "text": "sound effects. Now, we need an ambience",
+      "start": 249.92,
+      "duration": 4.319
+    },
+    {
+      "text": "to set the tone for the scene. So, I'm",
+      "start": 252.0,
+      "duration": 4.799
+    },
+    {
+      "text": "going to go with horror atmosphere. And",
+      "start": 254.239,
+      "duration": 4.56
+    },
+    {
+      "text": "for the duration, I'm going to make this",
+      "start": 256.799,
+      "duration": 4.321
+    },
+    {
+      "text": "a bit longer. So, let's do something",
+      "start": 258.799,
+      "duration": 4.4
+    },
+    {
+      "text": "like this. And then for the influence,",
+      "start": 261.12,
+      "duration": 4.32
+    },
+    {
+      "text": "I'm going to keep it at 64%. Let's have",
+      "start": 263.199,
+      "duration": 5.961
+    },
+    {
+      "text": "a listen to this one.",
+      "start": 265.44,
+      "duration": 3.72
+    },
+    {
+      "text": "That one is quite good.",
+      "start": 273.36,
+      "duration": 3.2
+    },
+    {
+      "text": "I like that one too.",
+      "start": 277.68,
+      "duration": 5.84
+    },
+    {
+      "text": "Okay, it's for me between the second and",
+      "start": 281.52,
+      "duration": 4.08
+    },
+    {
+      "text": "the third one. Then we click on it. And",
+      "start": 283.52,
+      "duration": 6.76
+    },
+    {
+      "text": "now let's choose either this one.",
+      "start": 285.6,
+      "duration": 4.68
+    },
+    {
+      "text": "Let's actually go with this one. I'm",
+      "start": 292.56,
+      "duration": 3.52
+    },
+    {
+      "text": "going to download this. And now we're",
+      "start": 294.24,
+      "duration": 3.519
+    },
+    {
+      "text": "going to go over to Capkin again. And",
+      "start": 296.08,
+      "duration": 3.6
+    },
+    {
+      "text": "now we just need to decide where we're",
+      "start": 297.759,
+      "duration": 3.841
+    },
+    {
+      "text": "going to place this. So, I think right",
+      "start": 299.68,
+      "duration": 4.48
+    },
+    {
+      "text": "about here where we have like the fade",
+      "start": 301.6,
+      "duration": 4.64
+    },
+    {
+      "text": "out, this will be a good place where we",
+      "start": 304.16,
+      "duration": 4.4
+    },
+    {
+      "text": "can add this sound effect.",
+      "start": 306.24,
+      "duration": 4.799
+    },
+    {
+      "text": ">> In Pasigula, Mississippi, two young",
+      "start": 308.56,
+      "duration": 3.84
+    },
+    {
+      "text": "girls sleepaceully.",
+      "start": 311.039,
+      "duration": 4.0
+    },
+    {
+      "text": ">> We might just have to lower the sound a",
+      "start": 312.4,
+      "duration": 4.32
+    },
+    {
+      "text": "little bit.",
+      "start": 315.039,
+      "duration": 4.16
+    },
+    {
+      "text": ">> In Pasigula, Mississippi, two young",
+      "start": 316.72,
+      "duration": 4.479
+    },
+    {
+      "text": "girls sleep peacefully in their convent.",
+      "start": 319.199,
+      "duration": 3.84
+    },
+    {
+      "text": ">> That makes it quite creepy. Next up, I",
+      "start": 321.199,
+      "duration": 3.361
+    },
+    {
+      "text": "want to add in another sound for when",
+      "start": 323.039,
+      "duration": 3.521
+    },
+    {
+      "text": "this guy is like opening up the window.",
+      "start": 324.56,
+      "duration": 4.16
+    },
+    {
+      "text": "Like, I want to have somewhat of a jump",
+      "start": 326.56,
+      "duration": 3.84
+    },
+    {
+      "text": "scare effect there. So, we're going to",
+      "start": 328.72,
+      "duration": 3.68
+    },
+    {
+      "text": "go with another impact hit, but this",
+      "start": 330.4,
+      "duration": 4.48
+    },
+    {
+      "text": "time we do it a little bit different. By",
+      "start": 332.4,
+      "duration": 4.32
+    },
+    {
+      "text": "the way, if you don't know like what",
+      "start": 334.88,
+      "duration": 3.68
+    },
+    {
+      "text": "these things are called, you can also",
+      "start": 336.72,
+      "duration": 3.6
+    },
+    {
+      "text": "always explore. Like, for example, they",
+      "start": 338.56,
+      "duration": 3.76
+    },
+    {
+      "text": "already have some pre-made ones that you",
+      "start": 340.32,
+      "duration": 4.08
+    },
+    {
+      "text": "can just use as well. So, for example,",
+      "start": 342.32,
+      "duration": 4.4
+    },
+    {
+      "text": "here we have an impact. This is quite a",
+      "start": 344.4,
+      "duration": 4.88
+    },
+    {
+      "text": "low one, but I want to go with a high",
+      "start": 346.72,
+      "duration": 5.199
+    },
+    {
+      "text": "impact cinematic hit. For the duration,",
+      "start": 349.28,
+      "duration": 4.639
+    },
+    {
+      "text": "this one is going to be a lot shorter as",
+      "start": 351.919,
+      "duration": 3.601
+    },
+    {
+      "text": "this is going to be a jump scare. So,",
+      "start": 353.919,
+      "duration": 4.241
+    },
+    {
+      "text": "let's do around 3 seconds. And I wanted",
+      "start": 355.52,
+      "duration": 4.48
+    },
+    {
+      "text": "to follow the prompt a little bit more.",
+      "start": 358.16,
+      "duration": 4.0
+    },
+    {
+      "text": "So I'm going to put that at 75. Let's",
+      "start": 360.0,
+      "duration": 4.96
+    },
+    {
+      "text": "have a listen.",
+      "start": 362.16,
+      "duration": 6.84
+    },
+    {
+      "text": "That's exactly what I want.",
+      "start": 364.96,
+      "duration": 4.04
+    },
+    {
+      "text": "Okay. For me, it's between one and four.",
+      "start": 373.039,
+      "duration": 4.521
+    },
+    {
+      "text": "Let's actually do one. For the",
+      "start": 378.479,
+      "duration": 3.121
+    },
+    {
+      "text": "placement, we want to place it right",
+      "start": 380.0,
+      "duration": 4.24
+    },
+    {
+      "text": "around here where we can add in that",
+      "start": 381.6,
+      "duration": 4.56
+    },
+    {
+      "text": "high impact. So this will be for the",
+      "start": 384.24,
+      "duration": 4.16
+    },
+    {
+      "text": "jump scare. So, let's add it right here.",
+      "start": 386.16,
+      "duration": 6.039
+    },
+    {
+      "text": "And now it's like this.",
+      "start": 388.4,
+      "duration": 3.799
+    },
+    {
+      "text": ">> You see how that elevates the scene",
+      "start": 393.919,
+      "duration": 3.761
+    },
+    {
+      "text": "right away? Like if you didn't have this",
+      "start": 395.84,
+      "duration": 3.359
+    },
+    {
+      "text": "sound effect, like if I were to just",
+      "start": 397.68,
+      "duration": 2.56
+    },
+    {
+      "text": "turn this off,",
+      "start": 399.199,
+      "duration": 2.401
+    },
+    {
+      "text": ">> someone is waiting,",
+      "start": 400.24,
+      "duration": 3.519
+    },
+    {
+      "text": ">> then there's nothing special. But if we",
+      "start": 401.6,
+      "duration": 4.48
+    },
+    {
+      "text": "add in this sound effect,",
+      "start": 403.759,
+      "duration": 5.44
+    },
+    {
+      "text": "someone is watching. Someone is waiting,",
+      "start": 406.08,
+      "duration": 5.119
+    },
+    {
+      "text": ">> then audio kind of gives you a jump",
+      "start": 409.199,
+      "duration": 4.401
+    },
+    {
+      "text": "scare. So, it elevates the scene. That's",
+      "start": 411.199,
+      "duration": 4.801
+    },
+    {
+      "text": "what sound effects and music do to your",
+      "start": 413.6,
+      "duration": 4.719
+    },
+    {
+      "text": "AI videos. That's why it's so important",
+      "start": 416.0,
+      "duration": 5.759
+    },
+    {
+      "text": "to master AI music design and AI sound",
+      "start": 418.319,
+      "duration": 5.44
+    },
+    {
+      "text": "effect design. Moving on. When these two",
+      "start": 421.759,
+      "duration": 4.081
+    },
+    {
+      "text": "girls are like waking up, I want to add",
+      "start": 423.759,
+      "duration": 4.401
+    },
+    {
+      "text": "in some more sounds. So, let's give it",
+      "start": 425.84,
+      "duration": 3.919
+    },
+    {
+      "text": "another prompt. This time, we're doing",
+      "start": 428.16,
+      "duration": 4.159
+    },
+    {
+      "text": "horror atmosphere with an eerie with low",
+      "start": 429.759,
+      "duration": 5.601
+    },
+    {
+      "text": "droning rumble with airy high frequency",
+      "start": 432.319,
+      "duration": 6.0
+    },
+    {
+      "text": "whispers. For the timing, I want it to",
+      "start": 435.36,
+      "duration": 4.48
+    },
+    {
+      "text": "be a bit longer. So, I'm going to do",
+      "start": 438.319,
+      "duration": 4.961
+    },
+    {
+      "text": "something like let's do like 7.3",
+      "start": 439.84,
+      "duration": 5.04
+    },
+    {
+      "text": "something like that. And then we're",
+      "start": 443.28,
+      "duration": 3.28
+    },
+    {
+      "text": "going to just enter this and it will",
+      "start": 444.88,
+      "duration": 5.48
+    },
+    {
+      "text": "give us this result.",
+      "start": 446.56,
+      "duration": 3.8
+    },
+    {
+      "text": "[Music]",
+      "start": 452.54,
+      "duration": 4.699
+    },
+    {
+      "text": "It's okay. But I'm going to do it again",
+      "start": 462.72,
+      "duration": 3.599
+    },
+    {
+      "text": "because I think we can do better. And",
+      "start": 464.479,
+      "duration": 4.0
+    },
+    {
+      "text": "that's entirely the process with using",
+      "start": 466.319,
+      "duration": 3.44
+    },
+    {
+      "text": "AI. Like it doesn't matter if you're",
+      "start": 468.479,
+      "duration": 3.361
+    },
+    {
+      "text": "doing images, videos, or sound design.",
+      "start": 469.759,
+      "duration": 4.241
+    },
+    {
+      "text": "You just got to generate it a few more",
+      "start": 471.84,
+      "duration": 4.24
+    },
+    {
+      "text": "times until you get something perfect.",
+      "start": 474.0,
+      "duration": 3.759
+    },
+    {
+      "text": "Don't go with the first result. There",
+      "start": 476.08,
+      "duration": 3.119
+    },
+    {
+      "text": "might be something better if you",
+      "start": 477.759,
+      "duration": 3.361
+    },
+    {
+      "text": "generate it a couple of times. Let's",
+      "start": 479.199,
+      "duration": 5.241
+    },
+    {
+      "text": "have a listen.",
+      "start": 481.12,
+      "duration": 3.32
+    },
+    {
+      "text": "So that's a lot better. So yeah, let's",
+      "start": 484.879,
+      "duration": 3.201
+    },
+    {
+      "text": "actually go with this first one.",
+      "start": 486.56,
+      "duration": 3.759
+    },
+    {
+      "text": "Download it. Then we put it inside of",
+      "start": 488.08,
+      "duration": 4.48
+    },
+    {
+      "text": "Cap Cut again. And now, let's put it",
+      "start": 490.319,
+      "duration": 4.241
+    },
+    {
+      "text": "right here. When they have this scene",
+      "start": 492.56,
+      "duration": 3.199
+    },
+    {
+      "text": "where they wake up",
+      "start": 494.56,
+      "duration": 3.359
+    },
+    {
+      "text": ">> by morning, 11-year-old Mary Evelyn",
+      "start": 495.759,
+      "duration": 4.961
+    },
+    {
+      "text": "Briggs and 12-year-old Edna Marie Hedell",
+      "start": 497.919,
+      "duration": 4.72
+    },
+    {
+      "text": "will wake up to discover locks of their",
+      "start": 500.72,
+      "duration": 4.0
+    },
+    {
+      "text": "hair scattered across their pillows.",
+      "start": 502.639,
+      "duration": 4.161
+    },
+    {
+      "text": ">> So, now we edit in four different sound",
+      "start": 504.72,
+      "duration": 3.44
+    },
+    {
+      "text": "effects. Let me show you what this",
+      "start": 506.8,
+      "duration": 2.72
+    },
+    {
+      "text": "sounds like.",
+      "start": 508.16,
+      "duration": 4.879
+    },
+    {
+      "text": ">> It's June 5th, 1942 in Pasigula,",
+      "start": 509.52,
+      "duration": 5.519
+    },
+    {
+      "text": "Mississippi. Two young girls sleep",
+      "start": 513.039,
+      "duration": 3.841
+    },
+    {
+      "text": "peacefully in their convent bedroom.",
+      "start": 515.039,
+      "duration": 3.36
+    },
+    {
+      "text": "Outside, a window screen has been",
+      "start": 516.88,
+      "duration": 3.599
+    },
+    {
+      "text": "carefully slid open. Someone is",
+      "start": 518.399,
+      "duration": 5.12
+    },
+    {
+      "text": "watching. Someone is waiting. By",
+      "start": 520.479,
+      "duration": 5.36
+    },
+    {
+      "text": "morning, 11-year-old Mary Evelyn Briggs",
+      "start": 523.519,
+      "duration": 4.961
+    },
+    {
+      "text": "and 12-year-old Edna Marie Hedell will",
+      "start": 525.839,
+      "duration": 3.12
+    },
+    {
+      "text": "wake up.",
+      "start": 528.48,
+      "duration": 3.039
+    },
+    {
+      "text": ">> Honestly, I think it has drastically",
+      "start": 528.959,
+      "duration": 5.281
+    },
+    {
+      "text": "improved our video. So, that is how you",
+      "start": 531.519,
+      "duration": 4.88
+    },
+    {
+      "text": "add in sound effects to your AI",
+      "start": 534.24,
+      "duration": 4.96
+    },
+    {
+      "text": "generated videos using 11 apps. This can",
+      "start": 536.399,
+      "duration": 5.601
+    },
+    {
+      "text": "also be done for more special effect",
+      "start": 539.2,
+      "duration": 5.12
+    },
+    {
+      "text": "type videos. Just take a look at this",
+      "start": 542.0,
+      "duration": 7.2
+    },
+    {
+      "text": "example with and without sound effects.",
+      "start": 544.32,
+      "duration": 7.88
+    },
+    {
+      "text": "City.",
+      "start": 549.2,
+      "duration": 3.0
+    },
+    {
+      "text": ">> All of these sound effects were all",
+      "start": 565.839,
+      "duration": 4.401
+    },
+    {
+      "text": "generated using 11 Labs. In fact, all of",
+      "start": 567.36,
+      "duration": 5.2
+    },
+    {
+      "text": "my editors that are editing my videos",
+      "start": 570.24,
+      "duration": 4.719
+    },
+    {
+      "text": "have access to 11 Labs so that they can",
+      "start": 572.56,
+      "duration": 5.36
+    },
+    {
+      "text": "make the best type of videos with good",
+      "start": 574.959,
+      "duration": 4.801
+    },
+    {
+      "text": "sounding sound effects. The thing that I",
+      "start": 577.92,
+      "duration": 3.44
+    },
+    {
+      "text": "like the most about this is that you can",
+      "start": 579.76,
+      "duration": 3.84
+    },
+    {
+      "text": "completely customize it. Because if you",
+      "start": 581.36,
+      "duration": 3.84
+    },
+    {
+      "text": "need something longer, you can just",
+      "start": 583.6,
+      "duration": 3.12
+    },
+    {
+      "text": "increase the duration time. If you need",
+      "start": 585.2,
+      "duration": 3.28
+    },
+    {
+      "text": "it shorter, you can decrease it. The",
+      "start": 586.72,
+      "duration": 3.2
+    },
+    {
+      "text": "only thing that you need to be aware of",
+      "start": 588.48,
+      "duration": 3.6
+    },
+    {
+      "text": "is what type of sound effect you exactly",
+      "start": 589.92,
+      "duration": 4.72
+    },
+    {
+      "text": "need and what the name of that is. If",
+      "start": 592.08,
+      "duration": 3.84
+    },
+    {
+      "text": "you want to try this out for yourself,",
+      "start": 594.64,
+      "duration": 2.639
+    },
+    {
+      "text": "then use the link in the description",
+      "start": 595.92,
+      "duration": 4.16
+    },
+    {
+      "text": "down below. And 11laps actually has this",
+      "start": 597.279,
+      "duration": 4.881
+    },
+    {
+      "text": "for free. Like you could use 50",
+      "start": 600.08,
+      "duration": 4.72
+    },
+    {
+      "text": "generations which is not a lot. But if",
+      "start": 602.16,
+      "duration": 4.239
+    },
+    {
+      "text": "you want to try it out then you can do",
+      "start": 604.8,
+      "duration": 3.84
+    },
+    {
+      "text": "so with the free plan. I am currently on",
+      "start": 606.399,
+      "duration": 4.721
+    },
+    {
+      "text": "the pro plan as I use it quite a bit but",
+      "start": 608.64,
+      "duration": 4.4
+    },
+    {
+      "text": "I would suggest either using the creator",
+      "start": 611.12,
+      "duration": 4.08
+    },
+    {
+      "text": "plan or the pro plan depending on how",
+      "start": 613.04,
+      "duration": 4.32
+    },
+    {
+      "text": "much you need. Click the video that's on",
+      "start": 615.2,
+      "duration": 3.92
+    },
+    {
+      "text": "the screen right now if you want to have",
+      "start": 617.36,
+      "duration": 4.719
+    },
+    {
+      "text": "a full in-depth tutorial on how to use",
+      "start": 619.12,
+      "duration": 4.56
+    },
+    {
+      "text": "11 apps. I will walk you through",
+      "start": 622.079,
+      "duration": 3.2
+    },
+    {
+      "text": "everything that you need to know in",
+      "start": 623.68,
+      "duration": 4.0
+    },
+    {
+      "text": "order to become a master at using 11",
+      "start": 625.279,
+      "duration": 4.56
+    },
+    {
+      "text": "laps.",
+      "start": 627.68,
+      "duration": 2.159
+    }
+  ],
+  "full_text": "Adding sound effects to your AI generated video will either make or break your video. If you do it wrong, your video might sound like this. >> It's June 5th, 1942 in Pasigoula, Mississippi. Two young girls sleep peacefully in their convent bedroom. Outside, a window screen has been carefully slid open. Someone is watching. >> But if you do it right, then it will elevate your video into something like this. >> It's June 5th, 1942 in Pasigoula, Mississippi. Two young girls sleep peacefully in their convent bedroom. Outside, a window screen has been carefully slid open. Someone is watching. Someone is waiting. You see the difference? That's why everyone is nowadays using VR3 because it automatically adds in that sound design. And even though V3 isn't quite good, people still end up using it. But what if you want to use something like Cling Seance 1 or any of the other AI video generators? Then you don't have any option to adding your sounds. Luckily, 11 Labs just launched their new and improved AI sound effects generator, and I've been testing it, and it's actually pretty good. That means that 11 Labs is becoming your all-in-one tool for audio generation. It can do voice cloning, voice generation, music, and even sound effects. In this video, I will walk you through how you can use this to add sound effects to your own AI generated videos. we will test out if it's actually good and if it can replace other subscriptions so you can just use one subscription alone. If you want to follow along and use my assets, then I will leave a link to that in the description down below. I will also leave a link to 11L apps. Once you're logged into 11Labs, then you want to go over to sound effects. So here we have the new and improved sound effects. It is categorized under all of these different segments. So if you want to use animals, then you can just filter on animals. But if you want to have something custom, then you can here describe your sound and then you can add in your settings. So I have my timeline right here. So I have this video which is quite boring without any sound effects. Just take a listen. >> It's June 5th, 1942 in Pasigoula, Mississippi. Two young girls sleep peacefully in their convent bedroom. Outside a window screen has been carefully slid open. Someone is >> So yeah, not much going on there. No music, no sound effects, just a voice over on top of these videos. So now let me walk you through how I would edit this if I were to add in these AI generated sound effects. So what we do is we go back to 11 Labs and first we want to start off with an impact hit. That is an effect that adds a dramatic sound to our beginning intro, especially once we're hitting the black screen and it goes to June 5th. So to do that, we're going to describe our sound, which will be impact hit with a reverb. Now the reverb will add that like echoey sound to it. For the duration, I'm going to go with 7 seconds. And then for the prompt influence, I put it at 64. Now the lower you put it, the more creative it will get. The higher you put it, the more it will follow your prompt. Now you click on generate. And this will take like 10 seconds. So we have these four versions right here. Sounds good. But if you don't like them, then you can just generate them again. So, let's actually do that. Now, we have four new ones. Let's have a listen. I quite like the first one. If you want to search your history, then you go in here and you can see your history right here. Now, inside of your history, you can click download. And now we're downloading this as a WAV file. So, this will be a higher quality result. So, next up, you go back to Cap Cut. And now you find the place where you want to add this in there. Now, we add this effect right at the beginning where June 5th is placed. So, right over at this sound right here when June 5th, we will hear this. >> It's June 5th, 19. >> And this makes it a bit more dramatic. Let's add another sound effect using 11 lapse. So, we're going to go back to sound effects. Now, we need an ambience to set the tone for the scene. So, I'm going to go with horror atmosphere. And for the duration, I'm going to make this a bit longer. So, let's do something like this. And then for the influence, I'm going to keep it at 64%. Let's have a listen to this one. That one is quite good. I like that one too. Okay, it's for me between the second and the third one. Then we click on it. And now let's choose either this one. Let's actually go with this one. I'm going to download this. And now we're going to go over to Capkin again. And now we just need to decide where we're going to place this. So, I think right about here where we have like the fade out, this will be a good place where we can add this sound effect. >> In Pasigula, Mississippi, two young girls sleepaceully. >> We might just have to lower the sound a little bit. >> In Pasigula, Mississippi, two young girls sleep peacefully in their convent. >> That makes it quite creepy. Next up, I want to add in another sound for when this guy is like opening up the window. Like, I want to have somewhat of a jump scare effect there. So, we're going to go with another impact hit, but this time we do it a little bit different. By the way, if you don't know like what these things are called, you can also always explore. Like, for example, they already have some pre-made ones that you can just use as well. So, for example, here we have an impact. This is quite a low one, but I want to go with a high impact cinematic hit. For the duration, this one is going to be a lot shorter as this is going to be a jump scare. So, let's do around 3 seconds. And I wanted to follow the prompt a little bit more. So I'm going to put that at 75. Let's have a listen. That's exactly what I want. Okay. For me, it's between one and four. Let's actually do one. For the placement, we want to place it right around here where we can add in that high impact. So this will be for the jump scare. So, let's add it right here. And now it's like this. >> You see how that elevates the scene right away? Like if you didn't have this sound effect, like if I were to just turn this off, >> someone is waiting, >> then there's nothing special. But if we add in this sound effect, someone is watching. Someone is waiting, >> then audio kind of gives you a jump scare. So, it elevates the scene. That's what sound effects and music do to your AI videos. That's why it's so important to master AI music design and AI sound effect design. Moving on. When these two girls are like waking up, I want to add in some more sounds. So, let's give it another prompt. This time, we're doing horror atmosphere with an eerie with low droning rumble with airy high frequency whispers. For the timing, I want it to be a bit longer. So, I'm going to do something like let's do like 7.3 something like that. And then we're going to just enter this and it will give us this result. It's okay. But I'm going to do it again because I think we can do better. And that's entirely the process with using AI. Like it doesn't matter if you're doing images, videos, or sound design. You just got to generate it a few more times until you get something perfect. Don't go with the first result. There might be something better if you generate it a couple of times. Let's have a listen. So that's a lot better. So yeah, let's actually go with this first one. Download it. Then we put it inside of Cap Cut again. And now, let's put it right here. When they have this scene where they wake up >> by morning, 11-year-old Mary Evelyn Briggs and 12-year-old Edna Marie Hedell will wake up to discover locks of their hair scattered across their pillows. >> So, now we edit in four different sound effects. Let me show you what this sounds like. >> It's June 5th, 1942 in Pasigula, Mississippi. Two young girls sleep peacefully in their convent bedroom. Outside, a window screen has been carefully slid open. Someone is watching. Someone is waiting. By morning, 11-year-old Mary Evelyn Briggs and 12-year-old Edna Marie Hedell will wake up. >> Honestly, I think it has drastically improved our video. So, that is how you add in sound effects to your AI generated videos using 11 apps. This can also be done for more special effect type videos. Just take a look at this example with and without sound effects. City. >> All of these sound effects were all generated using 11 Labs. In fact, all of my editors that are editing my videos have access to 11 Labs so that they can make the best type of videos with good sounding sound effects. The thing that I like the most about this is that you can completely customize it. Because if you need something longer, you can just increase the duration time. If you need it shorter, you can decrease it. The only thing that you need to be aware of is what type of sound effect you exactly need and what the name of that is. If you want to try this out for yourself, then use the link in the description down below. And 11laps actually has this for free. Like you could use 50 generations which is not a lot. But if you want to try it out then you can do so with the free plan. I am currently on the pro plan as I use it quite a bit but I would suggest either using the creator plan or the pro plan depending on how much you need. Click the video that's on the screen right now if you want to have a full in-depth tutorial on how to use 11 apps. I will walk you through everything that you need to know in order to become a master at using 11 laps.",
+  "duration_seconds": 629.8389999999999,
+  "segment_count": 264,
+  "word_count": 1834,
+  "char_count": 9547
+}

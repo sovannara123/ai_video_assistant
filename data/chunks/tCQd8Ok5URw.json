@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tCQd8Ok5URw_chunk_0",
+    "text": "I want to share some realworld experience with the new Nikon ZR. I'll show you some footage I shot for the Nberry Academy students and explain how the red technology inside actually works in this camera. Okay, this camera is very interesting marketing wise. The price is just laughable for the image quality you get. It's around $2,000. But here's the thing, it tries to please everyone at once, and honestly, that hurts the workflow a bit. We shot everything in 6K 3D on this tiny body, but trust me, there are nuances. The image is stunning. It is super clean, especially in the shadows. Even the original Red Komodo can't brag about shadows this clean. The skin tones are beautiful compared to the Sony FX6 where reds often look a bit plastic and limited. Dynamic range is awesome. They claim 15 stops, but in the real world, it feels like a solid 13 stops of clean, usable range. Just look at the gradients here. Notice how it holds detail in the bright windows and the shadows inside at the same time. Even if you choose a cheap camera, you can't skip essentials like camera movement, playback, focus pooling, lens choice, signal, and power. And here is where this camera fails miserably. So, it feels like it was never designed for a professional production ecosystem at all. First off, power. We had to power it via USBC from a small rig vount battery. And you know, it felt weird. There is no simple DTAP input like on Blackmagic cameras. And there isn't even a cable slot in the battery door for a dummy battery. to really unlock the potential of this camera with lighting. I grabbed Diesel Film Arly's lenses. The Nikon ZR sensor is huge. Standard super 35 glass would waste that grand feel, but the Arl cover this massive sensor effortlessly. We are talking about IMAX level quality for large format cinematography. I picked the 21 and the 50 mm which are pretty universal for interiors. Here is my theory regarding the look. If you put ultrasharp high contrast lenses on this camera, the image can look quite digital and clinical. So that is why I chose Ars. Their character is very close to Kuka S7's. You get this gentle bloom in the highlights and a soft artistic contrast perfect for narrative work. And the technically there are zero aberrations. The real magic is the bokeh, especially on the 50 mm. Look at this scene with the candles. We were focusing so close it was basically macro territory and the background just melts away. Another huge nuance with the Nikon ZR is exposure. It is actually quite hard to expose correctly. I am used to digital cinema cameras where false color is always right there. And I was not ready to find out that this camera simply doesn't have it. Even the ancient Blackmagic Pocket 4K has false color. Okay, what is the verdict? I would say that",
+    "metadata": {
+      "video_id": "tCQd8Ok5URw",
+      "url": "https://youtube.com/watch?v=tCQd8Ok5URw",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "token_count": 617,
+      "word_count": 500,
+      "video_duration": 299.28
+    }
+  },
+  {
+    "id": "tCQd8Ok5URw_chunk_1",
+    "text": "to expose correctly. I am used to digital cinema cameras where false color is always right there. And I was not ready to find out that this camera simply doesn't have it. Even the ancient Blackmagic Pocket 4K has false color. Okay, what is the verdict? I would say that this camera suffers from an identity crisis. It doesn't know who it is made for. If this is a production tool, it just needs false color, a simpler menu, a proper SDI port instead of flimsy mini HDMI, and proper power inputs. But if they added all that, it would just be another red komodo. If you want the full breakdown of how I worked with lighting, framing, and blocking, I published those materials exclusively in my modern cinematography program at Anbury Academy. Inside you will find lessons and master classes straight from real film sets. I share the secrets of cinematography, combining practical experience with the latest trends. Everything comes directly from me to you. join the community and I'll see you there.",
+    "metadata": {
+      "video_id": "tCQd8Ok5URw",
+      "url": "https://youtube.com/watch?v=tCQd8Ok5URw",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "token_count": 211,
+      "word_count": 174,
+      "video_duration": 299.28
+    }
+  }
+]

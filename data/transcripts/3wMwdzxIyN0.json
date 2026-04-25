@@ -1,0 +1,566 @@
+{
+  "video_id": "3wMwdzxIyN0",
+  "url": "https://youtube.com/watch?v=3wMwdzxIyN0",
+  "raw_transcript": [
+    {
+      "text": "SUNDAR PICHAI: Thanks, Thomas.",
+      "start": 1.31,
+      "duration": 1.25
+    },
+    {
+      "text": "And hello, everyone.",
+      "start": 2.56,
+      "duration": 1.48
+    },
+    {
+      "text": "We are so glad you are here.",
+      "start": 4.04,
+      "duration": 2.32
+    },
+    {
+      "text": "The pace of technological\nchange has been",
+      "start": 6.36,
+      "duration": 2.88
+    },
+    {
+      "text": "faster than I've ever seen.",
+      "start": 9.24,
+      "duration": 2.16
+    },
+    {
+      "text": "And I've been around\ntechnology for a while.",
+      "start": 11.4,
+      "duration": 2.72
+    },
+    {
+      "text": "In fact, this Sunday, I'm\ncelebrating my \"Googleversary\"--",
+      "start": 14.12,
+      "duration": 4.32
+    },
+    {
+      "text": "22 years, and I'm\nstill feeling lucky.",
+      "start": 18.44,
+      "duration": 2.88
+    },
+    {
+      "text": "And I hope that luck extends to\nall of you in Vegas this week.",
+      "start": 21.32,
+      "duration": 4.2
+    },
+    {
+      "text": "I was drawn to Google\nall those years",
+      "start": 25.52,
+      "duration": 1.6
+    },
+    {
+      "text": "ago because of its\nambitious mission.",
+      "start": 27.12,
+      "duration": 3.12
+    },
+    {
+      "text": "From the web, to mobile,\nto AI, every platform shift",
+      "start": 30.24,
+      "duration": 4.56
+    },
+    {
+      "text": "has given us new opportunities\nto advance our mission",
+      "start": 34.8,
+      "duration": 3.48
+    },
+    {
+      "text": "and to help our customers\nand partners achieve yours.",
+      "start": 38.28,
+      "duration": 4.84
+    },
+    {
+      "text": "As we move into\nthe agentic era, we",
+      "start": 43.12,
+      "duration": 2.16
+    },
+    {
+      "text": "are taking this\nto the next level.",
+      "start": 45.28,
+      "duration": 2.48
+    },
+    {
+      "text": "We are making big investments\nnow and for the future.",
+      "start": 47.76,
+      "duration": 4.08
+    },
+    {
+      "text": "In 2022, we were investing\n$31 billion in CapEx.",
+      "start": 51.84,
+      "duration": 4.68
+    },
+    {
+      "text": "This year, we plan to invest\nbetween $175 to $185 billion",
+      "start": 56.52,
+      "duration": 5.84
+    },
+    {
+      "text": "in total CapEx, a nearly 6x\nincrease in just four years.",
+      "start": 62.36,
+      "duration": 5.28
+    },
+    {
+      "text": "And for 2026, just over half\nof our machine learning compute",
+      "start": 67.64,
+      "duration": 3.7
+    },
+    {
+      "text": "is expected to go towards\nthe cloud business.",
+      "start": 71.34,
+      "duration": 2.88
+    },
+    {
+      "text": "So it will greatly\nbenefit all of you.",
+      "start": 74.22,
+      "duration": 2.92
+    },
+    {
+      "text": "These investments are how we\ncontinue to stay at the frontier",
+      "start": 77.14,
+      "duration": 3.96
+    },
+    {
+      "text": "and ensure you're at the\ncutting edge as well.",
+      "start": 81.1,
+      "duration": 3.64
+    },
+    {
+      "text": "A big focus for\nus is to always be",
+      "start": 84.74,
+      "duration": 2.2
+    },
+    {
+      "text": "customer zero for\nour own technologies",
+      "start": 86.94,
+      "duration": 2.58
+    },
+    {
+      "text": "so we can be a better\npartner to all of you.",
+      "start": 89.52,
+      "duration": 2.9
+    },
+    {
+      "text": "Let me share a few\nexamples of how we",
+      "start": 92.42,
+      "duration": 2.36
+    },
+    {
+      "text": "are rewiring our work with AI.",
+      "start": 94.78,
+      "duration": 3.36
+    },
+    {
+      "text": "First, coding-- we've been using\nAI to generate code internally",
+      "start": 98.14,
+      "duration": 4.0
+    },
+    {
+      "text": "at Google for a while.",
+      "start": 102.14,
+      "duration": 1.96
+    },
+    {
+      "text": "Today, nearly 75% of\nall new code at Google",
+      "start": 104.1,
+      "duration": 3.32
+    },
+    {
+      "text": "is AI-generated and\napproved by engineers,",
+      "start": 107.42,
+      "duration": 3.36
+    },
+    {
+      "text": "up from 50% last fall.",
+      "start": 110.78,
+      "duration": 2.4
+    },
+    {
+      "text": "We are now shifting to\ntruly agentic workflows.",
+      "start": 113.18,
+      "duration": 3.92
+    },
+    {
+      "text": "Our engineers are orchestrating\nfully autonomous digital task",
+      "start": 117.1,
+      "duration": 3.88
+    },
+    {
+      "text": "forces, firing off agents and\naccomplishing incredible things.",
+      "start": 120.98,
+      "duration": 5.88
+    },
+    {
+      "text": "As one example of how\nwe are using agents,",
+      "start": 126.86,
+      "duration": 3.04
+    },
+    {
+      "text": "we recently executed a\nparticularly complex code",
+      "start": 129.9,
+      "duration": 2.8
+    },
+    {
+      "text": "migration.",
+      "start": 132.7,
+      "duration": 1.96
+    },
+    {
+      "text": "Anyone familiar knows\nthese migrations",
+      "start": 134.66,
+      "duration": 1.95
+    },
+    {
+      "text": "can take a while to get done.",
+      "start": 136.61,
+      "duration": 2.68
+    },
+    {
+      "text": "We created a system of agents\ntaking on three different types",
+      "start": 139.29,
+      "duration": 3.24
+    },
+    {
+      "text": "of roles--",
+      "start": 142.53,
+      "duration": 1.2
+    },
+    {
+      "text": "planners, orchestrators,\nand coders.",
+      "start": 143.73,
+      "duration": 3.76
+    },
+    {
+      "text": "Working together with engineers,\nwe completed the migration 6x",
+      "start": 147.49,
+      "duration": 3.6
+    },
+    {
+      "text": "faster than we could\nhave a year ago.",
+      "start": 151.09,
+      "duration": 3.16
+    },
+    {
+      "text": "And now we are\napplying that approach",
+      "start": 154.25,
+      "duration": 1.72
+    },
+    {
+      "text": "across our entire\ndevelopment cycle,",
+      "start": 155.97,
+      "duration": 2.64
+    },
+    {
+      "text": "from experimentation\nto testing to evals.",
+      "start": 158.61,
+      "duration": 3.8
+    },
+    {
+      "text": "It's not just developers\nwho are infusing AI",
+      "start": 162.41,
+      "duration": 2.52
+    },
+    {
+      "text": "into their workflows.",
+      "start": 164.93,
+      "duration": 2.0
+    },
+    {
+      "text": "Our marketing teams\nare fundamentally",
+      "start": 166.93,
+      "duration": 2.04
+    },
+    {
+      "text": "rethinking the creative\nprocess from concept to launch.",
+      "start": 168.97,
+      "duration": 3.64
+    },
+    {
+      "text": "Historically,\nadapting a campaign",
+      "start": 172.61,
+      "duration": 1.8
+    },
+    {
+      "text": "for every audience, channel,\nand country took weeks.",
+      "start": 174.41,
+      "duration": 3.36
+    },
+    {
+      "text": "For the recent launch\nof Gemini in Chrome,",
+      "start": 177.77,
+      "duration": 2.68
+    },
+    {
+      "text": "teams used our models to rapidly\ngenerate thousands of variations",
+      "start": 180.45,
+      "duration": 4.08
+    },
+    {
+      "text": "of our creative assets.",
+      "start": 184.53,
+      "duration": 2.04
+    },
+    {
+      "text": "This enabled personalization\nat a massive scale.",
+      "start": 186.57,
+      "duration": 3.88
+    },
+    {
+      "text": "It also led to 70% faster\nturnaround and a 20% increase",
+      "start": 190.45,
+      "duration": 4.12
+    },
+    {
+      "text": "in conversion.",
+      "start": 194.57,
+      "duration": 1.68
+    },
+    {
+      "text": "We are not only getting\nto market faster,",
+      "start": 196.25,
+      "duration": 2.4
+    },
+    {
+      "text": "we are also doing it\nmore effectively with AI.",
+      "start": 198.65,
+      "duration": 3.38
+    },
+    {
+      "text": "Our security teams are also\nseeing significant gains",
+      "start": 202.03,
+      "duration": 3.12
+    },
+    {
+      "text": "with AI.",
+      "start": 205.15,
+      "duration": 1.24
+    },
+    {
+      "text": "Each month, our teams receive\nunstructured threat reports",
+      "start": 206.39,
+      "duration": 3.56
+    },
+    {
+      "text": "at a scale that would\ntake thousands of hours",
+      "start": 209.95,
+      "duration": 2.64
+    },
+    {
+      "text": "to review, a nearly\nimpossible task.",
+      "start": 212.59,
+      "duration": 3.8
+    },
+    {
+      "text": "Today, our Security Operations\nCenter agents automatically",
+      "start": 216.39,
+      "duration": 4.08
+    },
+    {
+      "text": "triage tens of thousands of\nunstructured threat reports",
+      "start": 220.47,
+      "duration": 2.96
+    },
+    {
+      "text": "each month.",
+      "start": 223.43,
+      "duration": 1.76
+    },
+    {
+      "text": "By accelerating the extraction\nof critical intelligence",
+      "start": 225.19,
+      "duration": 2.8
+    },
+    {
+      "text": "and filtering out\nthe noise, it's",
+      "start": 227.99,
+      "duration": 2.16
+    },
+    {
+      "text": "reduced threat mitigation\ntime by over 90%.",
+      "start": 230.15,
+      "duration": 4.12
+    },
+    {
+      "text": "We are more on the front\nfoot than ever before.",
+      "start": 234.27,
+      "duration": 3.56
+    },
+    {
+      "text": "Those are just a few examples\nof what we are trying at Google.",
+      "start": 237.83,
+      "duration": 3.4
+    },
+    {
+      "text": "We are moving in a bold\nand responsible way.",
+      "start": 241.23,
+      "duration": 3.28
+    },
+    {
+      "text": "There's a lot of\nchange happening.",
+      "start": 244.51,
+      "duration": 2.0
+    },
+    {
+      "text": "And it can feel like we are in\nthe messy part of the innovation",
+      "start": 246.51,
+      "duration": 2.8
+    },
+    {
+      "text": "cycle.",
+      "start": 249.31,
+      "duration": 0.96
+    },
+    {
+      "text": "But we are starting to see\nthe foundational building",
+      "start": 250.27,
+      "duration": 2.28
+    },
+    {
+      "text": "blocks coming\ntogether, unlocking",
+      "start": 252.55,
+      "duration": 2.44
+    },
+    {
+      "text": "a new wave of innovation.",
+      "start": 254.99,
+      "duration": 2.279
+    },
+    {
+      "text": "One thing that is super clear--",
+      "start": 257.269,
+      "duration": 2.361
+    },
+    {
+      "text": "we are firmly in the\nagentic Gemini era.",
+      "start": 259.63,
+      "duration": 3.36
+    },
+    {
+      "text": "Last fall, we introduced Gemini\nEnterprise as a front door",
+      "start": 262.99,
+      "duration": 3.6
+    },
+    {
+      "text": "to agentic AI in the workplace.",
+      "start": 266.59,
+      "duration": 3.15
+    },
+    {
+      "text": "What we have seen in just\na few months since launch",
+      "start": 269.74,
+      "duration": 2.64
+    },
+    {
+      "text": "is how every employee\nin every organization",
+      "start": 272.38,
+      "duration": 3.24
+    },
+    {
+      "text": "can become a builder.",
+      "start": 275.62,
+      "duration": 1.68
+    },
+    {
+      "text": "This is an incredible shift.",
+      "start": 277.3,
+      "duration": 2.28
+    },
+    {
+      "text": "We are accomplishing\nbigger things faster.",
+      "start": 279.58,
+      "duration": 3.2
+    },
+    {
+      "text": "But this comes with complexity.",
+      "start": 282.78,
+      "duration": 2.2
+    },
+    {
+      "text": "The conversation has gone\nfrom \"Can we build an agent?\"",
+      "start": 284.98,
+      "duration": 2.8
+    },
+    {
+      "text": "to \"How do we manage\nthousands of them?\"",
+      "start": 287.78,
+      "duration": 3.88
+    },
+    {
+      "text": "Today, I'm excited to announce\nour new Gemini Enterprise Agent",
+      "start": 291.66,
+      "duration": 4.4
+    },
+    {
+      "text": "Platform.",
+      "start": 296.06,
+      "duration": 1.56
+    },
+    {
+      "text": "It provides the secure,\nfull-stack connective tissue",
+      "start": 297.62,
+      "duration": 3.84
+    },
+    {
+      "text": "you need to build, scale,\ngovern, and optimize",
+      "start": 301.46,
+      "duration": 3.72
+    },
+    {
+      "text": "your agents with confidence.",
+      "start": 305.18,
+      "duration": 3.08
+    },
+    {
+      "text": "Think of it as mission control\nfor the agentic enterprise",
+      "start": 308.26,
+      "duration": 3.36
+    },
+    {
+      "text": "to help move your organization\ninto the next phase",
+      "start": 311.62,
+      "duration": 3.84
+    },
+    {
+      "text": "of the agentic era.",
+      "start": 315.46,
+      "duration": 2.04
+    },
+    {
+      "text": "I'm going to turn it back\nover to Thomas to share more.",
+      "start": 317.5,
+      "duration": 3.0
+    },
+    {
+      "text": "But first, thanks\nagain for being here.",
+      "start": 320.5,
+      "duration": 3.2
+    },
+    {
+      "text": "Together, we are building a\nblueprint for true business",
+      "start": 323.7,
+      "duration": 2.68
+    },
+    {
+      "text": "transformation.",
+      "start": 326.38,
+      "duration": 1.44
+    },
+    {
+      "text": "And I'm excited to see\nwhere it takes us next.",
+      "start": 327.82,
+      "duration": 3.28
+    },
+    {
+      "text": "Thomas, back to you.",
+      "start": 331.1,
+      "duration": 3.07
+    }
+  ],
+  "full_text": "SUNDAR PICHAI: Thanks, Thomas. And hello, everyone. We are so glad you are here. The pace of technological change has been faster than I've ever seen. And I've been around technology for a while. In fact, this Sunday, I'm celebrating my \"Googleversary\"- 22 years, and I'm still feeling lucky. And I hope that luck extends to all of you in Vegas this week. I was drawn to Google all those years ago because of its ambitious mission. From the web, to mobile, to AI, every platform shift has given us new opportunities to advance our mission and to help our customers and partners achieve yours. As we move into the agentic era, we are taking this to the next level. We are making big investments now and for the future. In 2022, we were investing $31 billion in CapEx. This year, we plan to invest between $175 to $185 billion in total CapEx, a nearly 6x increase in just four years. And for 2026, just over half of our machine learning compute is expected to go towards the cloud business. So it will greatly benefit all of you. These investments are how we continue to stay at the frontier and ensure you're at the cutting edge as well. A big focus for us is to always be customer zero for our own technologies so we can be a better partner to all of you. Let me share a few examples of how we are rewiring our work with AI. First, coding- we've been using AI to generate code internally at Google for a while. Today, nearly 75% of all new code at Google is AI-generated and approved by engineers, up from 50% last fall. We are now shifting to truly agentic workflows. Our engineers are orchestrating fully autonomous digital task forces, firing off agents and accomplishing incredible things. As one example of how we are using agents, we recently executed a particularly complex code migration. Anyone familiar knows these migrations can take a while to get done. We created a system of agents taking on three different types of roles- planners, orchestrators, and coders. Working together with engineers, we completed the migration 6x faster than we could have a year ago. And now we are applying that approach across our entire development cycle, from experimentation to testing to evals. It's not just developers who are infusing AI into their workflows. Our marketing teams are fundamentally rethinking the creative process from concept to launch. Historically, adapting a campaign for every audience, channel, and country took weeks. For the recent launch of Gemini in Chrome, teams used our models to rapidly generate thousands of variations of our creative assets. This enabled personalization at a massive scale. It also led to 70% faster turnaround and a 20% increase in conversion. We are not only getting to market faster, we are also doing it more effectively with AI. Our security teams are also seeing significant gains with AI. Each month, our teams receive unstructured threat reports at a scale that would take thousands of hours to review, a nearly impossible task. Today, our Security Operations Center agents automatically triage tens of thousands of unstructured threat reports each month. By accelerating the extraction of critical intelligence and filtering out the noise, it's reduced threat mitigation time by over 90%. We are more on the front foot than ever before. Those are just a few examples of what we are trying at Google. We are moving in a bold and responsible way. There's a lot of change happening. And it can feel like we are in the messy part of the innovation cycle. But we are starting to see the foundational building blocks coming together, unlocking a new wave of innovation. One thing that is super clear- we are firmly in the agentic Gemini era. Last fall, we introduced Gemini Enterprise as a front door to agentic AI in the workplace. What we have seen in just a few months since launch is how every employee in every organization can become a builder. This is an incredible shift. We are accomplishing bigger things faster. But this comes with complexity. The conversation has gone from \"Can we build an agent?\" to \"How do we manage thousands of them?\" Today, I'm excited to announce our new Gemini Enterprise Agent Platform. It provides the secure, full-stack connective tissue you need to build, scale, govern, and optimize your agents with confidence. Think of it as mission control for the agentic enterprise to help move your organization into the next phase of the agentic era. I'm going to turn it back over to Thomas to share more. But first, thanks again for being here. Together, we are building a blueprint for true business transformation. And I'm excited to see where it takes us next. Thomas, back to you.",
+  "duration_seconds": 334.17,
+  "segment_count": 111,
+  "word_count": 807,
+  "char_count": 4670
+}

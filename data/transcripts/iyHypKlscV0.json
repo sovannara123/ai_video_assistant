@@ -1,0 +1,441 @@
+{
+  "video_id": "iyHypKlscV0",
+  "url": "https://youtube.com/watch?v=iyHypKlscV0",
+  "raw_transcript": [
+    {
+      "text": "AI sound effects in 11 Labs just got a",
+      "start": 0.08,
+      "duration": 6.359
+    },
+    {
+      "text": "major upgrade. Listen to this.",
+      "start": 2.0,
+      "duration": 4.439
+    },
+    {
+      "text": "Now watch this clip with no sound. The",
+      "start": 7.52,
+      "duration": 4.32
+    },
+    {
+      "text": "sound effects really takes it to an",
+      "start": 10.4,
+      "duration": 5.08
+    },
+    {
+      "text": "entirely new level.",
+      "start": 11.84,
+      "duration": 3.64
+    },
+    {
+      "text": "So let's take a look at everything",
+      "start": 16.48,
+      "duration": 3.04
+    },
+    {
+      "text": "that's new in Sound Effects V2. So this",
+      "start": 17.68,
+      "duration": 3.519
+    },
+    {
+      "text": "is Sound Effects V2. We've redesigned",
+      "start": 19.52,
+      "duration": 3.28
+    },
+    {
+      "text": "the interface, upgraded the model so the",
+      "start": 21.199,
+      "duration": 2.961
+    },
+    {
+      "text": "sound effects sound a lot better, and",
+      "start": 22.8,
+      "duration": 2.639
+    },
+    {
+      "text": "added new features like longer",
+      "start": 24.16,
+      "duration": 3.199
+    },
+    {
+      "text": "durations, seamless looping, and a",
+      "start": 25.439,
+      "duration": 3.84
+    },
+    {
+      "text": "higher quality output. First of all, the",
+      "start": 27.359,
+      "duration": 3.281
+    },
+    {
+      "text": "layout has changed, so you can now",
+      "start": 29.279,
+      "duration": 2.96
+    },
+    {
+      "text": "create, browse, and find any sound",
+      "start": 30.64,
+      "duration": 3.52
+    },
+    {
+      "text": "effect you need. We have the explore",
+      "start": 32.239,
+      "duration": 3.441
+    },
+    {
+      "text": "tab, which allows you to browse the",
+      "start": 34.16,
+      "duration": 3.36
+    },
+    {
+      "text": "community sound effects. We have the",
+      "start": 35.68,
+      "duration": 3.52
+    },
+    {
+      "text": "history, so you can see the history of",
+      "start": 37.52,
+      "duration": 3.28
+    },
+    {
+      "text": "all of your generations and their",
+      "start": 39.2,
+      "duration": 3.359
+    },
+    {
+      "text": "prompts. And then we also have",
+      "start": 40.8,
+      "duration": 3.439
+    },
+    {
+      "text": "favorites, which is new and now allows",
+      "start": 42.559,
+      "duration": 3.441
+    },
+    {
+      "text": "you to save your favorite sound effects",
+      "start": 44.239,
+      "duration": 3.681
+    },
+    {
+      "text": "and create your own custom collections.",
+      "start": 46.0,
+      "duration": 3.12
+    },
+    {
+      "text": "And you'll notice that no matter what",
+      "start": 47.92,
+      "duration": 2.799
+    },
+    {
+      "text": "tab you're in, you have the prompt box",
+      "start": 49.12,
+      "duration": 3.04
+    },
+    {
+      "text": "right at the bottom here, so you can",
+      "start": 50.719,
+      "duration": 3.281
+    },
+    {
+      "text": "quickly generate sound effects. And with",
+      "start": 52.16,
+      "duration": 4.399
+    },
+    {
+      "text": "SFXV2, we've improved a few things.",
+      "start": 54.0,
+      "duration": 4.079
+    },
+    {
+      "text": "First of all, here you can now create",
+      "start": 56.559,
+      "duration": 5.241
+    },
+    {
+      "text": "looping sound effects.",
+      "start": 58.079,
+      "duration": 3.721
+    },
+    {
+      "text": "The sound you're hearing now is actually",
+      "start": 64.64,
+      "duration": 3.839
+    },
+    {
+      "text": "a 10-second sample being looped with no",
+      "start": 66.32,
+      "duration": 4.479
+    },
+    {
+      "text": "noticeable gaps.",
+      "start": 68.479,
+      "duration": 4.32
+    },
+    {
+      "text": "And now, when it comes to the duration,",
+      "start": 70.799,
+      "duration": 3.841
+    },
+    {
+      "text": "you can generate sound effects up to 30",
+      "start": 72.799,
+      "duration": 3.441
+    },
+    {
+      "text": "seconds long, which is 8 seconds more",
+      "start": 74.64,
+      "duration": 2.96
+    },
+    {
+      "text": "than you could before. And then, of",
+      "start": 76.24,
+      "duration": 2.96
+    },
+    {
+      "text": "course, the prompt influence slider is",
+      "start": 77.6,
+      "duration": 3.12
+    },
+    {
+      "text": "still there. And now, when you generate",
+      "start": 79.2,
+      "duration": 2.959
+    },
+    {
+      "text": "sound effects, just like before, you'll",
+      "start": 80.72,
+      "duration": 3.439
+    },
+    {
+      "text": "get four sounds. So, let me type out car",
+      "start": 82.159,
+      "duration": 4.881
+    },
+    {
+      "text": "whoo. and I hit generate. And as you can",
+      "start": 84.159,
+      "duration": 4.481
+    },
+    {
+      "text": "see, we now have the sound effect being",
+      "start": 87.04,
+      "duration": 3.68
+    },
+    {
+      "text": "generated. And with SFX V2, you can",
+      "start": 88.64,
+      "duration": 3.68
+    },
+    {
+      "text": "generate multiple sound effects at the",
+      "start": 90.72,
+      "duration": 2.88
+    },
+    {
+      "text": "same time without waiting for the",
+      "start": 92.32,
+      "duration": 3.119
+    },
+    {
+      "text": "previous one to finish. And so here we",
+      "start": 93.6,
+      "duration": 3.519
+    },
+    {
+      "text": "have our four sound effects. And as you",
+      "start": 95.439,
+      "duration": 2.961
+    },
+    {
+      "text": "can see, the layout's a little",
+      "start": 97.119,
+      "duration": 5.561
+    },
+    {
+      "text": "different. Now, let's play one.",
+      "start": 98.4,
+      "duration": 4.28
+    },
+    {
+      "text": "So, I've got a few different sound",
+      "start": 104.72,
+      "duration": 2.56
+    },
+    {
+      "text": "effects here. And the first thing you'll",
+      "start": 105.759,
+      "duration": 2.881
+    },
+    {
+      "text": "notice is that the quality of the actual",
+      "start": 107.28,
+      "duration": 2.72
+    },
+    {
+      "text": "sound effects just sound a lot better",
+      "start": 108.64,
+      "duration": 2.88
+    },
+    {
+      "text": "because we've improved the sound effects",
+      "start": 110.0,
+      "duration": 3.04
+    },
+    {
+      "text": "model. And now if we take a look on the",
+      "start": 111.52,
+      "duration": 2.72
+    },
+    {
+      "text": "right, we can see that there's a little",
+      "start": 113.04,
+      "duration": 2.719
+    },
+    {
+      "text": "star icon that allows us to add the",
+      "start": 114.24,
+      "duration": 3.199
+    },
+    {
+      "text": "sound effects to our favorites. So I can",
+      "start": 115.759,
+      "duration": 3.521
+    },
+    {
+      "text": "go ahead and add this first one and it",
+      "start": 117.439,
+      "duration": 4.881
+    },
+    {
+      "text": "will now show up in my favorites right",
+      "start": 119.28,
+      "duration": 4.879
+    },
+    {
+      "text": "here. We've got car wash. And you'll",
+      "start": 122.32,
+      "duration": 3.52
+    },
+    {
+      "text": "notice we also have this little icon",
+      "start": 124.159,
+      "duration": 3.361
+    },
+    {
+      "text": "here, which means that we can directly",
+      "start": 125.84,
+      "duration": 4.08
+    },
+    {
+      "text": "reuse the prompt in the prompt box. So I",
+      "start": 127.52,
+      "duration": 3.68
+    },
+    {
+      "text": "don't have to copy and paste it every",
+      "start": 129.92,
+      "duration": 3.36
+    },
+    {
+      "text": "time. I can simply click use prompt. And",
+      "start": 131.2,
+      "duration": 4.64
+    },
+    {
+      "text": "as you can see, it's in the prompt box.",
+      "start": 133.28,
+      "duration": 4.16
+    },
+    {
+      "text": "Next to that, we also have the download",
+      "start": 135.84,
+      "duration": 3.759
+    },
+    {
+      "text": "button, of course. But now, if you click",
+      "start": 137.44,
+      "duration": 4.799
+    },
+    {
+      "text": "it, you can download your sound effects",
+      "start": 139.599,
+      "duration": 4.481
+    },
+    {
+      "text": "in a much higher sample rate than",
+      "start": 142.239,
+      "duration": 3.921
+    },
+    {
+      "text": "before. You'll notice we've got the MP3",
+      "start": 144.08,
+      "duration": 5.12
+    },
+    {
+      "text": "at 44.1 kHz, but below that we have the",
+      "start": 146.16,
+      "duration": 6.88
+    },
+    {
+      "text": "wave file at 48 kHz. And 48 kHz makes",
+      "start": 149.2,
+      "duration": 5.759
+    },
+    {
+      "text": "your sound effects professional, as 48",
+      "start": 153.04,
+      "duration": 4.16
+    },
+    {
+      "text": "kHz is the industry standard for film,",
+      "start": 154.959,
+      "duration": 4.64
+    },
+    {
+      "text": "TV, and video games. And so now you can",
+      "start": 157.2,
+      "duration": 4.399
+    },
+    {
+      "text": "enhance your content with incredible AI",
+      "start": 159.599,
+      "duration": 6.681
+    },
+    {
+      "text": "sound effects, bringing them to life.",
+      "start": 161.599,
+      "duration": 4.681
+    },
+    {
+      "text": "So enjoy creating some AI sound effects",
+      "start": 168.56,
+      "duration": 4.88
+    },
+    {
+      "text": "with SFXV2. Thanks for watching.",
+      "start": 170.959,
+      "duration": 4.321
+    },
+    {
+      "text": ">> The world of sound design just got a",
+      "start": 173.44,
+      "duration": 4.799
+    },
+    {
+      "text": "powerful new tool. Try it today with 11",
+      "start": 175.28,
+      "duration": 5.679
+    },
+    {
+      "text": "Labs.",
+      "start": 178.239,
+      "duration": 2.72
+    }
+  ],
+  "full_text": "AI sound effects in 11 Labs just got a major upgrade. Listen to this. Now watch this clip with no sound. The sound effects really takes it to an entirely new level. So let's take a look at everything that's new in Sound Effects V2. So this is Sound Effects V2. We've redesigned the interface, upgraded the model so the sound effects sound a lot better, and added new features like longer durations, seamless looping, and a higher quality output. First of all, the layout has changed, so you can now create, browse, and find any sound effect you need. We have the explore tab, which allows you to browse the community sound effects. We have the history, so you can see the history of all of your generations and their prompts. And then we also have favorites, which is new and now allows you to save your favorite sound effects and create your own custom collections. And you'll notice that no matter what tab you're in, you have the prompt box right at the bottom here, so you can quickly generate sound effects. And with SFXV2, we've improved a few things. First of all, here you can now create looping sound effects. The sound you're hearing now is actually a 10-second sample being looped with no noticeable gaps. And now, when it comes to the duration, you can generate sound effects up to 30 seconds long, which is 8 seconds more than you could before. And then, of course, the prompt influence slider is still there. And now, when you generate sound effects, just like before, you'll get four sounds. So, let me type out car whoo. and I hit generate. And as you can see, we now have the sound effect being generated. And with SFX V2, you can generate multiple sound effects at the same time without waiting for the previous one to finish. And so here we have our four sound effects. And as you can see, the layout's a little different. Now, let's play one. So, I've got a few different sound effects here. And the first thing you'll notice is that the quality of the actual sound effects just sound a lot better because we've improved the sound effects model. And now if we take a look on the right, we can see that there's a little star icon that allows us to add the sound effects to our favorites. So I can go ahead and add this first one and it will now show up in my favorites right here. We've got car wash. And you'll notice we also have this little icon here, which means that we can directly reuse the prompt in the prompt box. So I don't have to copy and paste it every time. I can simply click use prompt. And as you can see, it's in the prompt box. Next to that, we also have the download button, of course. But now, if you click it, you can download your sound effects in a much higher sample rate than before. You'll notice we've got the MP3 at 44.1 kHz, but below that we have the wave file at 48 kHz. And 48 kHz makes your sound effects professional, as 48 kHz is the industry standard for film, TV, and video games. And so now you can enhance your content with incredible AI sound effects, bringing them to life. So enjoy creating some AI sound effects with SFXV2. Thanks for watching. >> The world of sound design just got a powerful new tool. Try it today with 11 Labs.",
+  "duration_seconds": 180.959,
+  "segment_count": 86,
+  "word_count": 600,
+  "char_count": 3194
+}

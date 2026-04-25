@@ -1,0 +1,28 @@
+[
+  {
+    "id": "SAafWXAqNeQ_chunk_0",
+    "text": "Watch the next few clips carefully, or better yet, listen carefully and see if you can guess which audio tracks are real and which I created with my own voice. So, can you guess? Let me give you a hint. Splash, splash, splash, splash, pop, bounce, bounce, bounce, bounce, bounce, boom, boom, boom, boom, boom, bang, bang. Yup. Every sound effect in every one of those clips was created using nothing more than my own voice and a little help from Adobe Firefly. Generate Sound Effects is one of Adobe's new AI tools, and with it you can create almost any kind of sound effect you can imagine with a short text prompt and using your own voice to control the timing and intensity. So before I continue, this is not a sponsored video. But... Adobe... if you're watching and want to work together sometime, operators are standing by. Not a real number. All right, so open up Adobe Firefly. I'll leave a link in the description. And go to Generate Sound Effects. You can get there a couple different ways. Text to Sound Effects. Voice to Sound Effects. But these both take you to the same Generate Sound Effects tool. Once you're there, just upload the video you want to create sound effects for. Add a text prompt describing the sound effect you want to create. Then hit record and use your voice to act out the sound effect. Bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce. Once you're happy with your performance, hit generate. And through the magic of AI, Firefly will create four variations of the sound effect for you. You can download any of the generated audio clips or add additional audio tracks right in Firefly to create and mix a complete soundscape for your scene. So, the possibilities here are pretty much endless. And if you've ever wasted 2 hours trying to find exactly the right sound... this guy... generative sound effects might just save your sanity. Is it perfect? No. The results can be a little hit or miss. Sometimes you have to repeatedly tweak your text prompts to get the result you're looking for. I used up a lot of credits just putting together the intro to this video, but that's kind of the way it goes with most of these types of generative AI tools. And while the ability to mix multiple audio tracks directly in Firefly is a nice feature, I still prefer downloading each generated sound effect individually and doing all my sound mixing in Premiere Pro where I can cut audio clips up and move things around a little more precisely, key frame volume levels, change the pitch or add a little reverb if I want. Things you can't do directly in Firefly. And just a general tip about sound design. In the real world, your ears pick up a lot more than you realize. Good sound design is all about layering and",
+    "metadata": {
+      "video_id": "SAafWXAqNeQ",
+      "url": "https://youtube.com/watch?v=SAafWXAqNeQ",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "token_count": 606,
+      "word_count": 500,
+      "video_duration": 266.24
+    }
+  },
+  {
+    "id": "SAafWXAqNeQ_chunk_1",
+    "text": "volume levels, change the pitch or add a little reverb if I want. Things you can't do directly in Firefly. And just a general tip about sound design. In the real world, your ears pick up a lot more than you realize. Good sound design is all about layering and depth. It's the subtle details that make it feel real. Compare this... ... to this. For this kickboxing scene, I added sound effects not just for the kicks and punches, but for her breathing, the heavy bag chain rattling a little, some ambient basement sounds, and a bit of muffled music playing off in the background. The same goes for this basketball scene where I included audio tracks for the basketball bounces as well as his footsteps, the occasional sneaker squeak, and some environmental ambience to tie it all together. Layers and depth, my friends. Layers and depth. So, will I be using Firefly to generate sound effects again in the future? Absolutely. And maybe I'll have another sponsor by then. Anyway, give it a try. Let me know what you think. And of course, if you enjoyed this video, don't forget to like, subscribe, and leave a nice comment.",
+    "metadata": {
+      "video_id": "SAafWXAqNeQ",
+      "url": "https://youtube.com/watch?v=SAafWXAqNeQ",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "token_count": 249,
+      "word_count": 200,
+      "video_duration": 266.24
+    }
+  }
+]

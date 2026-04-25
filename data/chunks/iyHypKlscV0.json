@@ -1,0 +1,28 @@
+[
+  {
+    "id": "iyHypKlscV0_chunk_0",
+    "text": "AI sound effects in 11 Labs just got a major upgrade. Listen to this. Now watch this clip with no sound. The sound effects really takes it to an entirely new level. So let's take a look at everything that's new in Sound Effects V2. So this is Sound Effects V2. We've redesigned the interface, upgraded the model so the sound effects sound a lot better, and added new features like longer durations, seamless looping, and a higher quality output. First of all, the layout has changed, so you can now create, browse, and find any sound effect you need. We have the explore tab, which allows you to browse the community sound effects. We have the history, so you can see the history of all of your generations and their prompts. And then we also have favorites, which is new and now allows you to save your favorite sound effects and create your own custom collections. And you'll notice that no matter what tab you're in, you have the prompt box right at the bottom here, so you can quickly generate sound effects. And with SFXV2, we've improved a few things. First of all, here you can now create looping sound effects. The sound you're hearing now is actually a 10-second sample being looped with no noticeable gaps. And now, when it comes to the duration, you can generate sound effects up to 30 seconds long, which is 8 seconds more than you could before. And then, of course, the prompt influence slider is still there. And now, when you generate sound effects, just like before, you'll get four sounds. So, let me type out car whoo. and I hit generate. And as you can see, we now have the sound effect being generated. And with SFX V2, you can generate multiple sound effects at the same time without waiting for the previous one to finish. And so here we have our four sound effects. And as you can see, the layout's a little different. Now, let's play one. So, I've got a few different sound effects here. And the first thing you'll notice is that the quality of the actual sound effects just sound a lot better because we've improved the sound effects model. And now if we take a look on the right, we can see that there's a little star icon that allows us to add the sound effects to our favorites. So I can go ahead and add this first one and it will now show up in my favorites right here. We've got car wash. And you'll notice we also have this little icon here, which means that we can directly reuse the prompt in the prompt box. So I don't have to copy and paste it every time. I can simply click use prompt. And as you can see, it's in the prompt box. Next to that, we also have the download button, of course. But now, if you click it, you can",
+    "metadata": {
+      "video_id": "iyHypKlscV0",
+      "url": "https://youtube.com/watch?v=iyHypKlscV0",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "token_count": 603,
+      "word_count": 500,
+      "video_duration": 180.959
+    }
+  },
+  {
+    "id": "iyHypKlscV0_chunk_1",
+    "text": "in the prompt box. So I don't have to copy and paste it every time. I can simply click use prompt. And as you can see, it's in the prompt box. Next to that, we also have the download button, of course. But now, if you click it, you can download your sound effects in a much higher sample rate than before. You'll notice we've got the MP3 at 44.1 kHz, but below that we have the wave file at 48 kHz. And 48 kHz makes your sound effects professional, as 48 kHz is the industry standard for film, TV, and video games. And so now you can enhance your content with incredible AI sound effects, bringing them to life. So enjoy creating some AI sound effects with SFXV2. Thanks for watching. >> The world of sound design just got a powerful new tool. Try it today with 11 Labs.",
+    "metadata": {
+      "video_id": "iyHypKlscV0",
+      "url": "https://youtube.com/watch?v=iyHypKlscV0",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "token_count": 188,
+      "word_count": 150,
+      "video_duration": 180.959
+    }
+  }
+]

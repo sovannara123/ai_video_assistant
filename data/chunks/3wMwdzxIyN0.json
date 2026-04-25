@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3wMwdzxIyN0_chunk_0",
+    "text": "SUNDAR PICHAI: Thanks, Thomas. And hello, everyone. We are so glad you are here. The pace of technological change has been faster than I've ever seen. And I've been around technology for a while. In fact, this Sunday, I'm celebrating my \"Googleversary\"- 22 years, and I'm still feeling lucky. And I hope that luck extends to all of you in Vegas this week. I was drawn to Google all those years ago because of its ambitious mission. From the web, to mobile, to AI, every platform shift has given us new opportunities to advance our mission and to help our customers and partners achieve yours. As we move into the agentic era, we are taking this to the next level. We are making big investments now and for the future. In 2022, we were investing $31 billion in CapEx. This year, we plan to invest between $175 to $185 billion in total CapEx, a nearly 6x increase in just four years. And for 2026, just over half of our machine learning compute is expected to go towards the cloud business. So it will greatly benefit all of you. These investments are how we continue to stay at the frontier and ensure you're at the cutting edge as well. A big focus for us is to always be customer zero for our own technologies so we can be a better partner to all of you. Let me share a few examples of how we are rewiring our work with AI. First, coding- we've been using AI to generate code internally at Google for a while. Today, nearly 75% of all new code at Google is AI-generated and approved by engineers, up from 50% last fall. We are now shifting to truly agentic workflows. Our engineers are orchestrating fully autonomous digital task forces, firing off agents and accomplishing incredible things. As one example of how we are using agents, we recently executed a particularly complex code migration. Anyone familiar knows these migrations can take a while to get done. We created a system of agents taking on three different types of roles- planners, orchestrators, and coders. Working together with engineers, we completed the migration 6x faster than we could have a year ago. And now we are applying that approach across our entire development cycle, from experimentation to testing to evals. It's not just developers who are infusing AI into their workflows. Our marketing teams are fundamentally rethinking the creative process from concept to launch. Historically, adapting a campaign for every audience, channel, and country took weeks. For the recent launch of Gemini in Chrome, teams used our models to rapidly generate thousands of variations of our creative assets. This enabled personalization at a massive scale. It also led to 70% faster turnaround and a 20% increase in conversion. We are not only getting to market faster, we are also doing it more effectively with AI. Our security teams are also seeing significant gains with AI. Each month, our teams receive unstructured",
+    "metadata": {
+      "video_id": "3wMwdzxIyN0",
+      "url": "https://youtube.com/watch?v=3wMwdzxIyN0",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "token_count": 617,
+      "word_count": 500,
+      "video_duration": 334.17
+    }
+  },
+  {
+    "id": "3wMwdzxIyN0_chunk_1",
+    "text": "at a massive scale. It also led to 70% faster turnaround and a 20% increase in conversion. We are not only getting to market faster, we are also doing it more effectively with AI. Our security teams are also seeing significant gains with AI. Each month, our teams receive unstructured threat reports at a scale that would take thousands of hours to review, a nearly impossible task. Today, our Security Operations Center agents automatically triage tens of thousands of unstructured threat reports each month. By accelerating the extraction of critical intelligence and filtering out the noise, it's reduced threat mitigation time by over 90%. We are more on the front foot than ever before. Those are just a few examples of what we are trying at Google. We are moving in a bold and responsible way. There's a lot of change happening. And it can feel like we are in the messy part of the innovation cycle. But we are starting to see the foundational building blocks coming together, unlocking a new wave of innovation. One thing that is super clear- we are firmly in the agentic Gemini era. Last fall, we introduced Gemini Enterprise as a front door to agentic AI in the workplace. What we have seen in just a few months since launch is how every employee in every organization can become a builder. This is an incredible shift. We are accomplishing bigger things faster. But this comes with complexity. The conversation has gone from \"Can we build an agent?\" to \"How do we manage thousands of them?\" Today, I'm excited to announce our new Gemini Enterprise Agent Platform. It provides the secure, full-stack connective tissue you need to build, scale, govern, and optimize your agents with confidence. Think of it as mission control for the agentic enterprise to help move your organization into the next phase of the agentic era. I'm going to turn it back over to Thomas to share more. But first, thanks again for being here. Together, we are building a blueprint for true business transformation. And I'm excited to see where it takes us next. Thomas, back to you.",
+    "metadata": {
+      "video_id": "3wMwdzxIyN0",
+      "url": "https://youtube.com/watch?v=3wMwdzxIyN0",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "token_count": 424,
+      "word_count": 357,
+      "video_duration": 334.17
+    }
+  }
+]

@@ -1,0 +1,416 @@
+{
+  "video_id": "EDb37y_MhRw",
+  "url": "https://youtube.com/watch?v=EDb37y_MhRw",
+  "raw_transcript": [
+    {
+      "text": "What's the difference between generative AI and agentic AI?",
+      "start": 0.3,
+      "duration": 4.659
+    },
+    {
+      "text": "Well, they're two distinct approaches to artificial intelligence.",
+      "start": 5.62,
+      "duration": 2.979
+    },
+    {
+      "text": "And I think we're all familiar with generative AI, things like chat bots and image generators and the like.",
+      "start": 8.64,
+      "duration": 6.66
+    },
+    {
+      "text": "And they are really fundamentally reactive systems.",
+      "start": 15.68,
+      "duration": 6.279
+    },
+    {
+      "text": "They wait for you to do something, specifically they wait for you to prompt them",
+      "start": 22.44,
+      "duration": 7.17
+    },
+    {
+      "text": "and once you prompt them, their job is to generate some kind of content based upon what you provided in the prompt.",
+      "start": 29.61,
+      "duration": 10.66
+    },
+    {
+      "text": "And they're using patterns they learned during training",
+      "start": 40.33,
+      "duration": 3.499
+    },
+    {
+      "text": "The things that it can generate, well that might be some",
+      "start": 44.97,
+      "duration": 3.497
+    },
+    {
+      "text": "text or it might be an image or it may be a piece of code or it maybe some audio.",
+      "start": 48.467,
+      "duration": 11.343
+    },
+    {
+      "text": "These are all sorts of things that we can generate with generative AI and",
+      "start": 60.65,
+      "duration": 4.152
+    },
+    {
+      "text": "they're essentially sophisticated pattern matching machines.",
+      "start": 64.802,
+      "duration": 3.128
+    },
+    {
+      "text": "They've learnt the statistical relationships between words and between pixels and between waves.",
+      "start": 67.99,
+      "duration": 5.8
+    },
+    {
+      "text": "And they've learned that from massive data sets.",
+      "start": 74.47,
+      "duration": 2.12
+    },
+    {
+      "text": "So when you provide a prompt, GenAI predicts what should come next based on its training,",
+      "start": 76.61,
+      "duration": 4.519
+    },
+    {
+      "text": "but it's work does end at generation.",
+      "start": 82.17,
+      "duration": 2.86
+    },
+    {
+      "text": "It doesn't take further steps without your input.",
+      "start": 85.15,
+      "duration": 3.96
+    },
+    {
+      "text": "Now, agentic AI systems, by contrast, those are not reactive.",
+      "start": 89.43,
+      "duration": 6.02
+    },
+    {
+      "text": "They are proactive systems.",
+      "start": 96.09,
+      "duration": 3.619
+    },
+    {
+      "text": "Now, like generative AI, they often start with a user prompt,",
+      "start": 100.93,
+      "duration": 5.038
+    },
+    {
+      "text": "but that prompt is then used to pursue goals through a series of actions",
+      "start": 105.968,
+      "duration": 8.4
+    },
+    {
+      "text": "and an agentic system basically goes through a bit of a life cycle.",
+      "start": 114.368,
+      "duration": 4.016
+    },
+    {
+      "text": "So the way this works is it kind of first of all perceives it",
+      "start": 118.384,
+      "duration": 5.389
+    },
+    {
+      "text": "perceives its environment if you like and then once it's done that it can decide an action to take.",
+      "start": 123.773,
+      "duration": 8.826
+    },
+    {
+      "text": "Once it's decided that action, it can then execute that action,",
+      "start": 133.11,
+      "duration": 4.959
+    },
+    {
+      "text": "and then once that action has been executed, it can kind of learn from the output and then round and round we go,",
+      "start": 138.69,
+      "duration": 8.978
+    },
+    {
+      "text": "all with minimal human intervention.",
+      "start": 147.668,
+      "duration": 3.501
+    },
+    {
+      "text": "Now, both of these AI approaches often share a common foundation.",
+      "start": 151.93,
+      "duration": 5.68
+    },
+    {
+      "text": "And that common foundation is large language models or LLMs.",
+      "start": 158.01,
+      "duration": 7.089
+    },
+    {
+      "text": "LLMs serve as the backbone for chatbots and yeah",
+      "start": 165.588,
+      "duration": 4.755
+    },
+    {
+      "text": "there's actually other tools that are used for some of these other generative things,",
+      "start": 170.343,
+      "duration": 3.481
+    },
+    {
+      "text": "diffusion models typically for images and audio,",
+      "start": 174.116,
+      "duration": 2.781
+    },
+    {
+      "text": "but for chat bots we use LLMS and LLMs also provide the reasoning engine that powers agentic systems,",
+      "start": 176.897,
+      "duration": 7.903
+    },
+    {
+      "text": "but before we go any deeper into that let's talk about some real world applications and use cases.",
+      "start": 185.22,
+      "duration": 6.98
+    },
+    {
+      "text": "Now, maybe this doesn't put me in the best of lights,",
+      "start": 192.82,
+      "duration": 2.46
+    },
+    {
+      "text": "but I don't think I'm the only one using generative AI",
+      "start": 195.28,
+      "duration": 3.738
+    },
+    {
+      "text": "to help with the task of content creation and especially creative content creation.",
+      "start": 199.018,
+      "duration": 9.222
+    },
+    {
+      "text": "Now, before work this morning, and this is completely true, I used the chatbot to help write the next chapter of",
+      "start": 208.86,
+      "duration": 7.6
+    },
+    {
+      "text": "my Nelson Demille fan fiction novel and right now",
+      "start": 217.14,
+      "duration": 3.308
+    },
+    {
+      "text": "you're probably thinking how profoundly cool and absolutely non-nerdy this guy is,",
+      "start": 220.448,
+      "duration": 4.63
+    },
+    {
+      "text": "but for many of us gen ai does help with daily tasks.",
+      "start": 225.078,
+      "duration": 5.342
+    },
+    {
+      "text": "Like let's consider how a Youtuber",
+      "start": 230.84,
+      "duration": 2.311
+    },
+    {
+      "text": "might use a generative AI system to review scripts and suggest",
+      "start": 233.151,
+      "duration": 4.139
+    },
+    {
+      "text": "thumbnail concepts and maybe even generate background music,",
+      "start": 237.29,
+      "duration": 3.649
+    },
+    {
+      "text": "but at each step, there is a human.",
+      "start": 241.54,
+      "duration": 4.08
+    },
+    {
+      "text": "There is a human creator and that human creator is looking at this generated content",
+      "start": 245.78,
+      "duration": 4.921
+    },
+    {
+      "text": "and they are reviewing it, check it's what they want,",
+      "start": 250.701,
+      "duration": 4.436
+    },
+    {
+      "text": "probably isn't, so then they are refining it as well and they are really going through and directing this whole process.",
+      "start": 255.137,
+      "duration": 9.112
+    },
+    {
+      "text": "The AI generates possibilities but the human curates them.",
+      "start": 265.03,
+      "duration": 3.739
+    },
+    {
+      "text": "Now, agentic AI that kind of thrives in scenarios",
+      "start": 269.07,
+      "duration": 4.425
+    },
+    {
+      "text": "that require ongoing management and consist of multi-step processes, so not just one thing at a time.",
+      "start": 273.495,
+      "duration": 9.654
+    },
+    {
+      "text": "So consider a personal shopping agent.",
+      "start": 283.67,
+      "duration": 3.3
+    },
+    {
+      "text": "Given a product to purchase as input, it actively hunts for availability across platforms, it might monitor price fluctuations,",
+      "start": 287.33,
+      "duration": 8.124
+    },
+    {
+      "text": "it might handle checkout processes, and it might even coordinate delivery.",
+      "start": 295.454,
+      "duration": 3.416
+    },
+    {
+      "text": "Largely by itself, seeking input only from you, only when it's needed.",
+      "start": 299.59,
+      "duration": 5.119
+    },
+    {
+      "text": "But how does it do that.",
+      "start": 305.09,
+      "duration": 1.999
+    },
+    {
+      "text": "Well, it turns out that the LLMs that are behind much of generative AI",
+      "start": 307.88,
+      "duration": 3.592
+    },
+    {
+      "text": "can also be used to provide reasoning capabilities to AI agents.",
+      "start": 311.472,
+      "duration": 4.508
+    },
+    {
+      "text": "So this essentially here, we're using gen ai's ability to kind of",
+      "start": 316.86,
+      "duration": 3.772
+    },
+    {
+      "text": "think in inverted commas there, and it's thinking through problems,",
+      "start": 320.632,
+      "duration": 4.908
+    },
+    {
+      "text": "and this has a name.",
+      "start": 325.72,
+      "duration": 1.859
+    },
+    {
+      "text": "It's called chain of thought reasoning.",
+      "start": 327.579,
+      "duration": 6.105
+    },
+    {
+      "text": "and this is what LLMs are so good at.",
+      "start": 334.195,
+      "duration": 4.116
+    },
+    {
+      "text": "It's a process where the agent basically breaks down a complex task into smaller",
+      "start": 338.39,
+      "duration": 4.496
+    },
+    {
+      "text": "logical steps, kind of like how humans tackle difficult problems as well.",
+      "start": 342.886,
+      "duration": 4.643
+    },
+    {
+      "text": "So let's imagine one.",
+      "start": 347.87,
+      "duration": 1.619
+    },
+    {
+      "text": "Let's imagine that we want to have an agent that is planning a complex task like organizing a conference.",
+      "start": 349.53,
+      "duration": 6.26
+    },
+    {
+      "text": "So what it's going to do is it's going to use gen ai to generate an internal dialog.",
+      "start": 356.59,
+      "duration": 4.98
+    },
+    {
+      "text": "And that dialog might go something like this.",
+      "start": 361.83,
+      "duration": 1.599
+    },
+    {
+      "text": "It might say.",
+      "start": 363.45,
+      "duration": 0.91
+    },
+    {
+      "text": "First I need to understand the conference requirements of the size, the duration, the budget, that sort of thing.",
+      "start": 364.36,
+      "duration": 5.46
+    },
+    {
+      "text": "Then I should research available venues matching those parameters.",
+      "start": 369.82,
+      "duration": 4.493
+    },
+    {
+      "text": "Then it might think well for those venues that meet those requirements I now need to check availability and so on.",
+      "start": 374.313,
+      "duration": 6.678
+    },
+    {
+      "text": "It's effectively the agent really kind of talking to itself to explore the problem space before taking action.",
+      "start": 380.991,
+      "duration": 7.086
+    },
+    {
+      "text": "Gen AI is basically the cognitive engine driving an agent's decision-making.",
+      "start": 388.077,
+      "duration": 5.29
+    },
+    {
+      "text": "Now looking ahead, the most powerful AI systems probably won't be purely generative or purely agentic.",
+      "start": 393.367,
+      "duration": 8.072
+    },
+    {
+      "text": "They're going to be intelligent collaborators,",
+      "start": 401.68,
+      "duration": 2.32
+    },
+    {
+      "text": "that will understand when to explore options through",
+      "start": 404.0,
+      "duration": 2.991
+    },
+    {
+      "text": "generation and when to commit to courses of action through agentic action.",
+      "start": 406.991,
+      "duration": 6.009
+    },
+    {
+      "text": "Like an agent that would know when to generate the next chapter",
+      "start": 413.8,
+      "duration": 4.505
+    },
+    {
+      "text": "of fan fiction so it's ready after, I don't know, a video shoot. Maybe, uh...",
+      "start": 418.305,
+      "duration": 5.795
+    },
+    {
+      "text": "Maybe it's ready right now.",
+      "start": 424.74,
+      "duration": 1.059
+    }
+  ],
+  "full_text": "What's the difference between generative AI and agentic AI? Well, they're two distinct approaches to artificial intelligence. And I think we're all familiar with generative AI, things like chat bots and image generators and the like. And they are really fundamentally reactive systems. They wait for you to do something, specifically they wait for you to prompt them and once you prompt them, their job is to generate some kind of content based upon what you provided in the prompt. And they're using patterns they learned during training The things that it can generate, well that might be some text or it might be an image or it may be a piece of code or it maybe some audio. These are all sorts of things that we can generate with generative AI and they're essentially sophisticated pattern matching machines. They've learnt the statistical relationships between words and between pixels and between waves. And they've learned that from massive data sets. So when you provide a prompt, GenAI predicts what should come next based on its training, but it's work does end at generation. It doesn't take further steps without your input. Now, agentic AI systems, by contrast, those are not reactive. They are proactive systems. Now, like generative AI, they often start with a user prompt, but that prompt is then used to pursue goals through a series of actions and an agentic system basically goes through a bit of a life cycle. So the way this works is it kind of first of all perceives it perceives its environment if you like and then once it's done that it can decide an action to take. Once it's decided that action, it can then execute that action, and then once that action has been executed, it can kind of learn from the output and then round and round we go, all with minimal human intervention. Now, both of these AI approaches often share a common foundation. And that common foundation is large language models or LLMs. LLMs serve as the backbone for chatbots and yeah there's actually other tools that are used for some of these other generative things, diffusion models typically for images and audio, but for chat bots we use LLMS and LLMs also provide the reasoning engine that powers agentic systems, but before we go any deeper into that let's talk about some real world applications and use cases. Now, maybe this doesn't put me in the best of lights, but I don't think I'm the only one using generative AI to help with the task of content creation and especially creative content creation. Now, before work this morning, and this is completely true, I used the chatbot to help write the next chapter of my Nelson Demille fan fiction novel and right now you're probably thinking how profoundly cool and absolutely non-nerdy this guy is, but for many of us gen ai does help with daily tasks. Like let's consider how a Youtuber might use a generative AI system to review scripts and suggest thumbnail concepts and maybe even generate background music, but at each step, there is a human. There is a human creator and that human creator is looking at this generated content and they are reviewing it, check it's what they want, probably isn't, so then they are refining it as well and they are really going through and directing this whole process. The AI generates possibilities but the human curates them. Now, agentic AI that kind of thrives in scenarios that require ongoing management and consist of multi-step processes, so not just one thing at a time. So consider a personal shopping agent. Given a product to purchase as input, it actively hunts for availability across platforms, it might monitor price fluctuations, it might handle checkout processes, and it might even coordinate delivery. Largely by itself, seeking input only from you, only when it's needed. But how does it do that. Well, it turns out that the LLMs that are behind much of generative AI can also be used to provide reasoning capabilities to AI agents. So this essentially here, we're using gen ai's ability to kind of think in inverted commas there, and it's thinking through problems, and this has a name. It's called chain of thought reasoning. and this is what LLMs are so good at. It's a process where the agent basically breaks down a complex task into smaller logical steps, kind of like how humans tackle difficult problems as well. So let's imagine one. Let's imagine that we want to have an agent that is planning a complex task like organizing a conference. So what it's going to do is it's going to use gen ai to generate an internal dialog. And that dialog might go something like this. It might say. First I need to understand the conference requirements of the size, the duration, the budget, that sort of thing. Then I should research available venues matching those parameters. Then it might think well for those venues that meet those requirements I now need to check availability and so on. It's effectively the agent really kind of talking to itself to explore the problem space before taking action. Gen AI is basically the cognitive engine driving an agent's decision-making. Now looking ahead, the most powerful AI systems probably won't be purely generative or purely agentic. They're going to be intelligent collaborators, that will understand when to explore options through generation and when to commit to courses of action through agentic action. Like an agent that would know when to generate the next chapter of fan fiction so it's ready after, I don't know, a video shoot. Maybe, uh... Maybe it's ready right now.",
+  "duration_seconds": 425.79900000000004,
+  "segment_count": 81,
+  "word_count": 956,
+  "char_count": 5544
+}

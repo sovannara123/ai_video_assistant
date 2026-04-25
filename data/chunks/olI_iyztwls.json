@@ -1,0 +1,41 @@
+[
+  {
+    "id": "olI_iyztwls_chunk_0",
+    "text": "could you believe that that sound was created purely by AI well actually all of these were hi I'm Thomas from new on audio recently 11 Labs released two very interesting tools text to sound effects and video to sound effects in this video I will show you how I use these tools to generate the final soundscape for the clip you just saw and give you tips to help you craft your own soundscapes for your videos let's start by importing the video into the video to sound effects app before I go deeper into the sounds themselves what's quite impressive to me is that it does seem to have a general idea of what's actually going on in the scene rather than just randomly generating car sounds which I thought it would do it starts with lower volume engine sounds gets louder during the closeup and quiets down in the distance shot some of the generations also include the tire screeching when the car starts drifting in this clip which has more action it does actually generate three distinct hits that are in the video if I use a scene that's longer than a few seconds however these specific sounds fall out of place it seems to do really well with generating ambiances as long as there is not a lot of action going on in the scene okay so how is this actually useful as you can probably hear this isn't at the level yet where just drop your video and expect to get the final soundscape I think for now this tool is really good as a starting point for your sound design import your video and rather than seeing the generated soundscape as the final result you can use it as inspiration it might create sounds that serve as the first layer of your soundscape which you can then enhance by adding more sounds this brings us to the next text to sfx Tool which can generate those extra sounds for building the final soundscape before diving into the AI tool itself I I will stop for a second on a technique called layering layering involves combining multiple sounds to create more complex and interesting sounds it can take you from this to this the reason this is so important here is that it allows us to use the AI generated sounds to craft audio that specifically matches our scene if you want more detailed insights into my approach to layering sounds including which sounds to layer together and why check out my PR previous video on sound design the link is in the description so let's look at the text to sfx AI to generate some car sounds we can layer okay that's not quite what we want there are two main ways I find you can really improve the quality of the sounds first be descriptive we want a car that's going fast and we also want to hear the sound of the",
+    "metadata": {
+      "video_id": "olI_iyztwls",
+      "url": "https://youtube.com/watch?v=olI_iyztwls",
+      "chunk_index": 0,
+      "total_chunks": 3,
+      "token_count": 527,
+      "word_count": 500,
+      "video_duration": 480.479
+    }
+  },
+  {
+    "id": "olI_iyztwls_chunk_1",
+    "text": "generate some car sounds we can layer okay that's not quite what we want there are two main ways I find you can really improve the quality of the sounds first be descriptive we want a car that's going fast and we also want to hear the sound of the engine to make it feel powerful let's try that much better I'll get into the details on how exactly I structure the prompts later on second adjusting the settings I get the best results with a prompt influence at between 70 and 100% And setting longer generation seems to give us more consistent results as well does the prompt and set I used to generate most of the car sounds I used in the clip along with a few variations let me play you each layer I used to create this impact sound and the prompt I used to generate it as you listen you can probably start noticing a pattern in my prompts first I specify the type of sound I want this could be a sports car an impact a footstep or a wosh then I describe how I want the sound to feel such as fast and explosive or slow and rumbly finally I add specific characteristics to refine the sound further like perspective pass by or closeup or particular elements I want to hear such as engine that we used for the car scene for example if I type in footsteps on wood call and slow and at creeky floor it gives us a consistent and good sounding result understanding basic audio terms like attack tail tremolo Reverb Echo flanger and many others can help you achieve the exact sound you're aiming for example of this is using the term cinematic and designed to get that overthe toop sound design style it can take an impact sound from this to this it also reacts well to using terms like high pitched and low pitched if you would like a free detailed guide with the descriptions and audio samples for these terms to reference when crafting your prompts you can subscribe to our free mailing list and get the PDF guide sent directly to your email the link is in the description good prompts and layering can get you cool sounding results but how do you get them to actually match your given scene perfectly listen to these two layer sounds both of these were shortened and had a Reverb and filter applied to them if I left them as I got them from 11 Labs it would sound like this traditional some design techniques such as reversing pit shifting and others are still extremely important if you want your videos to sound professional I won't go into this in detail here but if you're interested you can check out my video on sound design tips that I've already mentioned I will now run through the generation cost and the technical aspects of both of the tools",
+    "metadata": {
+      "video_id": "olI_iyztwls",
+      "url": "https://youtube.com/watch?v=olI_iyztwls",
+      "chunk_index": 1,
+      "total_chunks": 3,
+      "token_count": 525,
+      "word_count": 500,
+      "video_duration": 480.479
+    }
+  },
+  {
+    "id": "olI_iyztwls_chunk_2",
+    "text": "you want your videos to sound professional I won't go into this in detail here but if you're interested you can check out my video on sound design tips that I've already mentioned I will now run through the generation cost and the technical aspects of both of the tools starting with the text to sound effects each generation costs 200 characters and gives you four results the actual downloads don't cost anything and if you adjust the settings to generate longer sounds the generations will cost you slightly more you get 10,000 free characters a month on 11 laps with the option to upgrade based on their monthly plans currently it can only produce MP3 files these are great for General use due to their smaller file sizes but they compress the audio reducing its quality they're still good to use for sound design just keep in mind that heavily altering them with audio effects might impact the sound quality due to the MP3 format the video to sound effects seems to have no limits on usage or the number of generations at first however after a consistent use you will receive a message requiring you to wait before generating more there is no option to download only the audio so you have to download the video and then extract the audio in your editing software if you're interested in trying out the text to sound effect feature from 11 Labs check out the link in the description below by using this link to purchase a subscription you will be supporting the channel at no extra cost to you and I will really appreciate it let me know what you think about those tools and how you might use them in your project I thank you for watching see you next time",
+    "metadata": {
+      "video_id": "olI_iyztwls",
+      "url": "https://youtube.com/watch?v=olI_iyztwls",
+      "chunk_index": 2,
+      "total_chunks": 3,
+      "token_count": 317,
+      "word_count": 303,
+      "video_duration": 480.479
+    }
+  }
+]

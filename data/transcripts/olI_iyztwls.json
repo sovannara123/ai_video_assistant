@@ -1,0 +1,946 @@
+{
+  "video_id": "olI_iyztwls",
+  "url": "https://youtube.com/watch?v=olI_iyztwls",
+  "raw_transcript": [
+    {
+      "text": "[Music]",
+      "start": 0.27,
+      "duration": 5.489
+    },
+    {
+      "text": "could you believe that that sound was",
+      "start": 4.08,
+      "duration": 4.439
+    },
+    {
+      "text": "created purely by AI well actually all",
+      "start": 5.759,
+      "duration": 5.121
+    },
+    {
+      "text": "of these",
+      "start": 8.519,
+      "duration": 2.361
+    },
+    {
+      "text": "[Music]",
+      "start": 14.02,
+      "duration": 6.14
+    },
+    {
+      "text": "were hi I'm Thomas from new on audio",
+      "start": 17.08,
+      "duration": 5.48
+    },
+    {
+      "text": "recently 11 Labs released two very",
+      "start": 20.16,
+      "duration": 4.56
+    },
+    {
+      "text": "interesting tools text to sound effects",
+      "start": 22.56,
+      "duration": 4.4
+    },
+    {
+      "text": "and video to sound effects in this video",
+      "start": 24.72,
+      "duration": 4.24
+    },
+    {
+      "text": "I will show you how I use these tools to",
+      "start": 26.96,
+      "duration": 3.799
+    },
+    {
+      "text": "generate the final soundscape for the",
+      "start": 28.96,
+      "duration": 3.88
+    },
+    {
+      "text": "clip you just saw and give you tips to",
+      "start": 30.759,
+      "duration": 4.12
+    },
+    {
+      "text": "help you craft your own soundscapes for",
+      "start": 32.84,
+      "duration": 4.52
+    },
+    {
+      "text": "your videos let's start by importing the",
+      "start": 34.879,
+      "duration": 6.36
+    },
+    {
+      "text": "video into the video to sound effects",
+      "start": 37.36,
+      "duration": 3.879
+    },
+    {
+      "text": "app before I go deeper into the sounds",
+      "start": 47.0,
+      "duration": 4.6
+    },
+    {
+      "text": "themselves what's quite impressive to me",
+      "start": 49.719,
+      "duration": 3.84
+    },
+    {
+      "text": "is that it does seem to have a general",
+      "start": 51.6,
+      "duration": 3.88
+    },
+    {
+      "text": "idea of what's actually going on in the",
+      "start": 53.559,
+      "duration": 3.601
+    },
+    {
+      "text": "scene rather than just randomly",
+      "start": 55.48,
+      "duration": 3.96
+    },
+    {
+      "text": "generating car sounds which I thought it",
+      "start": 57.16,
+      "duration": 4.359
+    },
+    {
+      "text": "would do it starts with lower volume",
+      "start": 59.44,
+      "duration": 3.88
+    },
+    {
+      "text": "engine",
+      "start": 61.519,
+      "duration": 4.481
+    },
+    {
+      "text": "sounds gets louder during the",
+      "start": 63.32,
+      "duration": 6.0
+    },
+    {
+      "text": "closeup and quiets down in the distance",
+      "start": 66.0,
+      "duration": 6.0
+    },
+    {
+      "text": "shot some of the generations also",
+      "start": 69.32,
+      "duration": 4.6
+    },
+    {
+      "text": "include the tire screeching when the car",
+      "start": 72.0,
+      "duration": 4.32
+    },
+    {
+      "text": "starts",
+      "start": 73.92,
+      "duration": 2.4
+    },
+    {
+      "text": "[Music]",
+      "start": 77.52,
+      "duration": 3.28
+    },
+    {
+      "text": "drifting in this clip which has more",
+      "start": 81.4,
+      "duration": 6.0
+    },
+    {
+      "text": "action it does actually generate three",
+      "start": 84.6,
+      "duration": 6.28
+    },
+    {
+      "text": "distinct hits that are in the video",
+      "start": 87.4,
+      "duration": 5.6
+    },
+    {
+      "text": "if I use a scene that's longer than a",
+      "start": 90.88,
+      "duration": 4.04
+    },
+    {
+      "text": "few seconds however these specific",
+      "start": 93.0,
+      "duration": 5.079
+    },
+    {
+      "text": "sounds fall out of",
+      "start": 94.92,
+      "duration": 3.159
+    },
+    {
+      "text": "place it seems to do really well with",
+      "start": 100.24,
+      "duration": 4.76
+    },
+    {
+      "text": "generating ambiances as long as there is",
+      "start": 102.72,
+      "duration": 6.12
+    },
+    {
+      "text": "not a lot of action going on in the",
+      "start": 105.0,
+      "duration": 3.84
+    },
+    {
+      "text": "scene okay so how is this actually",
+      "start": 113.84,
+      "duration": 4.4
+    },
+    {
+      "text": "useful as you can probably hear this",
+      "start": 116.079,
+      "duration": 4.32
+    },
+    {
+      "text": "isn't at the level yet where just drop",
+      "start": 118.24,
+      "duration": 4.199
+    },
+    {
+      "text": "your video and expect to get the final",
+      "start": 120.399,
+      "duration": 4.481
+    },
+    {
+      "text": "soundscape I think for now this tool is",
+      "start": 122.439,
+      "duration": 4.241
+    },
+    {
+      "text": "really good as a starting point for your",
+      "start": 124.88,
+      "duration": 4.159
+    },
+    {
+      "text": "sound design import your video and",
+      "start": 126.68,
+      "duration": 3.88
+    },
+    {
+      "text": "rather than seeing the generated",
+      "start": 129.039,
+      "duration": 3.881
+    },
+    {
+      "text": "soundscape as the final result you can",
+      "start": 130.56,
+      "duration": 4.52
+    },
+    {
+      "text": "use it as inspiration it might create",
+      "start": 132.92,
+      "duration": 4.08
+    },
+    {
+      "text": "sounds that serve as the first layer of",
+      "start": 135.08,
+      "duration": 3.48
+    },
+    {
+      "text": "your soundscape which you can then",
+      "start": 137.0,
+      "duration": 4.2
+    },
+    {
+      "text": "enhance by adding more sounds this",
+      "start": 138.56,
+      "duration": 5.36
+    },
+    {
+      "text": "brings us to the next text to sfx Tool",
+      "start": 141.2,
+      "duration": 4.52
+    },
+    {
+      "text": "which can generate those extra sounds",
+      "start": 143.92,
+      "duration": 3.959
+    },
+    {
+      "text": "for building the final soundscape before",
+      "start": 145.72,
+      "duration": 4.4
+    },
+    {
+      "text": "diving into the AI tool itself I I will",
+      "start": 147.879,
+      "duration": 3.961
+    },
+    {
+      "text": "stop for a second on a technique called",
+      "start": 150.12,
+      "duration": 4.0
+    },
+    {
+      "text": "layering layering involves combining",
+      "start": 151.84,
+      "duration": 4.36
+    },
+    {
+      "text": "multiple sounds to create more complex",
+      "start": 154.12,
+      "duration": 4.119
+    },
+    {
+      "text": "and interesting sounds it can take you",
+      "start": 156.2,
+      "duration": 3.08
+    },
+    {
+      "text": "from",
+      "start": 158.239,
+      "duration": 4.36
+    },
+    {
+      "text": "this to",
+      "start": 159.28,
+      "duration": 3.319
+    },
+    {
+      "text": "this the reason this is so important",
+      "start": 162.72,
+      "duration": 5.08
+    },
+    {
+      "text": "here is that it allows us to use the AI",
+      "start": 165.48,
+      "duration": 4.56
+    },
+    {
+      "text": "generated sounds to craft audio that",
+      "start": 167.8,
+      "duration": 4.24
+    },
+    {
+      "text": "specifically matches our",
+      "start": 170.04,
+      "duration": 4.68
+    },
+    {
+      "text": "scene if you want more detailed insights",
+      "start": 172.04,
+      "duration": 4.76
+    },
+    {
+      "text": "into my approach to layering sounds",
+      "start": 174.72,
+      "duration": 3.84
+    },
+    {
+      "text": "including which sounds to layer together",
+      "start": 176.8,
+      "duration": 3.48
+    },
+    {
+      "text": "and why check out my PR previous video",
+      "start": 178.56,
+      "duration": 3.44
+    },
+    {
+      "text": "on sound design the link is in the",
+      "start": 180.28,
+      "duration": 3.959
+    },
+    {
+      "text": "description so let's look at the text to",
+      "start": 182.0,
+      "duration": 4.72
+    },
+    {
+      "text": "sfx AI to generate some car sounds we",
+      "start": 184.239,
+      "duration": 4.601
+    },
+    {
+      "text": "can",
+      "start": 186.72,
+      "duration": 2.12
+    },
+    {
+      "text": "layer okay that's not quite what we want",
+      "start": 189.08,
+      "duration": 4.68
+    },
+    {
+      "text": "there are two main ways I find you can",
+      "start": 192.08,
+      "duration": 3.48
+    },
+    {
+      "text": "really improve the quality of the sounds",
+      "start": 193.76,
+      "duration": 4.039
+    },
+    {
+      "text": "first be descriptive we want a car",
+      "start": 195.56,
+      "duration": 4.12
+    },
+    {
+      "text": "that's going fast and we also want to",
+      "start": 197.799,
+      "duration": 3.561
+    },
+    {
+      "text": "hear the sound of the engine to make it",
+      "start": 199.68,
+      "duration": 6.279
+    },
+    {
+      "text": "feel powerful let's try that",
+      "start": 201.36,
+      "duration": 4.599
+    },
+    {
+      "text": "much better I'll get into the details on",
+      "start": 210.2,
+      "duration": 3.959
+    },
+    {
+      "text": "how exactly I structure the prompts",
+      "start": 212.36,
+      "duration": 4.72
+    },
+    {
+      "text": "later on second adjusting the settings I",
+      "start": 214.159,
+      "duration": 4.521
+    },
+    {
+      "text": "get the best results with a prompt",
+      "start": 217.08,
+      "duration": 4.84
+    },
+    {
+      "text": "influence at between 70 and 100% And",
+      "start": 218.68,
+      "duration": 5.44
+    },
+    {
+      "text": "setting longer generation seems to give",
+      "start": 221.92,
+      "duration": 5.84
+    },
+    {
+      "text": "us more consistent results as",
+      "start": 224.12,
+      "duration": 3.64
+    },
+    {
+      "text": "well does the prompt and set I used to",
+      "start": 237.48,
+      "duration": 4.759
+    },
+    {
+      "text": "generate most of the car sounds I used",
+      "start": 240.36,
+      "duration": 4.42
+    },
+    {
+      "text": "in the clip along with a few",
+      "start": 242.239,
+      "duration": 9.36
+    },
+    {
+      "text": "[Music]",
+      "start": 244.78,
+      "duration": 9.26
+    },
+    {
+      "text": "variations let me play you each layer I",
+      "start": 251.599,
+      "duration": 5.84
+    },
+    {
+      "text": "used to create this impact",
+      "start": 254.04,
+      "duration": 3.399
+    },
+    {
+      "text": "sound and the prompt I used to generate",
+      "start": 257.759,
+      "duration": 5.72
+    },
+    {
+      "text": "it",
+      "start": 260.479,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 264.89,
+      "duration": 5.35
+    },
+    {
+      "text": "[Music]",
+      "start": 272.42,
+      "duration": 3.86
+    },
+    {
+      "text": "as you listen you can probably start",
+      "start": 274.72,
+      "duration": 4.28
+    },
+    {
+      "text": "noticing a pattern in my prompts first I",
+      "start": 276.28,
+      "duration": 5.0
+    },
+    {
+      "text": "specify the type of sound I want this",
+      "start": 279.0,
+      "duration": 4.4
+    },
+    {
+      "text": "could be a sports car an impact a",
+      "start": 281.28,
+      "duration": 5.28
+    },
+    {
+      "text": "footstep or a wosh then I describe how I",
+      "start": 283.4,
+      "duration": 5.639
+    },
+    {
+      "text": "want the sound to feel such as fast and",
+      "start": 286.56,
+      "duration": 6.12
+    },
+    {
+      "text": "explosive or slow and rumbly finally I",
+      "start": 289.039,
+      "duration": 5.761
+    },
+    {
+      "text": "add specific characteristics to refine",
+      "start": 292.68,
+      "duration": 4.959
+    },
+    {
+      "text": "the sound further like perspective pass",
+      "start": 294.8,
+      "duration": 5.6
+    },
+    {
+      "text": "by or closeup or particular elements I",
+      "start": 297.639,
+      "duration": 5.4
+    },
+    {
+      "text": "want to hear such as engine that we used",
+      "start": 300.4,
+      "duration": 4.88
+    },
+    {
+      "text": "for the car scene for example if I type",
+      "start": 303.039,
+      "duration": 4.921
+    },
+    {
+      "text": "in footsteps on wood call and slow and",
+      "start": 305.28,
+      "duration": 5.56
+    },
+    {
+      "text": "at creeky floor it gives us a consistent",
+      "start": 307.96,
+      "duration": 5.72
+    },
+    {
+      "text": "and good sounding",
+      "start": 310.84,
+      "duration": 2.84
+    },
+    {
+      "text": "result understanding basic audio terms",
+      "start": 317.0,
+      "duration": 5.4
+    },
+    {
+      "text": "like attack tail tremolo Reverb Echo",
+      "start": 319.52,
+      "duration": 5.32
+    },
+    {
+      "text": "flanger and many others can help you",
+      "start": 322.4,
+      "duration": 4.28
+    },
+    {
+      "text": "achieve the exact sound you're aiming",
+      "start": 324.84,
+      "duration": 4.12
+    },
+    {
+      "text": "for example of this is using the term",
+      "start": 326.68,
+      "duration": 4.44
+    },
+    {
+      "text": "cinematic and designed to get that",
+      "start": 328.96,
+      "duration": 4.799
+    },
+    {
+      "text": "overthe toop sound design style it can",
+      "start": 331.12,
+      "duration": 5.28
+    },
+    {
+      "text": "take an impact sound from",
+      "start": 333.759,
+      "duration": 5.601
+    },
+    {
+      "text": "this to",
+      "start": 336.4,
+      "duration": 5.919
+    },
+    {
+      "text": "this it also reacts well to using terms",
+      "start": 339.36,
+      "duration": 6.16
+    },
+    {
+      "text": "like high pitched and low",
+      "start": 342.319,
+      "duration": 3.201
+    },
+    {
+      "text": "pitched if you would like a free",
+      "start": 348.4,
+      "duration": 4.16
+    },
+    {
+      "text": "detailed guide with the descriptions and",
+      "start": 350.56,
+      "duration": 4.04
+    },
+    {
+      "text": "audio samples for these terms to",
+      "start": 352.56,
+      "duration": 4.199
+    },
+    {
+      "text": "reference when crafting your prompts you",
+      "start": 354.6,
+      "duration": 4.2
+    },
+    {
+      "text": "can subscribe to our free mailing list",
+      "start": 356.759,
+      "duration": 4.041
+    },
+    {
+      "text": "and get the PDF guide sent directly to",
+      "start": 358.8,
+      "duration": 3.36
+    },
+    {
+      "text": "your email the link is in the",
+      "start": 360.8,
+      "duration": 3.6
+    },
+    {
+      "text": "description good prompts and layering",
+      "start": 362.16,
+      "duration": 4.24
+    },
+    {
+      "text": "can get you cool sounding results but",
+      "start": 364.4,
+      "duration": 3.56
+    },
+    {
+      "text": "how do you get them to actually match",
+      "start": 366.4,
+      "duration": 3.56
+    },
+    {
+      "text": "your given scene perfectly listen to",
+      "start": 367.96,
+      "duration": 3.91
+    },
+    {
+      "text": "these two layer",
+      "start": 369.96,
+      "duration": 4.2
+    },
+    {
+      "text": "[Music]",
+      "start": 371.87,
+      "duration": 5.01
+    },
+    {
+      "text": "sounds both of these were shortened and",
+      "start": 374.16,
+      "duration": 5.36
+    },
+    {
+      "text": "had a Reverb and filter applied to them",
+      "start": 376.88,
+      "duration": 4.52
+    },
+    {
+      "text": "if I left them as I got them from 11",
+      "start": 379.52,
+      "duration": 4.799
+    },
+    {
+      "text": "Labs it would sound like",
+      "start": 381.4,
+      "duration": 5.519
+    },
+    {
+      "text": "this traditional some design techniques",
+      "start": 384.319,
+      "duration": 4.521
+    },
+    {
+      "text": "such as reversing pit shifting and",
+      "start": 386.919,
+      "duration": 4.0
+    },
+    {
+      "text": "others are still extremely important if",
+      "start": 388.84,
+      "duration": 3.359
+    },
+    {
+      "text": "you want your videos to sound",
+      "start": 390.919,
+      "duration": 3.0
+    },
+    {
+      "text": "professional I won't go into this in",
+      "start": 392.199,
+      "duration": 3.601
+    },
+    {
+      "text": "detail here but if you're interested you",
+      "start": 393.919,
+      "duration": 3.801
+    },
+    {
+      "text": "can check out my video on sound design",
+      "start": 395.8,
+      "duration": 3.959
+    },
+    {
+      "text": "tips that I've already mentioned I will",
+      "start": 397.72,
+      "duration": 3.919
+    },
+    {
+      "text": "now run through the generation cost and",
+      "start": 399.759,
+      "duration": 3.56
+    },
+    {
+      "text": "the technical aspects of both of the",
+      "start": 401.639,
+      "duration": 3.84
+    },
+    {
+      "text": "tools starting with the text to sound",
+      "start": 403.319,
+      "duration": 4.681
+    },
+    {
+      "text": "effects each generation costs 200",
+      "start": 405.479,
+      "duration": 4.401
+    },
+    {
+      "text": "characters and gives you four results",
+      "start": 408.0,
+      "duration": 4.08
+    },
+    {
+      "text": "the actual downloads don't cost anything",
+      "start": 409.88,
+      "duration": 3.84
+    },
+    {
+      "text": "and if you adjust the settings to",
+      "start": 412.08,
+      "duration": 3.76
+    },
+    {
+      "text": "generate longer sounds the generations",
+      "start": 413.72,
+      "duration": 3.8
+    },
+    {
+      "text": "will cost you slightly more you get",
+      "start": 415.84,
+      "duration": 4.0
+    },
+    {
+      "text": "10,000 free characters a month on 11",
+      "start": 417.52,
+      "duration": 4.64
+    },
+    {
+      "text": "laps with the option to upgrade based on",
+      "start": 419.84,
+      "duration": 4.28
+    },
+    {
+      "text": "their monthly plans currently it can",
+      "start": 422.16,
+      "duration": 4.319
+    },
+    {
+      "text": "only produce MP3 files these are great",
+      "start": 424.12,
+      "duration": 4.56
+    },
+    {
+      "text": "for General use due to their smaller",
+      "start": 426.479,
+      "duration": 4.481
+    },
+    {
+      "text": "file sizes but they compress the audio",
+      "start": 428.68,
+      "duration": 4.079
+    },
+    {
+      "text": "reducing its quality they're still good",
+      "start": 430.96,
+      "duration": 3.84
+    },
+    {
+      "text": "to use for sound design just keep in",
+      "start": 432.759,
+      "duration": 3.72
+    },
+    {
+      "text": "mind that heavily altering them with",
+      "start": 434.8,
+      "duration": 3.64
+    },
+    {
+      "text": "audio effects might impact the sound",
+      "start": 436.479,
+      "duration": 4.84
+    },
+    {
+      "text": "quality due to the MP3 format the video",
+      "start": 438.44,
+      "duration": 5.039
+    },
+    {
+      "text": "to sound effects seems to have no limits",
+      "start": 441.319,
+      "duration": 4.401
+    },
+    {
+      "text": "on usage or the number of generations at",
+      "start": 443.479,
+      "duration": 4.84
+    },
+    {
+      "text": "first however after a consistent use you",
+      "start": 445.72,
+      "duration": 4.68
+    },
+    {
+      "text": "will receive a message requiring you to",
+      "start": 448.319,
+      "duration": 4.32
+    },
+    {
+      "text": "wait before generating more there is no",
+      "start": 450.4,
+      "duration": 4.359
+    },
+    {
+      "text": "option to download only the audio so you",
+      "start": 452.639,
+      "duration": 3.721
+    },
+    {
+      "text": "have to download the video and then",
+      "start": 454.759,
+      "duration": 3.28
+    },
+    {
+      "text": "extract the audio in your editing",
+      "start": 456.36,
+      "duration": 3.959
+    },
+    {
+      "text": "software if you're interested in trying",
+      "start": 458.039,
+      "duration": 3.88
+    },
+    {
+      "text": "out the text to sound effect feature",
+      "start": 460.319,
+      "duration": 3.641
+    },
+    {
+      "text": "from 11 Labs check out the link in the",
+      "start": 461.919,
+      "duration": 4.0
+    },
+    {
+      "text": "description below by using this link to",
+      "start": 463.96,
+      "duration": 3.799
+    },
+    {
+      "text": "purchase a subscription you will be",
+      "start": 465.919,
+      "duration": 3.761
+    },
+    {
+      "text": "supporting the channel at no extra cost",
+      "start": 467.759,
+      "duration": 4.081
+    },
+    {
+      "text": "to you and I will really appreciate it",
+      "start": 469.68,
+      "duration": 3.519
+    },
+    {
+      "text": "let me know what you think about those",
+      "start": 471.84,
+      "duration": 3.12
+    },
+    {
+      "text": "tools and how you might use them in your",
+      "start": 473.199,
+      "duration": 4.081
+    },
+    {
+      "text": "project I thank you for watching see you",
+      "start": 474.96,
+      "duration": 5.519
+    },
+    {
+      "text": "next time",
+      "start": 477.28,
+      "duration": 3.199
+    }
+  ],
+  "full_text": "could you believe that that sound was created purely by AI well actually all of these were hi I'm Thomas from new on audio recently 11 Labs released two very interesting tools text to sound effects and video to sound effects in this video I will show you how I use these tools to generate the final soundscape for the clip you just saw and give you tips to help you craft your own soundscapes for your videos let's start by importing the video into the video to sound effects app before I go deeper into the sounds themselves what's quite impressive to me is that it does seem to have a general idea of what's actually going on in the scene rather than just randomly generating car sounds which I thought it would do it starts with lower volume engine sounds gets louder during the closeup and quiets down in the distance shot some of the generations also include the tire screeching when the car starts drifting in this clip which has more action it does actually generate three distinct hits that are in the video if I use a scene that's longer than a few seconds however these specific sounds fall out of place it seems to do really well with generating ambiances as long as there is not a lot of action going on in the scene okay so how is this actually useful as you can probably hear this isn't at the level yet where just drop your video and expect to get the final soundscape I think for now this tool is really good as a starting point for your sound design import your video and rather than seeing the generated soundscape as the final result you can use it as inspiration it might create sounds that serve as the first layer of your soundscape which you can then enhance by adding more sounds this brings us to the next text to sfx Tool which can generate those extra sounds for building the final soundscape before diving into the AI tool itself I I will stop for a second on a technique called layering layering involves combining multiple sounds to create more complex and interesting sounds it can take you from this to this the reason this is so important here is that it allows us to use the AI generated sounds to craft audio that specifically matches our scene if you want more detailed insights into my approach to layering sounds including which sounds to layer together and why check out my PR previous video on sound design the link is in the description so let's look at the text to sfx AI to generate some car sounds we can layer okay that's not quite what we want there are two main ways I find you can really improve the quality of the sounds first be descriptive we want a car that's going fast and we also want to hear the sound of the engine to make it feel powerful let's try that much better I'll get into the details on how exactly I structure the prompts later on second adjusting the settings I get the best results with a prompt influence at between 70 and 100% And setting longer generation seems to give us more consistent results as well does the prompt and set I used to generate most of the car sounds I used in the clip along with a few variations let me play you each layer I used to create this impact sound and the prompt I used to generate it as you listen you can probably start noticing a pattern in my prompts first I specify the type of sound I want this could be a sports car an impact a footstep or a wosh then I describe how I want the sound to feel such as fast and explosive or slow and rumbly finally I add specific characteristics to refine the sound further like perspective pass by or closeup or particular elements I want to hear such as engine that we used for the car scene for example if I type in footsteps on wood call and slow and at creeky floor it gives us a consistent and good sounding result understanding basic audio terms like attack tail tremolo Reverb Echo flanger and many others can help you achieve the exact sound you're aiming for example of this is using the term cinematic and designed to get that overthe toop sound design style it can take an impact sound from this to this it also reacts well to using terms like high pitched and low pitched if you would like a free detailed guide with the descriptions and audio samples for these terms to reference when crafting your prompts you can subscribe to our free mailing list and get the PDF guide sent directly to your email the link is in the description good prompts and layering can get you cool sounding results but how do you get them to actually match your given scene perfectly listen to these two layer sounds both of these were shortened and had a Reverb and filter applied to them if I left them as I got them from 11 Labs it would sound like this traditional some design techniques such as reversing pit shifting and others are still extremely important if you want your videos to sound professional I won't go into this in detail here but if you're interested you can check out my video on sound design tips that I've already mentioned I will now run through the generation cost and the technical aspects of both of the tools starting with the text to sound effects each generation costs 200 characters and gives you four results the actual downloads don't cost anything and if you adjust the settings to generate longer sounds the generations will cost you slightly more you get 10,000 free characters a month on 11 laps with the option to upgrade based on their monthly plans currently it can only produce MP3 files these are great for General use due to their smaller file sizes but they compress the audio reducing its quality they're still good to use for sound design just keep in mind that heavily altering them with audio effects might impact the sound quality due to the MP3 format the video to sound effects seems to have no limits on usage or the number of generations at first however after a consistent use you will receive a message requiring you to wait before generating more there is no option to download only the audio so you have to download the video and then extract the audio in your editing software if you're interested in trying out the text to sound effect feature from 11 Labs check out the link in the description below by using this link to purchase a subscription you will be supporting the channel at no extra cost to you and I will really appreciate it let me know what you think about those tools and how you might use them in your project I thank you for watching see you next time",
+  "duration_seconds": 480.479,
+  "segment_count": 187,
+  "word_count": 1203,
+  "char_count": 6459
+}
