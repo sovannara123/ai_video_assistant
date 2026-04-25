@@ -12,6 +12,34 @@ load_dotenv()
 
 class Config:
 
+    # ... existing fields ...
+
+    # ══════════════════════════════════════════
+    # 🧠 HUMAN-LIKE AI SETTINGS
+    # ══════════════════════════════════════════
+    
+    # Temperature → Creativity (0 = robotic, 1 = creative chaos)
+    TEMPERATURE        = float(os.getenv("TEMPERATURE", "0.7"))
+    
+    # Top P → Word Variety (nucleus sampling threshold)
+    TOP_P              = float(os.getenv("TOP_P", "0.9"))
+    
+    # Repetition Penalty → Avoid Loops (>1 = less repetitive)
+    REPETITION_PENALTY = float(os.getenv("REPETITION_PENALTY", "1.1"))
+    
+    # Frequency Penalty → Reduce Repeated Words
+    FREQUENCY_PENALTY  = float(os.getenv("FREQUENCY_PENALTY", "0.3"))
+    
+    # Presence Penalty → Encourage New Ideas
+    PRESENCE_PENALTY   = float(os.getenv("PRESENCE_PENALTY", "0.4"))
+    
+    # Context Window Size (max tokens from retrieved chunks)
+    CONTEXT_WINDOW     = int(os.getenv("CONTEXT_WINDOW", "1500"))
+    
+    # Max Response Tokens (limit answer length)
+    MAX_OUTPUT_TOKENS  = int(os.getenv("MAX_OUTPUT_TOKENS", "800"))
+
+
     # ══════════════════════════════════════════
     # 🔢 EMBEDDING MODEL
     # ══════════════════════════════════════════
@@ -277,20 +305,27 @@ Always structure your answer as:
     # ══════════════════════════════════════════
     @classmethod
     def show_config(cls):
-        """Display current configuration"""
-        available = cls._get_ollama_models()
         print(f"""
 ╔══════════════════════════════════════════════╗
-  ⚙️  Current Configuration
+  ⚙️  Configuration & Human-Like AI Settings
 ╠══════════════════════════════════════════════╣
-  🔢 Embedding   : {cls.EMBEDDING_MODEL}
-  🦙 LLM Model   : {cls.OLLAMA_MODEL}
-  🌐 Ollama URL  : {cls.OLLAMA_BASE_URL}
-  ✂️  Chunk Size  : {cls.CHUNK_SIZE} words
-  🔍 Max Results : {cls.MAX_RESULTS}
-  💾 Storage     : {cls.CHROMA_DIR}
+  🔢 Embedding Model      : {cls.EMBEDDING_MODEL}
+  🦙 LLM Model            : {cls.OLLAMA_MODEL}
+  🌐 Ollama URL           : {cls.OLLAMA_BASE_URL}
+  ✂️  Chunk Size           : {cls.CHUNK_SIZE}
+  🔍 Max Results          : {cls.MAX_RESULTS}
+  💾 Storage              : {cls.CHROMA_DIR}
 ╠══════════════════════════════════════════════╣
-  📦 Available Models: {available}
+  🧠 AI Personality Settings                   │
+╠══════════════════════════════════════════════╣
+  Temperature           : {cls.TEMPERATURE:.1f}  ← Creativity level
+  Top P                 : {cls.TOP_P:.1f}      ← Word variety
+  Repetition Penalty    : {cls.REPETITION_PENALTY:.1f}  ← Loop prevention
+  Frequency Penalty     : {cls.FREQUENCY_PENALTY:.1f}    ← Repeated words
+  Presence Penalty      : {cls.PRESENCE_PENALTY:.1f}    ← New ideas
+  Max Output Tokens     : {cls.MAX_OUTPUT_TOKENS}       ← Answer length
+╠══════════════════════════════════════════════╣
+  Available Models: {cls._get_ollama_models()}
 ╚══════════════════════════════════════════════╝
         """)
 
