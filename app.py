@@ -102,31 +102,39 @@ class RAGEngine:
             )
         return "\n\n---\n\n".join(parts)
 
+    # app.py
+# ─────────────────────────────────────────────
+# FIND THIS METHOD — Replace options dict
+# ─────────────────────────────────────────────
+
     def _generate_with_ollama(
         self,
         question: str,
         context:  str
     ) -> str:
-        """Generate answer using local Ollama model"""
+        """Generate answer using human-like AI settings"""
 
         prompt = f"""
-{config.SYSTEM_PROMPT}
+    {config.SYSTEM_PROMPT}
 
-Context from video transcripts:
-{context}
+    Context from video transcripts:
+    {context}
 
-Question: {question}
+    Question: {question}
 
-Answer:"""
+    Answer:"""
 
         try:
             response = ollama.generate(
                 model   = self.model,
                 prompt  = prompt,
                 options = {
-                    "temperature": 0.3,
-                    "top_p":       0.9,
-                    "num_predict": 1000,
+                    "temperature":       config.TEMPERATURE,
+                    "top_p":             config.TOP_P,
+                    "repetition_penalty": config.REPETITION_PENALTY,
+                    "frequency_penalty":  config.FREQUENCY_PENALTY,
+                    "presence_penalty":   config.PRESENCE_PENALTY,
+                    "num_predict":        config.MAX_OUTPUT_TOKENS,
                 }
             )
             return response["response"]
@@ -138,12 +146,17 @@ Answer:"""
                 f"Make sure Ollama is running: ollama serve"
             )
 
+
+    # ══════════════════════════════════════════════
+    # ALSO UPDATE STREAM_ASK METHOD
+    # ══════════════════════════════════════════════
+
     def stream_ask(
         self,
         question: str,
         video_id: str = None
     ):
-        """Stream answer token by token"""
+        """Stream answer token by token (with human-like settings)"""
         relevant_chunks = self.kb.search(
             query     = question,
             n_results = 5,
@@ -157,14 +170,14 @@ Answer:"""
         context = self._build_context(relevant_chunks)
 
         prompt = f"""
-{config.SYSTEM_PROMPT}
+    {config.SYSTEM_PROMPT}
 
-Context:
-{context}
+    Context:
+    {context}
 
-Question: {question}
+    Question: {question}
 
-Answer:"""
+    Answer:"""
 
         print_info(f"🦙 {self.model} is thinking...\n")
         console.print("[bold green]🤖 Answer:[/bold green]")
@@ -173,7 +186,13 @@ Answer:"""
             model   = self.model,
             prompt  = prompt,
             stream  = True,
-            options = {"temperature": 0.3}
+            options = {
+                "temperature":       config.TEMPERATURE,
+                "top_p":             config.TOP_P,
+                "repetition_penalty": config.REPETITION_PENALTY,
+                "frequency_penalty":  config.FREQUENCY_PENALTY,
+                "presence_penalty":   config.PRESENCE_PENALTY,
+            }
         ):
             print(chunk["response"], end="", flush=True)
 
@@ -307,10 +326,7 @@ class AIVideoAssistant:
     # ══════════════════════════════════════════
 
     def _handle_research(self):
-        """
-        NEW: Full research pipeline
-        topic → search YouTube → queue → auto ingest
-        """
+       
         try:
             from core.pipeline import ResearchPipeline
 

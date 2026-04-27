@@ -1,0 +1,67 @@
+[
+  {
+    "id": "aNVjrDQANMw_chunk_0",
+    "text": "Today we're going to talk about how to make drones. So, drones or ambient sounds in general are one of the most important elements in almost every kind of media project. They work like a sonic carpet that set the moods or define the space of a specific scene. Could be a film, a game, or even a trailer. They are fundamental because they help that specific moment resonate with us and with our feelings. They can bring suspense, danger, adrenaline, or calm, following the emotions up and down just like music does in a movie. And of course, they need to support the dynamics of the other sounds. Now, there are three main pillars for crafting good drones. and they are layering, movement, and special effects. I will build mine using three different layers. The first one is a wave table VCO, one of the best way to create evolving and morphing tones. Feedback loops to add noise, depth, unpredictability and randomness, and granular synthesis, my favorite one, to give those reach and full of detailed textures. For the movements, we're going to modulate the filters, the more of the VCO, and a bunch of other stuff. As always, if you like this type of content, like and subscribe. Let's dive in. So, this patch will be really simple, actually. As I said, we're going to use three different layers. The first one is a wavetable VCO. The piston wavetable VCOs in general are really good for crafting drones because you can morph between different waveforms and this uh help the movement inside the system. The second layer will be a feedback loop. I'm going to use uh of course the Melotus Versio. And the last layer will be a granular processor. We're going to use Arbor from Instro. So I will patch every sound source inside different filters. I'm going to modulate the filters and the sound source itself. And this is the patch. I'm going to include a PDF in my description. Really unlikely. I'm still waiting for my rock mixer. So for today, we have to mix everything inside the mix from 2 HP. And since it has just a mono output, we're going to create the stereo image at the end of the chain with a mimophone, the delay and the fake site pro trying different reverbs. So let's start. I'm going to patch the two VCO from Piston Honda separately inside two different channel of VCA. And this is because I'm going to use the second VCO one octave below. And I'm going to modulate the volume just to have it sometimes. And this will create the first type of movement. I'm going to take the mix out and go in the first channel of the 2HP mix. Going to patch into the mimphone and with the stereo output, we're going to patch the mop phone inside the FX8 Pro. And from here, I'm going to my audio device. So, let's hear the first",
+    "metadata": {
+      "video_id": "aNVjrDQANMw",
+      "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+      "chunk_index": 0,
+      "total_chunks": 5,
+      "token_count": 620,
+      "word_count": 500,
+      "video_duration": 1374.44
+    }
+  },
+  {
+    "id": "aNVjrDQANMw_chunk_1",
+    "text": "take the mix out and go in the first channel of the 2HP mix. Going to patch into the mimphone and with the stereo output, we're going to patch the mop phone inside the FX8 Pro. And from here, I'm going to my audio device. So, let's hear the first VCO, the different waveforms, and decide the pitch. We can crank up the FM. So, this is the second one. And I'm going to link the ZU VCO and I'm going to use this one octave below. Before going into the mix, I'm going to go inside the low pass filter and we're going to cut off the bike harmonic. So if you add the reverb, you already have a nice drone. So to add movements, I'm going to slowly modulate the axis of the piston with really slows LFO. This is just one VCO with another LFO. I'm going to modulate the volume of the sub. We can also get out from the distortion output. We can play with the resonance and also other parameters that add hyperarammonic to give more ash texture. We can play with the contact of the 100 grit. And for now it's just a wave table going inside the filter and the effects. My favorite thing is to add reverb after filters here with the modular or in the door with ableton is the same because it creates some super nice timber like with the delay for example. You can also turn on the mode on Pisunda. It allows you to use an external sound source. In this case, nothing is plugged. So, it's going to use the second VCO and it's going to more fit inside the wave shaper. Okay, this is the first layer. Let's start with the second one. So if you don't know what a feedback loop is, it's really simple. It's consistent split the output of a model and go inside the input again. One advice is don't let it unattenuated because you can lost the control of the feedback. Say that in model like this like meotus virtue that is a sort of granular delay. You can reach feedback loops also without any input. Let's hear it. We're going to take the output going to second channel of the mix. We don't hear nothing. If we increase the feedback is coming. The delay line are really near each other and you still have control of the parameters. For example, the sub octave generator before the mix. We're going to go inside the Belgrite. Let's start. Yeah. With a low pass reverb. This is the resonance. And you already have a soundtrack for a film. You can add the delay. So now if we mix the two sound sorts together. What we can do is use the right output since we are coming out mono. Unlucky. But we're going to patch it inside the input. But first of all, we have to attenuate that. I'm going to do it",
+    "metadata": {
+      "video_id": "aNVjrDQANMw",
+      "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+      "chunk_index": 1,
+      "total_chunks": 5,
+      "token_count": 619,
+      "word_count": 500,
+      "video_duration": 1374.44
+    }
+  },
+  {
+    "id": "aNVjrDQANMw_chunk_2",
+    "text": "delay. So now if we mix the two sound sorts together. What we can do is use the right output since we are coming out mono. Unlucky. But we're going to patch it inside the input. But first of all, we have to attenuate that. I'm going to do it with the mats. And this is the amount of the input in the meloous versio. If you want to create the best feedback loop with the input, you have to go down with a co here. two sounds are together. Let's modulate the tone. What I really like in this situations is to try shimmer reverb. It really creates amazing soundscape. Just to be clear, this patch will be like a lowfi patch. The resonance of the bed grat is something amazing. The activating the external mode in the piston we will have more tonal sounds. The sound that the meloous is generating alone is awesome. My favorite parameters is the tone. I love to create sub octave the tuned sound. You can hear it. And this is just a feedback loop. Okay, let's start with the third layer. Let's patch the arbar on the third channel. I'm really sad to do it in mono, but today I have to do like this. I always use it in stereo because generating stereo grains left and the right is amazing for the space, but I promise the next one will be in stereo. So, I deleted every recording here. We're going to do it right now. We're going to record two or three layers and I'm going to do it in a random way just to show you that with Arbar, even if you record a click, you can come out with something amazing. It's amazing also because with the mod input, I'm not pretty sure you can see it. With this input, you can manipulate the amount of the effects inside and they are amazing. There is the reverb, delay, the stereo image as a sound source. I'm using localas from Noise Engineering. It's right here. I'm going to record two or three difference layer. I don't know. Okay, the second one I'm going to do it with a microphone. You can hear the feedback. For the third layer, I'm going to use my last module sample drum from Erica Syn. We're going to take we're going to trigger different random sample. Let's go on the first layer that it was the local kiteras. With the intensity, I decide how many grains we are generating. The envelope of the grains, you can choose the length. So with a small amount of length will create this sort of lowfi sounds. The best thing in arbar is that with this knob, you can control the randomization of the pitch. And this one is quantized. And yeah, let's see the first one. This is the position of the recording. But the best way for me is to go in the follow mode. And",
+    "metadata": {
+      "video_id": "aNVjrDQANMw",
+      "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+      "chunk_index": 2,
+      "total_chunks": 5,
+      "token_count": 611,
+      "word_count": 500,
+      "video_duration": 1374.44
+    }
+  },
+  {
+    "id": "aNVjrDQANMw_chunk_3",
+    "text": "best thing in arbar is that with this knob, you can control the randomization of the pitch. And this one is quantized. And yeah, let's see the first one. This is the position of the recording. But the best way for me is to go in the follow mode. And this will automate the movement inside the layer. You can go forward, in reverse. Let's hear it. You can also decide the pitch. I'm going to use the channel three of mats to control the mod. You can still play. You can still play with the microphone. Mix it with the other outputs. As you are hearing this layer of three different sounds will give us three different tonalities. One is the high and ethereal part. One is the sub. Let's try to change layer. So in arbar as we say the best thing is this quantized pitch randomization and if you can cap it is Another good thing is the dub control. It allows you to overdubbing. So right now I'm going to whistle inside the microphone and this will create this amazing tone. Let's add the other layers. With the sample and old, I'm going to modulate which layer is playing. Yeah. We add delay with the mimophone. You can also go in a sort of flange effect or comb filtering. This will create a metallic textures. Let's try with another kind of shimmer. With an LFL, we can modulate the length of the grains. As you can see, it's going shorter or longer. And of course, we can just go inside the last filter, for example, Morgasmatron. It's an amazing dual filter. I'm going to set it as low pass filter. So right now we are filtering all the layers. And since we have a shimmer at the end of the chain, this will create this nice hyperarmonic. So since we are filtering everything that is coming out is just the low part. And what I really love is creating something inside that low section that will affect the effects because for example here we are cutting everything. But if we crank up the resonance you are hearing this nice texture. That's why I love the effects after the filters cuz it create a nice texture environment in the low subsection. This is really amazing. This will create a sort of harmonic correlation in the low sub part. And since we are using reverb in this case shimmering, all the low harmonics will affect the final results. Let's use the saturated reverb. We can modulate the low cut of 100 grit. Right now you are in another movie a variable again. Let's crank up Arbar again. Those are the high content texture that is creating randomly playing different layers sub parts. So right now I'm using the low cut of the morgazmatron to decide the amount of tension and dynamics. Remember in a scene the tension is determined by the high frequency because with the low frequency",
+    "metadata": {
+      "video_id": "aNVjrDQANMw",
+      "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+      "chunk_index": 3,
+      "total_chunks": 5,
+      "token_count": 605,
+      "word_count": 500,
+      "video_duration": 1374.44
+    }
+  },
+  {
+    "id": "aNVjrDQANMw_chunk_4",
+    "text": "are the high content texture that is creating randomly playing different layers sub parts. So right now I'm using the low cut of the morgazmatron to decide the amount of tension and dynamics. Remember in a scene the tension is determined by the high frequency because with the low frequency you have more suspense. With the high frequency you start to have tension. It's like something is coming. You know we are starting to hear more clearly the modulation of the filter. And of course the type of the reverb is really important because it decide a sort of mood. Also the resonance of Morgasmatron is nice. Can also crank up the drive. Delay come into the reverb. Heat up here. And one of the best way to cut a scene like this is just take off the inputs with a little bit of dry wet. So yeah, that's all. I'm going to upload the entire session in a wave format in my gumrod. If you like what I'm doing here with this series, like and subscribe and see you in the next chapter. Heat. Heat.",
+    "metadata": {
+      "video_id": "aNVjrDQANMw",
+      "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+      "chunk_index": 4,
+      "total_chunks": 5,
+      "token_count": 220,
+      "word_count": 186,
+      "video_duration": 1374.44
+    }
+  }
+]

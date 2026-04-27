@@ -14,26 +14,13 @@ from core.worker        import IngestionWorker
 
 
 class ResearchPipeline:
-    """
-    Your Personal AI Research Agent
-
-    One command does everything:
-    topic → search → queue → ingest → store
-
-    Usage:
-    ─────────────────────────────────────────
-    pipeline = ResearchPipeline()
-    pipeline.run("AI agents tutorial")
-    pipeline.run("sound design synthesis")
-    pipeline.run("python machine learning")
-    ─────────────────────────────────────────
-    """
 
     def __init__(self):
         self.searcher = YouTubeSearcher()
         self.queue    = QueueManager()
         self.worker   = IngestionWorker()
 
+        
     def run(
         self,
         topic:        str,
@@ -41,15 +28,9 @@ class ResearchPipeline:
         auto_ingest:  bool = True,
         min_duration: int  = 180    # 3 minutes minimum
     ) -> dict:
-        """
-        Run the full pipeline for a topic
+        
 
-        Args:
-            topic:       What to search for
-            max_videos:  How many videos to collect
-            auto_ingest: Start ingesting immediately
-            min_duration: Min video length in seconds
-        """
+        #PRINT HEADRER 
         print(f"""
 ╔══════════════════════════════════════════════╗
   🧠 AI Research Pipeline
@@ -57,7 +38,8 @@ class ResearchPipeline:
 ╚══════════════════════════════════════════════╝
         """)
 
-        report = {
+        # CREATE REPORT 
+        report = { 
             "topic":        topic,
             "found":        0,
             "queued":       0,
@@ -65,21 +47,31 @@ class ResearchPipeline:
             "failed":       0,
             "total_chunks": 0,
         }
+         
 
+         # RUN SEARCHING
         # ── STAGE 1: SEARCH ───────────────────
         print("📡 STAGE 1: Searching YouTube...")
-        results = self.searcher.search(
-            topic        = topic,
+        results = self.searcher.search( # call method search store in result 
+            topic        = topic,    
             max_results  = max_videos,
             min_duration = min_duration
         )
 
+        #ALGORITHM OF SEACHING (take user topic -> Search user topic -> return list of video result -> filter the video short than min_duration)
+        
+
+
+        # CHECK THE RESULT OF SEARCHING S
         if not results:
             print("❌ No results found! Try different topic.")
             return report
-
+        #algorithm s
+        # show found video to user 
+        # store number of video found 
         self.searcher.display_results(results)
-        report["found"] = len(results)
+        report["found"] = len(results) # size of result data set 
+
 
         # ── STAGE 2: QUEUE ────────────────────
         print(f"\n📦 STAGE 2: Adding to Queue...")
@@ -152,7 +144,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     max_v = input("Max videos? [default: 5]: ").strip()
-    max_v = int(max_v) if max_v.isdigit() else 5
+    max_v = int(max_v) if max_v.isdigit() else 5 
 
     pipeline.run(
         topic      = topic,

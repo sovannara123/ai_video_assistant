@@ -1,0 +1,1571 @@
+{
+  "video_id": "aNVjrDQANMw",
+  "url": "https://youtube.com/watch?v=aNVjrDQANMw",
+  "raw_transcript": [
+    {
+      "text": "Today we're going to talk about how to",
+      "start": 0.24,
+      "duration": 5.399
+    },
+    {
+      "text": "make drones.",
+      "start": 2.159,
+      "duration": 3.48
+    },
+    {
+      "text": "So, drones or ambient sounds in general",
+      "start": 47.92,
+      "duration": 4.639
+    },
+    {
+      "text": "are one of the most important elements",
+      "start": 50.719,
+      "duration": 4.32
+    },
+    {
+      "text": "in almost every kind of media project.",
+      "start": 52.559,
+      "duration": 4.881
+    },
+    {
+      "text": "They work like a sonic carpet that set",
+      "start": 55.039,
+      "duration": 4.401
+    },
+    {
+      "text": "the moods or define the space of a",
+      "start": 57.44,
+      "duration": 4.639
+    },
+    {
+      "text": "specific scene. Could be a film, a game,",
+      "start": 59.44,
+      "duration": 5.039
+    },
+    {
+      "text": "or even a trailer. They are fundamental",
+      "start": 62.079,
+      "duration": 4.641
+    },
+    {
+      "text": "because they help that specific moment",
+      "start": 64.479,
+      "duration": 4.64
+    },
+    {
+      "text": "resonate with us and with our feelings.",
+      "start": 66.72,
+      "duration": 4.719
+    },
+    {
+      "text": "They can bring suspense, danger,",
+      "start": 69.119,
+      "duration": 4.481
+    },
+    {
+      "text": "adrenaline, or calm, following the",
+      "start": 71.439,
+      "duration": 4.561
+    },
+    {
+      "text": "emotions up and down just like music",
+      "start": 73.6,
+      "duration": 4.32
+    },
+    {
+      "text": "does in a movie. And of course, they",
+      "start": 76.0,
+      "duration": 3.92
+    },
+    {
+      "text": "need to support the dynamics of the",
+      "start": 77.92,
+      "duration": 4.239
+    },
+    {
+      "text": "other sounds. Now, there are three main",
+      "start": 79.92,
+      "duration": 4.239
+    },
+    {
+      "text": "pillars for crafting good drones. and",
+      "start": 82.159,
+      "duration": 4.96
+    },
+    {
+      "text": "they are layering, movement, and special",
+      "start": 84.159,
+      "duration": 5.441
+    },
+    {
+      "text": "effects. I will build mine using three",
+      "start": 87.119,
+      "duration": 4.241
+    },
+    {
+      "text": "different layers. The first one is a",
+      "start": 89.6,
+      "duration": 4.159
+    },
+    {
+      "text": "wave table VCO, one of the best way to",
+      "start": 91.36,
+      "duration": 4.88
+    },
+    {
+      "text": "create evolving and morphing tones.",
+      "start": 93.759,
+      "duration": 5.201
+    },
+    {
+      "text": "Feedback loops to add noise, depth,",
+      "start": 96.24,
+      "duration": 5.12
+    },
+    {
+      "text": "unpredictability and randomness, and",
+      "start": 98.96,
+      "duration": 4.88
+    },
+    {
+      "text": "granular synthesis, my favorite one, to",
+      "start": 101.36,
+      "duration": 4.88
+    },
+    {
+      "text": "give those reach and full of detailed",
+      "start": 103.84,
+      "duration": 4.0
+    },
+    {
+      "text": "textures. For the movements, we're going",
+      "start": 106.24,
+      "duration": 3.6
+    },
+    {
+      "text": "to modulate the filters, the more of the",
+      "start": 107.84,
+      "duration": 4.239
+    },
+    {
+      "text": "VCO, and a bunch of other stuff. As",
+      "start": 109.84,
+      "duration": 3.599
+    },
+    {
+      "text": "always, if you like this type of",
+      "start": 112.079,
+      "duration": 3.521
+    },
+    {
+      "text": "content, like and subscribe. Let's dive",
+      "start": 113.439,
+      "duration": 5.521
+    },
+    {
+      "text": "in. So, this patch will be really",
+      "start": 115.6,
+      "duration": 5.6
+    },
+    {
+      "text": "simple, actually. As I said, we're going",
+      "start": 118.96,
+      "duration": 4.56
+    },
+    {
+      "text": "to use three different layers. The first",
+      "start": 121.2,
+      "duration": 4.959
+    },
+    {
+      "text": "one is a wavetable VCO. The piston",
+      "start": 123.52,
+      "duration": 4.879
+    },
+    {
+      "text": "wavetable VCOs in general are really",
+      "start": 126.159,
+      "duration": 4.08
+    },
+    {
+      "text": "good for crafting drones because you can",
+      "start": 128.399,
+      "duration": 4.081
+    },
+    {
+      "text": "morph between different waveforms and",
+      "start": 130.239,
+      "duration": 5.121
+    },
+    {
+      "text": "this uh help the movement inside the",
+      "start": 132.48,
+      "duration": 5.44
+    },
+    {
+      "text": "system. The second layer will be a",
+      "start": 135.36,
+      "duration": 4.72
+    },
+    {
+      "text": "feedback loop. I'm going to use uh of",
+      "start": 137.92,
+      "duration": 4.319
+    },
+    {
+      "text": "course the Melotus Versio. And the last",
+      "start": 140.08,
+      "duration": 4.239
+    },
+    {
+      "text": "layer will be a granular processor.",
+      "start": 142.239,
+      "duration": 4.401
+    },
+    {
+      "text": "We're going to use Arbor from Instro. So",
+      "start": 144.319,
+      "duration": 4.64
+    },
+    {
+      "text": "I will patch every sound source inside",
+      "start": 146.64,
+      "duration": 4.16
+    },
+    {
+      "text": "different filters. I'm going to modulate",
+      "start": 148.959,
+      "duration": 5.041
+    },
+    {
+      "text": "the filters and the sound source itself.",
+      "start": 150.8,
+      "duration": 5.12
+    },
+    {
+      "text": "And this is the patch. I'm going to",
+      "start": 154.0,
+      "duration": 4.64
+    },
+    {
+      "text": "include a PDF in my description. Really",
+      "start": 155.92,
+      "duration": 5.36
+    },
+    {
+      "text": "unlikely. I'm still waiting for my rock",
+      "start": 158.64,
+      "duration": 6.0
+    },
+    {
+      "text": "mixer. So for today, we have to mix",
+      "start": 161.28,
+      "duration": 6.16
+    },
+    {
+      "text": "everything inside the mix from 2 HP. And",
+      "start": 164.64,
+      "duration": 5.2
+    },
+    {
+      "text": "since it has just a mono output, we're",
+      "start": 167.44,
+      "duration": 4.799
+    },
+    {
+      "text": "going to create the stereo image at the",
+      "start": 169.84,
+      "duration": 4.479
+    },
+    {
+      "text": "end of the chain with a mimophone, the",
+      "start": 172.239,
+      "duration": 4.401
+    },
+    {
+      "text": "delay and the fake site pro trying",
+      "start": 174.319,
+      "duration": 4.961
+    },
+    {
+      "text": "different reverbs. So let's start. I'm",
+      "start": 176.64,
+      "duration": 4.879
+    },
+    {
+      "text": "going to patch the two VCO from Piston",
+      "start": 179.28,
+      "duration": 4.879
+    },
+    {
+      "text": "Honda separately inside two different",
+      "start": 181.519,
+      "duration": 5.201
+    },
+    {
+      "text": "channel of VCA. And this is because I'm",
+      "start": 184.159,
+      "duration": 4.8
+    },
+    {
+      "text": "going to use the second VCO one octave",
+      "start": 186.72,
+      "duration": 4.08
+    },
+    {
+      "text": "below. And I'm going to modulate the",
+      "start": 188.959,
+      "duration": 4.481
+    },
+    {
+      "text": "volume just to have it sometimes. And",
+      "start": 190.8,
+      "duration": 4.96
+    },
+    {
+      "text": "this will create the first type of",
+      "start": 193.44,
+      "duration": 4.719
+    },
+    {
+      "text": "movement. I'm going to take the mix out",
+      "start": 195.76,
+      "duration": 5.199
+    },
+    {
+      "text": "and go in the first channel of the 2HP",
+      "start": 198.159,
+      "duration": 5.521
+    },
+    {
+      "text": "mix. Going to patch into the mimphone",
+      "start": 200.959,
+      "duration": 5.121
+    },
+    {
+      "text": "and with the stereo output, we're going",
+      "start": 203.68,
+      "duration": 4.96
+    },
+    {
+      "text": "to patch the mop phone inside the FX8",
+      "start": 206.08,
+      "duration": 4.879
+    },
+    {
+      "text": "Pro. And from here, I'm going to my",
+      "start": 208.64,
+      "duration": 4.959
+    },
+    {
+      "text": "audio device. So, let's hear the first",
+      "start": 210.959,
+      "duration": 4.161
+    },
+    {
+      "text": "VCO,",
+      "start": 213.599,
+      "duration": 5.081
+    },
+    {
+      "text": "the different waveforms,",
+      "start": 215.12,
+      "duration": 3.56
+    },
+    {
+      "text": "and decide the pitch.",
+      "start": 222.879,
+      "duration": 3.72
+    },
+    {
+      "text": "We can crank up the FM.",
+      "start": 228.0,
+      "duration": 4.2
+    },
+    {
+      "text": "So, this is the second one.",
+      "start": 232.64,
+      "duration": 7.599
+    },
+    {
+      "text": "And I'm going to link the ZU VCO",
+      "start": 236.319,
+      "duration": 6.801
+    },
+    {
+      "text": "and I'm going to use this one octave",
+      "start": 240.239,
+      "duration": 5.92
+    },
+    {
+      "text": "below. Before going into the mix, I'm",
+      "start": 243.12,
+      "duration": 5.28
+    },
+    {
+      "text": "going to go inside the low pass filter",
+      "start": 246.159,
+      "duration": 5.681
+    },
+    {
+      "text": "and we're going to cut off the",
+      "start": 248.4,
+      "duration": 6.08
+    },
+    {
+      "text": "bike harmonic.",
+      "start": 251.84,
+      "duration": 6.599
+    },
+    {
+      "text": "So if you add the reverb,",
+      "start": 254.48,
+      "duration": 3.959
+    },
+    {
+      "text": "you already have a nice drone.",
+      "start": 261.28,
+      "duration": 6.32
+    },
+    {
+      "text": "So to add movements, I'm going to slowly",
+      "start": 264.88,
+      "duration": 4.56
+    },
+    {
+      "text": "modulate",
+      "start": 267.6,
+      "duration": 5.039
+    },
+    {
+      "text": "the axis of the piston with really slows",
+      "start": 269.44,
+      "duration": 6.199
+    },
+    {
+      "text": "LFO.",
+      "start": 272.639,
+      "duration": 3.0
+    },
+    {
+      "text": "This is just one VCO",
+      "start": 282.4,
+      "duration": 3.88
+    },
+    {
+      "text": "with another LFO. I'm going to modulate",
+      "start": 292.16,
+      "duration": 6.84
+    },
+    {
+      "text": "the volume of the sub.",
+      "start": 294.96,
+      "duration": 4.04
+    },
+    {
+      "text": "We can also get out from the distortion",
+      "start": 306.72,
+      "duration": 7.64
+    },
+    {
+      "text": "output.",
+      "start": 311.36,
+      "duration": 3.0
+    },
+    {
+      "text": "We can play with the resonance",
+      "start": 318.639,
+      "duration": 5.521
+    },
+    {
+      "text": "and also other parameters that add",
+      "start": 321.6,
+      "duration": 5.56
+    },
+    {
+      "text": "hyperarammonic",
+      "start": 324.16,
+      "duration": 3.0
+    },
+    {
+      "text": "to give more ash texture. We can play",
+      "start": 332.88,
+      "duration": 6.84
+    },
+    {
+      "text": "with the contact of the 100 grit.",
+      "start": 334.88,
+      "duration": 4.84
+    },
+    {
+      "text": "And for now it's just a wave table going",
+      "start": 340.8,
+      "duration": 7.08
+    },
+    {
+      "text": "inside the filter and the effects.",
+      "start": 342.96,
+      "duration": 4.92
+    },
+    {
+      "text": "My favorite thing is to add reverb after",
+      "start": 351.52,
+      "duration": 6.239
+    },
+    {
+      "text": "filters here with the modular or in the",
+      "start": 355.68,
+      "duration": 4.72
+    },
+    {
+      "text": "door with ableton is the same because it",
+      "start": 357.759,
+      "duration": 6.081
+    },
+    {
+      "text": "creates some super nice timber like with",
+      "start": 360.4,
+      "duration": 7.079
+    },
+    {
+      "text": "the delay for example.",
+      "start": 363.84,
+      "duration": 3.639
+    },
+    {
+      "text": "You can also turn on the mode on",
+      "start": 372.88,
+      "duration": 5.039
+    },
+    {
+      "text": "Pisunda. It allows you to use an",
+      "start": 374.88,
+      "duration": 4.72
+    },
+    {
+      "text": "external sound source. In this case,",
+      "start": 377.919,
+      "duration": 3.761
+    },
+    {
+      "text": "nothing is plugged. So, it's going to",
+      "start": 379.6,
+      "duration": 4.24
+    },
+    {
+      "text": "use the second VCO and it's going to",
+      "start": 381.68,
+      "duration": 6.6
+    },
+    {
+      "text": "more fit inside the wave shaper.",
+      "start": 383.84,
+      "duration": 4.44
+    },
+    {
+      "text": "Okay, this is the first layer. Let's",
+      "start": 392.72,
+      "duration": 3.84
+    },
+    {
+      "text": "start with the second one. So if you",
+      "start": 394.8,
+      "duration": 4.08
+    },
+    {
+      "text": "don't know what a feedback loop is, it's",
+      "start": 396.56,
+      "duration": 4.8
+    },
+    {
+      "text": "really simple. It's consistent split the",
+      "start": 398.88,
+      "duration": 4.56
+    },
+    {
+      "text": "output of a model and go inside the",
+      "start": 401.36,
+      "duration": 5.2
+    },
+    {
+      "text": "input again. One advice is don't let it",
+      "start": 403.44,
+      "duration": 5.28
+    },
+    {
+      "text": "unattenuated because you can lost the",
+      "start": 406.56,
+      "duration": 4.4
+    },
+    {
+      "text": "control of the feedback. Say that in",
+      "start": 408.72,
+      "duration": 4.56
+    },
+    {
+      "text": "model like this like meotus virtue that",
+      "start": 410.96,
+      "duration": 4.4
+    },
+    {
+      "text": "is a sort of granular delay. You can",
+      "start": 413.28,
+      "duration": 4.639
+    },
+    {
+      "text": "reach feedback loops also without any",
+      "start": 415.36,
+      "duration": 4.88
+    },
+    {
+      "text": "input. Let's hear it. We're going to",
+      "start": 417.919,
+      "duration": 4.881
+    },
+    {
+      "text": "take the output going to second channel",
+      "start": 420.24,
+      "duration": 4.48
+    },
+    {
+      "text": "of the mix.",
+      "start": 422.8,
+      "duration": 3.92
+    },
+    {
+      "text": "We don't hear nothing. If we increase",
+      "start": 424.72,
+      "duration": 7.0
+    },
+    {
+      "text": "the feedback is coming.",
+      "start": 426.72,
+      "duration": 5.0
+    },
+    {
+      "text": "The delay line are really near each",
+      "start": 434.4,
+      "duration": 6.079
+    },
+    {
+      "text": "other and you still have control of the",
+      "start": 437.599,
+      "duration": 4.88
+    },
+    {
+      "text": "parameters. For example, the sub octave",
+      "start": 440.479,
+      "duration": 5.0
+    },
+    {
+      "text": "generator",
+      "start": 442.479,
+      "duration": 3.0
+    },
+    {
+      "text": "before the mix. We're going to go inside",
+      "start": 468.96,
+      "duration": 5.6
+    },
+    {
+      "text": "the Belgrite. Let's start. Yeah. With a",
+      "start": 471.36,
+      "duration": 6.36
+    },
+    {
+      "text": "low pass",
+      "start": 474.56,
+      "duration": 3.16
+    },
+    {
+      "text": "reverb.",
+      "start": 480.879,
+      "duration": 3.0
+    },
+    {
+      "text": "This is the resonance.",
+      "start": 486.08,
+      "duration": 3.959
+    },
+    {
+      "text": "And you already have a soundtrack for a",
+      "start": 494.639,
+      "duration": 6.081
+    },
+    {
+      "text": "film. You can add the delay.",
+      "start": 496.639,
+      "duration": 4.081
+    },
+    {
+      "text": "So now if we mix the two sound sorts",
+      "start": 501.36,
+      "duration": 5.64
+    },
+    {
+      "text": "together.",
+      "start": 504.0,
+      "duration": 3.0
+    },
+    {
+      "text": "What we can do is use the right output",
+      "start": 519.279,
+      "duration": 6.24
+    },
+    {
+      "text": "since we are coming out mono. Unlucky.",
+      "start": 521.76,
+      "duration": 7.04
+    },
+    {
+      "text": "But we're going to patch it inside",
+      "start": 525.519,
+      "duration": 5.841
+    },
+    {
+      "text": "the input. But first of all, we have to",
+      "start": 528.8,
+      "duration": 5.2
+    },
+    {
+      "text": "attenuate that. I'm going to do it with",
+      "start": 531.36,
+      "duration": 6.36
+    },
+    {
+      "text": "the mats.",
+      "start": 534.0,
+      "duration": 3.72
+    },
+    {
+      "text": "And this is the amount of the input in",
+      "start": 540.959,
+      "duration": 4.32
+    },
+    {
+      "text": "the meloous versio. If you want to",
+      "start": 543.6,
+      "duration": 3.919
+    },
+    {
+      "text": "create the best feedback loop with the",
+      "start": 545.279,
+      "duration": 4.481
+    },
+    {
+      "text": "input, you have to go down with a co",
+      "start": 547.519,
+      "duration": 5.241
+    },
+    {
+      "text": "here.",
+      "start": 549.76,
+      "duration": 3.0
+    },
+    {
+      "text": "two sounds are together.",
+      "start": 556.24,
+      "duration": 3.719
+    },
+    {
+      "text": "Let's modulate the tone.",
+      "start": 565.68,
+      "duration": 3.88
+    },
+    {
+      "text": "What I really like in this situations is",
+      "start": 577.839,
+      "duration": 7.361
+    },
+    {
+      "text": "to try shimmer reverb. It really creates",
+      "start": 581.2,
+      "duration": 7.48
+    },
+    {
+      "text": "amazing soundscape.",
+      "start": 585.2,
+      "duration": 3.48
+    },
+    {
+      "text": "Just to be clear, this patch will be",
+      "start": 596.24,
+      "duration": 4.88
+    },
+    {
+      "text": "like a lowfi patch. The resonance of the",
+      "start": 598.0,
+      "duration": 7.959
+    },
+    {
+      "text": "bed grat is something amazing.",
+      "start": 601.12,
+      "duration": 4.839
+    },
+    {
+      "text": "The activating the external mode in the",
+      "start": 616.0,
+      "duration": 8.04
+    },
+    {
+      "text": "piston we will have more tonal sounds.",
+      "start": 618.72,
+      "duration": 5.32
+    },
+    {
+      "text": "The sound that the meloous is generating",
+      "start": 643.839,
+      "duration": 5.521
+    },
+    {
+      "text": "alone is awesome. My favorite parameters",
+      "start": 646.48,
+      "duration": 6.24
+    },
+    {
+      "text": "is the tone. I love to create sub octave",
+      "start": 649.36,
+      "duration": 7.0
+    },
+    {
+      "text": "the tuned sound.",
+      "start": 652.72,
+      "duration": 3.64
+    },
+    {
+      "text": "You can hear it. And this is just a",
+      "start": 657.12,
+      "duration": 6.12
+    },
+    {
+      "text": "feedback loop.",
+      "start": 659.839,
+      "duration": 3.401
+    },
+    {
+      "text": "Okay, let's start with the third layer.",
+      "start": 670.88,
+      "duration": 4.8
+    },
+    {
+      "text": "Let's patch the arbar on the third",
+      "start": 673.279,
+      "duration": 4.721
+    },
+    {
+      "text": "channel. I'm really sad to do it in",
+      "start": 675.68,
+      "duration": 4.719
+    },
+    {
+      "text": "mono, but today I have to do like this.",
+      "start": 678.0,
+      "duration": 4.72
+    },
+    {
+      "text": "I always use it in stereo because",
+      "start": 680.399,
+      "duration": 5.12
+    },
+    {
+      "text": "generating stereo grains left and the",
+      "start": 682.72,
+      "duration": 5.2
+    },
+    {
+      "text": "right is amazing for the space, but I",
+      "start": 685.519,
+      "duration": 4.88
+    },
+    {
+      "text": "promise the next one will be in stereo.",
+      "start": 687.92,
+      "duration": 4.96
+    },
+    {
+      "text": "So, I deleted every recording here.",
+      "start": 690.399,
+      "duration": 4.481
+    },
+    {
+      "text": "We're going to do it right now. We're",
+      "start": 692.88,
+      "duration": 4.56
+    },
+    {
+      "text": "going to record two or three layers and",
+      "start": 694.88,
+      "duration": 4.959
+    },
+    {
+      "text": "I'm going to do it in a random way just",
+      "start": 697.44,
+      "duration": 4.56
+    },
+    {
+      "text": "to show you that with Arbar, even if you",
+      "start": 699.839,
+      "duration": 4.161
+    },
+    {
+      "text": "record a click, you can come out with",
+      "start": 702.0,
+      "duration": 4.0
+    },
+    {
+      "text": "something amazing. It's amazing also",
+      "start": 704.0,
+      "duration": 4.32
+    },
+    {
+      "text": "because with the mod input, I'm not",
+      "start": 706.0,
+      "duration": 4.16
+    },
+    {
+      "text": "pretty sure you can see it. With this",
+      "start": 708.32,
+      "duration": 4.16
+    },
+    {
+      "text": "input, you can manipulate the amount of",
+      "start": 710.16,
+      "duration": 5.119
+    },
+    {
+      "text": "the effects inside and they are amazing.",
+      "start": 712.48,
+      "duration": 4.96
+    },
+    {
+      "text": "There is the reverb, delay, the stereo",
+      "start": 715.279,
+      "duration": 5.361
+    },
+    {
+      "text": "image as a sound source. I'm using",
+      "start": 717.44,
+      "duration": 5.76
+    },
+    {
+      "text": "localas from Noise Engineering. It's",
+      "start": 720.64,
+      "duration": 5.36
+    },
+    {
+      "text": "right here.",
+      "start": 723.2,
+      "duration": 4.319
+    },
+    {
+      "text": "I'm going to record two or three",
+      "start": 726.0,
+      "duration": 5.72
+    },
+    {
+      "text": "difference layer. I don't know.",
+      "start": 727.519,
+      "duration": 4.201
+    },
+    {
+      "text": "Okay, the second one I'm going to do it",
+      "start": 737.44,
+      "duration": 5.44
+    },
+    {
+      "text": "with a microphone. You can hear the",
+      "start": 740.639,
+      "duration": 5.241
+    },
+    {
+      "text": "feedback.",
+      "start": 742.88,
+      "duration": 3.0
+    },
+    {
+      "text": "For the third layer, I'm going to use my",
+      "start": 748.24,
+      "duration": 5.279
+    },
+    {
+      "text": "last module sample drum from Erica Syn.",
+      "start": 750.72,
+      "duration": 6.359
+    },
+    {
+      "text": "We're going to take",
+      "start": 753.519,
+      "duration": 3.56
+    },
+    {
+      "text": "we're going to trigger different",
+      "start": 759.12,
+      "duration": 6.519
+    },
+    {
+      "text": "random sample.",
+      "start": 762.16,
+      "duration": 3.479
+    },
+    {
+      "text": "Let's go on the first layer that it was",
+      "start": 780.399,
+      "duration": 5.201
+    },
+    {
+      "text": "the local kiteras. With the intensity, I",
+      "start": 782.32,
+      "duration": 5.68
+    },
+    {
+      "text": "decide how many grains we are",
+      "start": 785.6,
+      "duration": 5.52
+    },
+    {
+      "text": "generating. The envelope of the grains,",
+      "start": 788.0,
+      "duration": 5.36
+    },
+    {
+      "text": "you can choose the length. So with a",
+      "start": 791.12,
+      "duration": 4.959
+    },
+    {
+      "text": "small amount of length will create this",
+      "start": 793.36,
+      "duration": 6.08
+    },
+    {
+      "text": "sort of lowfi sounds. The best thing in",
+      "start": 796.079,
+      "duration": 6.32
+    },
+    {
+      "text": "arbar is that with this knob, you can",
+      "start": 799.44,
+      "duration": 5.199
+    },
+    {
+      "text": "control the randomization of the pitch.",
+      "start": 802.399,
+      "duration": 4.401
+    },
+    {
+      "text": "And this one is quantized. And yeah,",
+      "start": 804.639,
+      "duration": 4.161
+    },
+    {
+      "text": "let's see the first one. This is the",
+      "start": 806.8,
+      "duration": 4.08
+    },
+    {
+      "text": "position of the recording. But the best",
+      "start": 808.8,
+      "duration": 6.24
+    },
+    {
+      "text": "way for me is to go in the follow mode.",
+      "start": 810.88,
+      "duration": 6.639
+    },
+    {
+      "text": "And this will automate the movement",
+      "start": 815.04,
+      "duration": 5.599
+    },
+    {
+      "text": "inside the layer. You can go forward, in",
+      "start": 817.519,
+      "duration": 7.401
+    },
+    {
+      "text": "reverse. Let's hear it.",
+      "start": 820.639,
+      "duration": 4.281
+    },
+    {
+      "text": "You can also decide the pitch.",
+      "start": 827.519,
+      "duration": 5.281
+    },
+    {
+      "text": "I'm going to use the channel three of",
+      "start": 830.959,
+      "duration": 4.56
+    },
+    {
+      "text": "mats to control the mod. You can still",
+      "start": 832.8,
+      "duration": 5.44
+    },
+    {
+      "text": "play. You can still play with the",
+      "start": 835.519,
+      "duration": 5.721
+    },
+    {
+      "text": "microphone.",
+      "start": 838.24,
+      "duration": 3.0
+    },
+    {
+      "text": "Mix it with the other outputs.",
+      "start": 851.12,
+      "duration": 3.959
+    },
+    {
+      "text": "As you are hearing this layer of three",
+      "start": 858.56,
+      "duration": 4.639
+    },
+    {
+      "text": "different sounds will give us three",
+      "start": 860.88,
+      "duration": 4.24
+    },
+    {
+      "text": "different tonalities.",
+      "start": 863.199,
+      "duration": 4.64
+    },
+    {
+      "text": "One is the high and ethereal part. One",
+      "start": 865.12,
+      "duration": 6.12
+    },
+    {
+      "text": "is the sub.",
+      "start": 867.839,
+      "duration": 3.401
+    },
+    {
+      "text": "Let's try to change layer.",
+      "start": 871.279,
+      "duration": 4.281
+    },
+    {
+      "text": "So in arbar as we say the best thing is",
+      "start": 877.839,
+      "duration": 5.12
+    },
+    {
+      "text": "this quantized pitch randomization and",
+      "start": 880.16,
+      "duration": 7.0
+    },
+    {
+      "text": "if you can cap it is",
+      "start": 882.959,
+      "duration": 4.201
+    },
+    {
+      "text": "Another good thing is the dub control.",
+      "start": 898.48,
+      "duration": 4.799
+    },
+    {
+      "text": "It allows you to overdubbing. So right",
+      "start": 900.72,
+      "duration": 4.72
+    },
+    {
+      "text": "now I'm going to whistle inside the",
+      "start": 903.279,
+      "duration": 4.56
+    },
+    {
+      "text": "microphone and this will create this",
+      "start": 905.44,
+      "duration": 5.88
+    },
+    {
+      "text": "amazing tone.",
+      "start": 907.839,
+      "duration": 3.481
+    },
+    {
+      "text": "Let's add the other layers.",
+      "start": 922.48,
+      "duration": 4.12
+    },
+    {
+      "text": "With the sample and old, I'm going to",
+      "start": 941.04,
+      "duration": 5.039
+    },
+    {
+      "text": "modulate which layer is playing.",
+      "start": 942.56,
+      "duration": 6.16
+    },
+    {
+      "text": "Yeah.",
+      "start": 946.079,
+      "duration": 2.641
+    },
+    {
+      "text": "We add delay with the mimophone. You can",
+      "start": 952.0,
+      "duration": 5.519
+    },
+    {
+      "text": "also go in a sort of flange effect or",
+      "start": 954.56,
+      "duration": 6.36
+    },
+    {
+      "text": "comb filtering.",
+      "start": 957.519,
+      "duration": 3.401
+    },
+    {
+      "text": "This will create a metallic textures.",
+      "start": 964.24,
+      "duration": 5.08
+    },
+    {
+      "text": "Let's try with another kind of shimmer.",
+      "start": 982.56,
+      "duration": 5.32
+    },
+    {
+      "text": "With an LFL, we can modulate the length",
+      "start": 1008.0,
+      "duration": 5.44
+    },
+    {
+      "text": "of the grains.",
+      "start": 1011.199,
+      "duration": 4.64
+    },
+    {
+      "text": "As you can see, it's going shorter or",
+      "start": 1013.44,
+      "duration": 6.319
+    },
+    {
+      "text": "longer. And of course, we can just go",
+      "start": 1015.839,
+      "duration": 6.081
+    },
+    {
+      "text": "inside the last filter, for example,",
+      "start": 1019.759,
+      "duration": 4.641
+    },
+    {
+      "text": "Morgasmatron. It's an amazing dual",
+      "start": 1021.92,
+      "duration": 4.639
+    },
+    {
+      "text": "filter.",
+      "start": 1024.4,
+      "duration": 7.399
+    },
+    {
+      "text": "I'm going to set it as low pass filter.",
+      "start": 1026.559,
+      "duration": 5.24
+    },
+    {
+      "text": "So right now we are filtering all the",
+      "start": 1031.919,
+      "duration": 5.12
+    },
+    {
+      "text": "layers. And since we have a shimmer at",
+      "start": 1034.559,
+      "duration": 4.721
+    },
+    {
+      "text": "the end of the chain, this will create",
+      "start": 1037.039,
+      "duration": 5.88
+    },
+    {
+      "text": "this nice hyperarmonic.",
+      "start": 1039.28,
+      "duration": 3.639
+    },
+    {
+      "text": "So since we are filtering everything",
+      "start": 1047.52,
+      "duration": 6.0
+    },
+    {
+      "text": "that is coming out is just the low part.",
+      "start": 1050.48,
+      "duration": 5.04
+    },
+    {
+      "text": "And what I really love is creating",
+      "start": 1053.52,
+      "duration": 4.88
+    },
+    {
+      "text": "something inside that low section that",
+      "start": 1055.52,
+      "duration": 5.039
+    },
+    {
+      "text": "will affect the effects because for",
+      "start": 1058.4,
+      "duration": 4.72
+    },
+    {
+      "text": "example here we are cutting everything.",
+      "start": 1060.559,
+      "duration": 6.761
+    },
+    {
+      "text": "But if we crank up the resonance",
+      "start": 1063.12,
+      "duration": 4.2
+    },
+    {
+      "text": "you are hearing this nice texture.",
+      "start": 1067.52,
+      "duration": 4.36
+    },
+    {
+      "text": "That's why I love the effects after the",
+      "start": 1073.039,
+      "duration": 4.961
+    },
+    {
+      "text": "filters cuz it create a nice texture",
+      "start": 1075.12,
+      "duration": 7.72
+    },
+    {
+      "text": "environment in the low subsection.",
+      "start": 1078.0,
+      "duration": 4.84
+    },
+    {
+      "text": "This is really amazing.",
+      "start": 1085.2,
+      "duration": 5.52
+    },
+    {
+      "text": "This will create a sort of harmonic",
+      "start": 1088.08,
+      "duration": 4.8
+    },
+    {
+      "text": "correlation in the low sub part. And",
+      "start": 1090.72,
+      "duration": 4.24
+    },
+    {
+      "text": "since we are using reverb in this case",
+      "start": 1092.88,
+      "duration": 4.4
+    },
+    {
+      "text": "shimmering, all the low harmonics will",
+      "start": 1094.96,
+      "duration": 6.52
+    },
+    {
+      "text": "affect the final results.",
+      "start": 1097.28,
+      "duration": 4.2
+    },
+    {
+      "text": "Let's use the saturated reverb.",
+      "start": 1129.36,
+      "duration": 4.439
+    },
+    {
+      "text": "We can modulate the low cut of 100 grit.",
+      "start": 1133.84,
+      "duration": 5.64
+    },
+    {
+      "text": "Right now you are in another movie",
+      "start": 1150.16,
+      "duration": 4.44
+    },
+    {
+      "text": "a variable again.",
+      "start": 1160.88,
+      "duration": 3.72
+    },
+    {
+      "text": "Let's crank up Arbar again.",
+      "start": 1170.24,
+      "duration": 4.28
+    },
+    {
+      "text": "Those are the high content texture that",
+      "start": 1197.44,
+      "duration": 4.72
+    },
+    {
+      "text": "is creating randomly playing different",
+      "start": 1199.679,
+      "duration": 6.921
+    },
+    {
+      "text": "layers sub parts.",
+      "start": 1202.16,
+      "duration": 4.44
+    },
+    {
+      "text": "So right now I'm using the low cut of",
+      "start": 1225.76,
+      "duration": 5.12
+    },
+    {
+      "text": "the morgazmatron to decide the amount of",
+      "start": 1228.159,
+      "duration": 5.201
+    },
+    {
+      "text": "tension and dynamics.",
+      "start": 1230.88,
+      "duration": 4.0
+    },
+    {
+      "text": "Remember",
+      "start": 1233.36,
+      "duration": 4.559
+    },
+    {
+      "text": "in a scene the tension is determined by",
+      "start": 1234.88,
+      "duration": 5.6
+    },
+    {
+      "text": "the high frequency because with the low",
+      "start": 1237.919,
+      "duration": 4.88
+    },
+    {
+      "text": "frequency you have more suspense. With",
+      "start": 1240.48,
+      "duration": 4.48
+    },
+    {
+      "text": "the high frequency you start to have",
+      "start": 1242.799,
+      "duration": 4.481
+    },
+    {
+      "text": "tension. It's like something is coming.",
+      "start": 1244.96,
+      "duration": 5.48
+    },
+    {
+      "text": "You know",
+      "start": 1247.28,
+      "duration": 3.16
+    },
+    {
+      "text": "we are starting to hear more clearly the",
+      "start": 1257.44,
+      "duration": 6.96
+    },
+    {
+      "text": "modulation of the filter.",
+      "start": 1260.48,
+      "duration": 3.92
+    },
+    {
+      "text": "And of course the type of the reverb is",
+      "start": 1269.84,
+      "duration": 4.959
+    },
+    {
+      "text": "really important because it decide a",
+      "start": 1272.159,
+      "duration": 5.281
+    },
+    {
+      "text": "sort of mood. Also the resonance of",
+      "start": 1274.799,
+      "duration": 5.441
+    },
+    {
+      "text": "Morgasmatron is nice. Can also crank up",
+      "start": 1277.44,
+      "duration": 6.04
+    },
+    {
+      "text": "the drive.",
+      "start": 1280.24,
+      "duration": 3.24
+    },
+    {
+      "text": "Delay come into the reverb.",
+      "start": 1288.64,
+      "duration": 4.12
+    },
+    {
+      "text": "Heat up here.",
+      "start": 1304.96,
+      "duration": 4.44
+    },
+    {
+      "text": "And one of the best way to cut a scene",
+      "start": 1342.24,
+      "duration": 5.439
+    },
+    {
+      "text": "like this is just take off the inputs",
+      "start": 1345.12,
+      "duration": 6.679
+    },
+    {
+      "text": "with a little bit of dry wet.",
+      "start": 1347.679,
+      "duration": 4.12
+    },
+    {
+      "text": "So yeah, that's all. I'm going to upload",
+      "start": 1356.08,
+      "duration": 5.839
+    },
+    {
+      "text": "the entire session in a wave format in",
+      "start": 1358.96,
+      "duration": 5.199
+    },
+    {
+      "text": "my gumrod. If you like what I'm doing",
+      "start": 1361.919,
+      "duration": 4.24
+    },
+    {
+      "text": "here with this series, like and",
+      "start": 1364.159,
+      "duration": 3.52
+    },
+    {
+      "text": "subscribe and see you in the next",
+      "start": 1366.159,
+      "duration": 4.52
+    },
+    {
+      "text": "chapter.",
+      "start": 1367.679,
+      "duration": 3.0
+    },
+    {
+      "text": "Heat. Heat.",
+      "start": 1371.44,
+      "duration": 3.0
+    }
+  ],
+  "full_text": "Today we're going to talk about how to make drones. So, drones or ambient sounds in general are one of the most important elements in almost every kind of media project. They work like a sonic carpet that set the moods or define the space of a specific scene. Could be a film, a game, or even a trailer. They are fundamental because they help that specific moment resonate with us and with our feelings. They can bring suspense, danger, adrenaline, or calm, following the emotions up and down just like music does in a movie. And of course, they need to support the dynamics of the other sounds. Now, there are three main pillars for crafting good drones. and they are layering, movement, and special effects. I will build mine using three different layers. The first one is a wave table VCO, one of the best way to create evolving and morphing tones. Feedback loops to add noise, depth, unpredictability and randomness, and granular synthesis, my favorite one, to give those reach and full of detailed textures. For the movements, we're going to modulate the filters, the more of the VCO, and a bunch of other stuff. As always, if you like this type of content, like and subscribe. Let's dive in. So, this patch will be really simple, actually. As I said, we're going to use three different layers. The first one is a wavetable VCO. The piston wavetable VCOs in general are really good for crafting drones because you can morph between different waveforms and this uh help the movement inside the system. The second layer will be a feedback loop. I'm going to use uh of course the Melotus Versio. And the last layer will be a granular processor. We're going to use Arbor from Instro. So I will patch every sound source inside different filters. I'm going to modulate the filters and the sound source itself. And this is the patch. I'm going to include a PDF in my description. Really unlikely. I'm still waiting for my rock mixer. So for today, we have to mix everything inside the mix from 2 HP. And since it has just a mono output, we're going to create the stereo image at the end of the chain with a mimophone, the delay and the fake site pro trying different reverbs. So let's start. I'm going to patch the two VCO from Piston Honda separately inside two different channel of VCA. And this is because I'm going to use the second VCO one octave below. And I'm going to modulate the volume just to have it sometimes. And this will create the first type of movement. I'm going to take the mix out and go in the first channel of the 2HP mix. Going to patch into the mimphone and with the stereo output, we're going to patch the mop phone inside the FX8 Pro. And from here, I'm going to my audio device. So, let's hear the first VCO, the different waveforms, and decide the pitch. We can crank up the FM. So, this is the second one. And I'm going to link the ZU VCO and I'm going to use this one octave below. Before going into the mix, I'm going to go inside the low pass filter and we're going to cut off the bike harmonic. So if you add the reverb, you already have a nice drone. So to add movements, I'm going to slowly modulate the axis of the piston with really slows LFO. This is just one VCO with another LFO. I'm going to modulate the volume of the sub. We can also get out from the distortion output. We can play with the resonance and also other parameters that add hyperarammonic to give more ash texture. We can play with the contact of the 100 grit. And for now it's just a wave table going inside the filter and the effects. My favorite thing is to add reverb after filters here with the modular or in the door with ableton is the same because it creates some super nice timber like with the delay for example. You can also turn on the mode on Pisunda. It allows you to use an external sound source. In this case, nothing is plugged. So, it's going to use the second VCO and it's going to more fit inside the wave shaper. Okay, this is the first layer. Let's start with the second one. So if you don't know what a feedback loop is, it's really simple. It's consistent split the output of a model and go inside the input again. One advice is don't let it unattenuated because you can lost the control of the feedback. Say that in model like this like meotus virtue that is a sort of granular delay. You can reach feedback loops also without any input. Let's hear it. We're going to take the output going to second channel of the mix. We don't hear nothing. If we increase the feedback is coming. The delay line are really near each other and you still have control of the parameters. For example, the sub octave generator before the mix. We're going to go inside the Belgrite. Let's start. Yeah. With a low pass reverb. This is the resonance. And you already have a soundtrack for a film. You can add the delay. So now if we mix the two sound sorts together. What we can do is use the right output since we are coming out mono. Unlucky. But we're going to patch it inside the input. But first of all, we have to attenuate that. I'm going to do it with the mats. And this is the amount of the input in the meloous versio. If you want to create the best feedback loop with the input, you have to go down with a co here. two sounds are together. Let's modulate the tone. What I really like in this situations is to try shimmer reverb. It really creates amazing soundscape. Just to be clear, this patch will be like a lowfi patch. The resonance of the bed grat is something amazing. The activating the external mode in the piston we will have more tonal sounds. The sound that the meloous is generating alone is awesome. My favorite parameters is the tone. I love to create sub octave the tuned sound. You can hear it. And this is just a feedback loop. Okay, let's start with the third layer. Let's patch the arbar on the third channel. I'm really sad to do it in mono, but today I have to do like this. I always use it in stereo because generating stereo grains left and the right is amazing for the space, but I promise the next one will be in stereo. So, I deleted every recording here. We're going to do it right now. We're going to record two or three layers and I'm going to do it in a random way just to show you that with Arbar, even if you record a click, you can come out with something amazing. It's amazing also because with the mod input, I'm not pretty sure you can see it. With this input, you can manipulate the amount of the effects inside and they are amazing. There is the reverb, delay, the stereo image as a sound source. I'm using localas from Noise Engineering. It's right here. I'm going to record two or three difference layer. I don't know. Okay, the second one I'm going to do it with a microphone. You can hear the feedback. For the third layer, I'm going to use my last module sample drum from Erica Syn. We're going to take we're going to trigger different random sample. Let's go on the first layer that it was the local kiteras. With the intensity, I decide how many grains we are generating. The envelope of the grains, you can choose the length. So with a small amount of length will create this sort of lowfi sounds. The best thing in arbar is that with this knob, you can control the randomization of the pitch. And this one is quantized. And yeah, let's see the first one. This is the position of the recording. But the best way for me is to go in the follow mode. And this will automate the movement inside the layer. You can go forward, in reverse. Let's hear it. You can also decide the pitch. I'm going to use the channel three of mats to control the mod. You can still play. You can still play with the microphone. Mix it with the other outputs. As you are hearing this layer of three different sounds will give us three different tonalities. One is the high and ethereal part. One is the sub. Let's try to change layer. So in arbar as we say the best thing is this quantized pitch randomization and if you can cap it is Another good thing is the dub control. It allows you to overdubbing. So right now I'm going to whistle inside the microphone and this will create this amazing tone. Let's add the other layers. With the sample and old, I'm going to modulate which layer is playing. Yeah. We add delay with the mimophone. You can also go in a sort of flange effect or comb filtering. This will create a metallic textures. Let's try with another kind of shimmer. With an LFL, we can modulate the length of the grains. As you can see, it's going shorter or longer. And of course, we can just go inside the last filter, for example, Morgasmatron. It's an amazing dual filter. I'm going to set it as low pass filter. So right now we are filtering all the layers. And since we have a shimmer at the end of the chain, this will create this nice hyperarmonic. So since we are filtering everything that is coming out is just the low part. And what I really love is creating something inside that low section that will affect the effects because for example here we are cutting everything. But if we crank up the resonance you are hearing this nice texture. That's why I love the effects after the filters cuz it create a nice texture environment in the low subsection. This is really amazing. This will create a sort of harmonic correlation in the low sub part. And since we are using reverb in this case shimmering, all the low harmonics will affect the final results. Let's use the saturated reverb. We can modulate the low cut of 100 grit. Right now you are in another movie a variable again. Let's crank up Arbar again. Those are the high content texture that is creating randomly playing different layers sub parts. So right now I'm using the low cut of the morgazmatron to decide the amount of tension and dynamics. Remember in a scene the tension is determined by the high frequency because with the low frequency you have more suspense. With the high frequency you start to have tension. It's like something is coming. You know we are starting to hear more clearly the modulation of the filter. And of course the type of the reverb is really important because it decide a sort of mood. Also the resonance of Morgasmatron is nice. Can also crank up the drive. Delay come into the reverb. Heat up here. And one of the best way to cut a scene like this is just take off the inputs with a little bit of dry wet. So yeah, that's all. I'm going to upload the entire session in a wave format in my gumrod. If you like what I'm doing here with this series, like and subscribe and see you in the next chapter. Heat. Heat.",
+  "duration_seconds": 1374.44,
+  "segment_count": 312,
+  "word_count": 1986,
+  "char_count": 10567
+}

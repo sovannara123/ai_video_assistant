@@ -1,0 +1,28 @@
+[
+  {
+    "id": "iFkph3sCmw0_chunk_0",
+    "text": "in this video I'm going to show you how to quickly create creepy dark background ambiances and so this is the default preset in vital and I'm just going to change this to a sine wave and also activate the other two oscillators here and I just want to create a full sound to start with so let's maybe pitch this one up a bit and this one down a bit and maybe give the middle one a few voices a bit of detune I don't really care about the tuning of all of these because I want a dissonant sound anyways and we're gonna wash all of this out with a lot of Reverb so let's go to the effects section and just enable a bit of distortion here use the Reverb and afterwards a filter because for this kind of Ambience we don't need a lot of high-end I'm actually just gonna set the mix to 100 make it a Reverb a bit longer increase the size and to give this a bit more movement I'm just going to use other for one and map this to the global voice transpose so we just get an overall pitch movement but I really just want a very small subtle movement so just use a very low amount here and we are also not going to use the full amount here and then make this a bit slower because we don't want the pitch movement to be too Audible we can also use the same LFO to modulate a few other things so maybe the pitch on for one again just very small amount maybe the same on this middle one here also again very small amount and we could also give this filter a bit of movement probably make this even slower and now let's maybe play a few notes together a really low note and then maybe just two octaves higher here and see how that sounds longer and now we can add more Reverb to this wash it out even more so just grab any Reverb you'll like and again 100 here although you can play around with this of course this depends on what kind of sound you're going for increase Decay time a bit of size stereo density and maybe a compressor afterwards we can even stack more reverbs so maybe use maybe this one here and we can use any here just to shape things a bit more and once you're satisfied with this you can actually also start layering in other stuff so if you want to give this more of an organic feel then actually you can just use any recordings that you have and layer them on top of this maybe something like this reduce the volume drastically and also just pitch it down a lot and layer even more stuff there and you can just sort of sprinkle these shorter samples wherever you want and build your background Ambience with",
+    "metadata": {
+      "video_id": "iFkph3sCmw0",
+      "url": "https://youtube.com/watch?v=iFkph3sCmw0",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "token_count": 535,
+      "word_count": 500,
+      "video_duration": 345.38
+    }
+  },
+  {
+    "id": "iFkph3sCmw0_chunk_1",
+    "text": "you have and layer them on top of this maybe something like this reduce the volume drastically and also just pitch it down a lot and layer even more stuff there and you can just sort of sprinkle these shorter samples wherever you want and build your background Ambience with them so now I have this Zone as well and this sound here and now I'm just gonna group all of them together and I'm actually just going to use this entire chain and just move it onto the group so everything is affected by the reverbs and then we can just see how this sounds all together so now we get this small rumbly Accents in the background and we can just build a really full Ambience with that can also just bounce this to audio and very often these sound interesting when they're reversed so let's see what this sounds like foreign pitches here in your synthesizer and use different samples different reverbs and then you can also create multiple versions of this and just layer them on top of each other each at a really low volume and then you can get very interesting and foresigning background ambians",
+    "metadata": {
+      "video_id": "iFkph3sCmw0",
+      "url": "https://youtube.com/watch?v=iFkph3sCmw0",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "token_count": 216,
+      "word_count": 201,
+      "video_duration": 345.38
+    }
+  }
+]

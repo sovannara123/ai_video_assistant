@@ -35,10 +35,7 @@ class IngestionWorker:
         self.queue.reset_processing()
 
     def run_once(self) -> dict:
-        """
-        Process ALL pending items in queue
-        Returns summary report
-        """
+       
         pending = self.queue.get_all_pending()
 
         if not pending:
